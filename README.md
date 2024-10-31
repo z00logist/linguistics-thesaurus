@@ -24,7 +24,6 @@ In this Thesaurus you will often see links to Wikipedia. You can enhance your st
     - [Syntax](Language/Inner-Structure/Syntax/README.md)
 - [Linguistics](Linguistics/README.md)
   - [Types of Linguistics](Linguistics/Types/README.md)
-    - [Theoretical Linguistics](Linguistics/Types/Theoretical-Linguistics/README.md)
     - [Sociolinguistics](Linguistics/Types/Sociolinguistics/README.md)
     - [Psycholinguistics](Linguistics/Types/Psycholinguistics/README.md)
     - [Cognitive Linguistics](Linguistics/Types/Cognitive-Linguistics/README.md)
