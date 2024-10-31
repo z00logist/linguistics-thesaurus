@@ -4,11 +4,11 @@ Languages can be classified based on their morphological characteristics. This s
 
 ## Contents
 
-- [Agglutinative Languages](Agglutinative-Languages.md)
-- [Isolating Languages](Isolating-Languages.md)
-- [Fusional Languages](Fusional-Languages.md)
-- [Polysynthetic Languages](Polysynthetic-Languages.md)
-- [Analytical Languages](Analytical-Languages.md)
+- [Agglutinative Languages](Agglutinative.md)
+- [Isolating Languages](Isolating.md)
+- [Fusional Languages](Fusional.md)
+- [Polysynthetic Languages](Polysynthetic.md)
+- [Analytical Languages](Analytical.md)
 
 ---
 
