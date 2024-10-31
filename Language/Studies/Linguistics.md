@@ -7,16 +7,13 @@ The scientific study of language, encompassing its structure, use, and historica
 
 ## Key Areas
 
-- **Phonetics and Phonology**: Study of sounds.
-- **Morphology**: Study of word formation.
-- **Syntax**: Study of sentence structure.
-- **Semantics and Pragmatics**: Study of meaning.
+- **Computational Linguistics**: Language through numbers and statistics.
 - **Sociolinguistics**: Language in social contexts.
 - **Psycholinguistics**: Cognitive aspects of language.
 
 ## Related Topics
 
-- [Types of Linguistics](Types-of-Linguistics/README.md)
+- [Types of Linguistics](Types/README.md)
 
 ## External Links
 
