@@ -9,7 +9,9 @@ Languages can be classified based on their morphological characteristics. This s
 - [Fusional Languages](Fusional.md)
 - [Polysynthetic Languages](Polysynthetic.md)
 - [Analytical Languages](Analytical.md)
-
+- [Other](Other/README.md)
+    - [Sign-Language](Other/Sign-Language.md)
+    - [Signal-System](Other/Signal-Systems.md)
 ---
 
 [Back to Language](../README.md)
