@@ -12,6 +12,7 @@ Languages can be classified based on their morphological characteristics. This s
 - [Other](Other/README.md)
     - [Sign-Language](Other/Sign-Language.md)
     - [Signal-System](Other/Signal-Systems.md)
+    - [Constructed Language](Other/Constructed-Language.md)
 ---
 
 [Back to Language](../README.md)
