@@ -18,6 +18,9 @@ Computational linguistics is an interdisciplinary field concerned with the compu
 - [Large Language Models (LLMs)](Large-Language-Models.md)
 - [Natural Language Processing](Natural-Language-Processing.md)
 - [Computational Syntax](Computational-Syntax.md)
+- [Cosine Similarity](Computational-Syntax.md)
+- [Word Error Rate](Word-Error-Rate.md)
+- [Topic Modeling](Topic-Modeling.md)
 
 ---
 

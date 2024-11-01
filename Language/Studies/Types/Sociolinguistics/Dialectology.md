@@ -14,7 +14,11 @@ Dialectology is the study of regional differences in language, focusing on varia
 - **Linguistic Atlases**: Creating maps showing linguistic features.
 
 ## Examples
-
+- **German Dialects**:
+  - **Bavarian**: Characterized by unique vowel sounds and verb conjugations.
+  - **Swabian**: Known for distinct intonation and pronunciation differences, especially with consonants.
+  - **Low German**: A dialect family with many unique words, preserving older Germanic linguistic features.
+  
 - **The Survey of English Dialects**: Documented English dialects across England.
 - **Atlas Linguistique de la France**: Early linguistic atlas mapping French dialects.
 
@@ -31,6 +35,7 @@ Dialectology is the study of regional differences in language, focusing on varia
 ## References
 
 - Chambers, J. K., & Trudgill, P. (1998). *Dialectology*. Cambridge University Press.
+- König, W., & Auer, P. (2003). *The Dialects of Modern German*. Routledge.
 
 ---
 

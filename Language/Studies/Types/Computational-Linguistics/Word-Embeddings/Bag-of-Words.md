@@ -28,8 +28,7 @@ The Bag of Words model is a simplifying representation used in natural language 
 ## Related Topics
 
 - [Word Embeddings](Word-Embeddings/README.md)
-- [N-gram Models](N-gram-Models.md)
-- [Text Classification](Text-Classification.md)
+- [N-gram Models](../N-gram-Models.md)
 
 ## External Links
 

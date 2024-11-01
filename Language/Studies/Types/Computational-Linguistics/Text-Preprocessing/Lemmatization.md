@@ -40,6 +40,7 @@ Lemmatization is the process of reducing words to their base or dictionary form,
 
 - [Lemmatization - Wikipedia](https://en.wikipedia.org/wiki/Lemmatisation)
 - [SpaCy Lemmatization](https://spacy.io/usage/linguistic-features#lemmatization)
+- [Russian Lemmatization](https://pymorphy2.readthedocs.io/en/stable/)
 
 ## References
 

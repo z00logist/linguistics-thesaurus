@@ -6,6 +6,7 @@ Text preprocessing involves transforming raw text into a format that can be effe
 
 - [Text Preprocessing](Text-Preprocessing.md)
 - [Tokenization](Tokenization.md)
+- [Segmentation](Segmentation.md)
 - [Stop Words](Stop-Words.md)
 - [Stemming](Stemming.md)
 - [Lemmatization](Lemmatization.md)

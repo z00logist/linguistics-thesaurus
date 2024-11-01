@@ -30,7 +30,7 @@ Large Language Models are neural network models with a large number of parameter
 
 - [Transformers](Transformers.md)
 - [Neural Networks in NLP](Neural-Networks-in-NLP.md)
-- [Natural Language Generation](Natural-Language-Generation.md)
+- [Attention Mechanisms](Attention-Mechanisms.md)
 
 ## External Links
 

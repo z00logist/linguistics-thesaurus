@@ -14,8 +14,6 @@ A structured system of communication used by humans, consisting of grammar and v
 ## Related Topics
 
 - [Types of Languages](Types-of-Languages/README.md)
-- [Signal Systems](Signal-Systems.md)
-- [Sign Languages](Sign-Languages.md)
 
 
 ## References
