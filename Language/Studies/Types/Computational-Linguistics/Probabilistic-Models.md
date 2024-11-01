@@ -23,7 +23,6 @@ Probabilistic models in computational linguistics use probability theory to mode
 
 - [N-gram Models](N-gram-Models.md)
 - [Hidden Markov Models](Hidden-Markov-Models.md)
-- [Statistical NLP](Statistical-NLP.md)
 
 ## External Links
 
