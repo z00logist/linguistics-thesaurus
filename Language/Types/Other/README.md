@@ -4,8 +4,9 @@ These language types are categorized separately because they are distinct from s
 
 ## Contents
 
-- [Sign-Language](Sign-Language.md)
-- [Signal-System](Signal-Systems.md)
+- [Constructed Language](Constructed-Language.md)
+- [Sign Language](Sign-Language.md)
+- [Signal System](Signal-Systems.md)
 ---
 
 [Back to Types](../README.md)
