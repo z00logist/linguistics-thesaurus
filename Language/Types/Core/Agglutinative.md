@@ -4,9 +4,9 @@ Languages in which words are formed through the combination of morphemes, each a
 
 ## Characteristics
 
-- **Transparent Morpheme Boundaries**: Each morpheme remains unchanged when combined.
-- **One-to-One Morpheme-Meaning Correspondence**: Each morpheme represents a single grammatical meaning.
-- **Predictable Morphology**: Morphological rules are consistent and regular.
+- Each morpheme remains unchanged when combined.
+- Each morpheme represents a single grammatical meaning.
+- Morphological rules are consistent and regular.
 
 ## Examples
 

@@ -4,9 +4,9 @@ Communication systems used by animals, which lack the complexity and generative 
 
 ## Characteristics
 
-- **Limited Set of Signals**: Finite number of messages.
-- **Non-Generative**: Cannot create new meanings by combining signals.
-- **Context-Dependent**: Signals often tied to immediate context.
+- Finite number of messages.
+- Cannot create new meanings by combining signals.
+- Signals often tied to immediate context.
 
 ## Examples
 
@@ -17,8 +17,8 @@ Communication systems used by animals, which lack the complexity and generative 
 
 ## Key Differences from Human Language
 
-- **Productivity**: Human language can produce infinite messages; animal signals cannot.
-- **Displacement**: Human language can refer to past and future events; animal signals are typically about the present.
+- Human language can produce infinite messages; animal signals cannot.
+- Human language can refer to past and future events; animal signals are typically about the present.
 
 ## References
 

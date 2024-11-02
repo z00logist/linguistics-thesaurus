@@ -4,21 +4,19 @@ Natural languages that use the visual-manual modality to convey meaning, possess
 
 ## Characteristics
 
-- **Visual-Manual Modality**: Uses hand shapes, movements, facial expressions.
-- **Complex Grammar**: Fully developed linguistic systems.
-- **Not Universal**: Different regions have different sign languages.
+- Uses hand shapes, movements, facial expressions.
+- Fully developed linguistic systems.
+- Different regions have different sign languages.
 
 ## Examples
 
 - **American Sign Language (ASL)**:
-  - Used in the United States and parts of Canada.
 - **British Sign Language (BSL)**:
-  - Used in the United Kingdom.
 
 ## Misconceptions
 
-- **Not Derived from Spoken Language**: Sign languages are independent and not simply signed versions of spoken languages.
-- **Equally Complex**: As sophisticated as spoken languages in terms of grammar and expression.
+- Sign languages are independent and not simply signed versions of spoken languages.
+- As sophisticated as spoken languages in terms of grammar and expression.
 
 ## References
 

@@ -4,9 +4,9 @@ Languages that convey grammatical relationships without using inflectional morph
 
 ## Characteristics
 
-- **Minimal Inflection**: Few or no inflectional morphemes.
-- **Use of Particles and Prepositions**: Function words indicate grammatical relationships.
-- **Fixed Word Order**: Syntax plays a crucial role in meaning.
+- Few or no inflectional morphemes.
+- Function words indicate grammatical relationships.
+- Syntax plays a crucial role in meaning.
 
 ## Examples
 

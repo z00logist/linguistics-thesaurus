@@ -4,9 +4,9 @@ Languages in which words are typically composed of a single morpheme, and gramma
 
 ## Characteristics
 
-- **Low Morpheme-to-Word Ratio**: Words are often monomorphemic.
-- **Little to No Inflection**: Minimal use of prefixes or suffixes.
-- **Reliance on Syntax**: Grammatical functions indicated by word order.
+- Words are often monomorphemic.
+- Minimal use of prefixes or suffixes.
+- Grammatical functions indicated by word order.
 
 ## Examples
 

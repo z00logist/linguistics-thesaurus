@@ -4,31 +4,20 @@ Pidgins and creoles are languages that develop from contact between speakers of 
 
 ## Pidgins
 
-- **Definition**: Simplified languages that develop for communication between groups.
-- **Characteristics**: Limited vocabulary, simplified grammar, no native speakers.
+- Pidgins are Simplified languages that develop for communication between groups.
+- They have imited vocabulary, simplified grammar, no native speakers.
 
 ## Creoles
 
-- **Definition**: Fully developed languages that originate from pidgins when learned by children as a native language.
-- **Characteristics**: Expanded vocabulary, complex grammar, native speaker community.
+- Creoles are fully developed languages that originate from pidgins when learned by children as a native language.
+- Unlike pidgins, creoles have xpanded vocabulary, complex grammar, native speaker community.
 
 ## Development Processes
 
-- **Substrate Influence**: Features from the native languages of speakers.
-- **Superstrate Influence**: Features from the dominant or colonizing language.
-- **Nativization**: Process by which a pidgin becomes a creole.
+- **Substrate Influence** -- features from the native languages of speakers.
+- **Superstrate Influence** -- features from the dominant or colonizing language.
+- **Nativization** -- process by which a pidgin becomes a creole.
 
-## Theories
-
-- **Monogenetic Theory**: Suggests all pidgins and creoles have a common origin.
-- **Universalist Approach**: Proposes innate language structures shape creole development.
-- **Substratist Perspective**: Emphasizes the role of substrate languages.
-
-## Applications
-
-- **Sociolinguistics**: Studying language and identity in post-colonial contexts.
-- **Language Preservation**: Documenting endangered pidgins and creoles.
-- **Language Education**: Addressing creole-speaking students in education systems.
 
 ## Related Topics
 

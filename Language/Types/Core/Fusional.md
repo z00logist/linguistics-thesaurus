@@ -4,9 +4,9 @@ Languages in which morphemes may encode multiple grammatical meanings simultaneo
 
 ## Characteristics
 
-- **Morphological Fusion**: Affixes combine multiple grammatical categories (e.g., tense, number, case).
-- **Complex Inflection**: Words change form to express grammatical relations.
-- **Less Transparent Morphology**: Difficult to segment words into individual morphemes.
+- Affixes combine multiple grammatical categories (e.g., tense, number, case).
+- Words change form to express grammatical relations.
+- Difficult to segment words into individual morphemes.
 
 ## Examples
 

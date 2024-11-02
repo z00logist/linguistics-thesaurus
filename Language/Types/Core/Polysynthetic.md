@@ -4,9 +4,9 @@ Languages that use extensive affixation to express complex meanings within singl
 
 ## Characteristics
 
-- **High Morpheme-to-Word Ratio**: Words can consist of many morphemes.
-- **Incorporation**: Nouns and verbs may combine to form a single word.
-- **Express Complex Ideas**: Entire sentences can be expressed as one word.
+- Words can consist of many morphemes (high morpheme-to-word ratio).
+- Nouns and verbs may combine to form a single word.
+- Entire sentences can be expressed as one word.
 
 ## Examples
 
