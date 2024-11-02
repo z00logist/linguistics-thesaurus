@@ -1,9 +1,5 @@
 # Sociolinguistic Variables
 
-A sociolinguistic variable is a linguistic feature that varies among speakers and correlates with social factors like region, socioeconomic status, ethnicity, or gender.
-
-## Definition
-
 A linguistic variable is an element of language that can have different forms among speakers. These different forms are known as variants. The way speakers choose between these variants can reflect their social identity or group membership.
 
 ## Examples

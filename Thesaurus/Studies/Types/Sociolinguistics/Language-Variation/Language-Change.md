@@ -10,6 +10,9 @@ Language change is the evolution of language forms and structures over time, inf
 - **Semantic Change**
 - **Lexical Change**
 
+
+### Great Vowel Shift: 
+
 ![Great Vowel Shift](../../../../assets/Great-Vowel-Shift.png)
 
 
