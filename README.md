@@ -21,6 +21,7 @@ In this Thesaurus you will often see links to Wikipedia. You can enhance your st
     - [Phonetics](Language/Inner-Structure/Phonetics/README.md)
     - [Phonology](Language/Inner-Structure/Phonology/README.md)
     - [Morphology](Language/Inner-Structure/Morphology/README.md)
+    - [Semantics](Language/Inner-Structure/Semantics/README.md)
     - [Syntax](Language/Inner-Structure/Syntax/README.md)
   - [Studies](Language/Studies/README.md)
     - [Types of Studies](Language/Studies/Types/README.md)

@@ -1,21 +1,25 @@
 # Morphology
 
-Morphology is the branch of linguistics concerned with the form and internal structure of words.
+Morphology is the branch of linguistics that studies the structure and formation of words. This section explores the basic components of morphology and more advanced topics for in-depth understanding.
 
 ## Contents
 
-- [Morphology](Morphology.md)
-- [Morpheme](Morpheme.md)
-- [Free and Bound Morphemes](Free-and-Bound-Morphemes.md)
-- [Inflectional vs. Derivational Morphemes](Inflectional-vs-Derivational-Morphemes.md)
-- [Word Formation](Word-Formation.md)
-- [Affix](Affix.md)
-- [Compounding](Compounding.md)
-- [Allomorph](Allomorph.md)
-- [Morphological Typology](Morphological-Typology.md)
-- [Vowel Harmony](Vowel-Harmony.md)
-- [Suppletion](Suppletion.md)
+### 1. [Core](Core/README.md)
+- [Overview of Morphology](Core/Morphology.md)
+- [Morpheme](Core/Morpheme.md)
+- [Affix](Core/Affix.md)
+- [Free and Bound Morphemes](Core/Free-and-Bound-Morphemes.md)
+
+### 2. [Advanced](Advanced/README.md)
+- [Allomorph](Advanced/Allomorph.md)
+- [Compounding](Advanced/Compounding.md)
+- [Distributed Morphology](Advanced/Distributed-Morphology.md)
+- [Inflectional vs. Derivational Morphemes](Advanced/Inflectional-vs-Derivational-Morphemes.md)
+- [Morphological Typology](Advanced/Morphological-Typology.md)
+- [Suppletion](Advanced/Suppletion.md)
+- [Vowel Harmony](Advanced/Vowel-Harmony.md)
+- [Word Formation](Advanced/Word-Formation.md)
 
 ---
 
-[Back to Inner Structure](../README.md)
+[Back to Inner Structure of Language](../README.md)

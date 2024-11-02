@@ -1,21 +1,23 @@
 # Phonology
 
-Phonology is the study of how sounds function within a particular language or languages, focusing on the system and patterns of sounds that convey meaning.
+Phonology is the branch of linguistics concerned with the systematic organization of sounds in languages. This section covers both fundamental concepts and more detailed aspects of phonological analysis.
 
 ## Contents
 
-- [Phonology](Phonology.md)
-- [Phoneme](Phoneme.md)
-- [Allophone](Allophone.md)
-- [Phonotactics](Phonotactics.md)
-- [Minimal Pair](Minimal-Pair.md)
-- [Palatalization](Palatalization.md)
-- [Vowel Harmony](Vowel-Harmony.md)
-- [Phonological Processes](Phonological-Processes.md)
-- [Prosody](Prosody.md)
-- [Intonation](Intonation.md)
-- [Tone](Tone.md)
+### 1. [Core](Core/README.md)
+- [Phonology Overview](Core/Phonology.md)
+- [Phoneme](Core/Phoneme.md)
+- [Minimal Pair](Core/Minimal-Pair.md)
+- [Allophone](Core/Allophone.md)
+
+### 2. [Advanced](Advanced/README.md)
+- [Phonological Processes](Advanced/Phonological-Processes.md)
+- [Phonotactics](Advanced/Phonotactics.md)
+- [Intonation](Advanced/Intonation.md)
+- [Prosody](Advanced/Prosody.md)
+- [Tone](Advanced/Tone.md)
+- [Vowel Harmony](Advanced/Vowel-Harmony.md)
 
 ---
 
-[Back to Inner Structure](../README.md)
+[Back to Language](../README.md)

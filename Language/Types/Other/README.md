@@ -1,12 +1,14 @@
-# Other Types of Languages
+# Other Language Types
 
-These language types are categorized separately because they are distinct from spoken and written linguistic structures. While categories like Agglutinative, Analytic, and Synthetic refer to morphological and grammatical structures in spoken languages, Sign Languages and Signal Systems operate through non-verbal, often visual, or gestural means. This unique mode of communication and transmission sets them apart from traditional spoken language classifications.
+The **Other** section includes unique or specialized types of languages that do not fit into the main structural categories, such as constructed languages, language isolates, and sign languages.
 
 ## Contents
-
-- [Constructed Language](Constructed-Language.md)
+- [Constructed Languages](Constructed-Language.md)
+- [Language Isolates](Language-Isolates.md)
+- [Pidgins and Creoles](Pidgins-and-Creoles.md)
 - [Sign Language](Sign-Language.md)
-- [Signal System](Signal-Systems.md)
+- [Signal Systems](Signal-Systems.md)
+
 ---
 
-[Back to Types](../README.md)
+[Back to Types of Languages](../README.md)
