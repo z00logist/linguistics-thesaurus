@@ -1,28 +1,24 @@
 # Comparative Method
 
-The Comparative Method is a systematic approach used in historical linguistics to reconstruct proto-languages by comparing features of related languages.
+The Comparative Method is a systematic approach in historical linguistics used to reconstruct proto-languages by analyzing and comparing features of related languages.
 
 ## Steps in the Comparative Method
 
-1. **Assemble Cognate Lists**: Collect words with similar forms and meanings across languages.
-2. **Establish Sound Correspondences**: Identify regular patterns of sound changes.
-3. **Reconstruct Proto-Forms**: Infer the ancestral forms of words.
-4. **Formulate Sound Laws**: Describe the phonetic changes that have occurred.
-5. **Check for Regularity**: Ensure that sound changes apply consistently.
+Linguists follow a structured process when using the Comparative Method:
+
+1. Assemble cognate lists by collecting words that have similar forms and meanings across related languages.
+2. Identify sound correspondences by observing regular patterns of phonetic changes.
+3. Reconstruct proto-forms to infer the ancestral versions of words.
+4. Formulate sound laws to describe the systematic changes that have occurred.
+5. Check for regularity to ensure that the proposed sound changes apply consistently across the data.
 
 ## Principles
 
-- **Regularity of Sound Change**: Sound changes are systematic and predictable.
-- **Directionality**: Certain types of changes are more likely than others.
-- **Occam's Razor**: Prefer the simplest explanation that accounts for the data.
+The Comparative Method relies on key principles:
 
-
-
-## Related Topics
-
-- [Sound Change](Sound-Change.md)
-- [Internal Reconstruction](Internal-Reconstruction.md)
-- [Language Families](Language-Families.md)
+- The regularity of sound change suggests that changes in pronunciation are systematic and can be predicted.
+- Directionality indicates that certain types of phonetic changes are more common or likely than others.
+- Occam's Razor is applied, favoring the simplest explanation that fits the data.
 
 ## External Links
 
@@ -31,9 +27,9 @@ The Comparative Method is a systematic approach used in historical linguistics t
 
 ## Sources
 
-- Campbell, L. (2013). *Historical Linguistics: An Introduction*. MIT Press.
-- Crowley, T., & Bowern, C. (2010). *An Introduction to Historical Linguistics*. Oxford University Press.
+Campbell, L. (2013). *Historical Linguistics: An Introduction*. MIT Press.  
+Crowley, T., & Bowern, C. (2010). *An Introduction to Historical Linguistics*. Oxford University Press.
 
 ---
 
-[Back to Historical-Comparative Linguistics](README.md)
+[Back to Historical-Comparative Linguistics](../README.md)

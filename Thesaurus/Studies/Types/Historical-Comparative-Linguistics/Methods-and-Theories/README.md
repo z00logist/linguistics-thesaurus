@@ -7,8 +7,6 @@ This section delves into the methodologies and theoretical frameworks used in hi
 - [Etymology](Etymology.md)
 - [Glottochronology](Glottochronology.md)
 - [Language Classification](Language-Classification.md)
-- [Typological Classification](Typological-Classification.md)
-- [Wave Theory](Wave-Theory.md)
 
 ---
 

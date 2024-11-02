@@ -21,8 +21,6 @@ Historical-comparative linguistics is the study of languages to understand their
 - [Etymology](Methods-and-Theories/Etymology.md)
 - [Glottochronology](Methods-and-Theories/Glottochronology.md)
 - [Language Classification](Methods-and-Theories/Language-Classification.md)
-- [Typological Classification](Methods-and-Theories/Typological-Classification.md)
-- [Wave Theory](Methods-and-Theories/Wave-Theory.md)
 
 ### 4. [Reconstruction Techniques](Reconstruction-Techniques/README.md)
 - [Internal Reconstruction](Reconstruction-Techniques/Internal-Reconstruction.md)

@@ -1,31 +1,31 @@
 # Language Contact
 
-Language contact occurs when speakers of different languages or dialects interact regularly, leading to linguistic influence and changes.
+Language contact occurs when speakers of different languages or dialects interact frequently, leading to mutual influence and linguistic change.
 
 ## Types of Contact-Induced Change
 
-- **Borrowing**: Adoption of words, phrases, or structures from one language into another.
-- **Code-Switching**: Alternating between languages within a conversation or utterance.
-- **Pidgins and Creoles**: New languages that develop from prolonged contact between groups without a common language.
-- **Language Shift**: When a community gradually abandons its native language in favor of another.
+Several outcomes can result from language contact:
+
+- Borrowing involves adopting words, phrases, or even structural elements from one language into another.
+- Code-switching happens when speakers alternate between languages within a conversation.
+- Pidgins and creoles are new languages that form when groups without a shared language develop a simplified means of communication, which may evolve into a fully developed creole.
+- Language shift occurs when a community gradually moves from using its native language to adopting another.
 
 ## Factors Influencing Language Contact
 
-- **Social Dynamics**: Power relations, prestige, and attitudes toward languages.
-- **Proximity**: Geographic closeness facilitating interaction.
-- **Trade and Migration**: Economic and population movements promoting contact.
+Certain factors promote and shape language contact:
+
+- Social dynamics, including power relations and the prestige associated with certain languages, influence how languages interact.
+- Geographic proximity can make it easier for communities to interact and exchange linguistic features.
+- Trade and migration facilitate contact as economic exchanges and population movements bring speakers of different languages together.
 
 ## Effects
 
-- **Lexical Borrowing**: Incorporation of foreign vocabulary.
-- **Structural Borrowing**: Adoption of phonological, morphological, or syntactic features.
-- **Language Convergence**: Languages becoming more similar due to prolonged contact.
+Language contact can have several effects:
 
-## Related Topics
-
-- [Sociolinguistics](../Sociolinguistics/README.md)
-- [Pidgins and Creoles](Pidgins-and-Creoles.md)
-- [Dialectology](Dialectology.md)
+- Lexical borrowing introduces foreign vocabulary into a language.
+- Structural borrowing affects phonology, morphology, or syntax, incorporating elements from another language.
+- Language convergence results in languages becoming more alike over time due to sustained contact.
 
 ## External Links
 
@@ -34,9 +34,9 @@ Language contact occurs when speakers of different languages or dialects interac
 
 ## Sources
 
-- Thomason, S. G., & Kaufman, T. (1988). *Language Contact, Creolization, and Genetic Linguistics*. University of California Press.
-- Winford, D. (2003). *An Introduction to Contact Linguistics*. Blackwell.
+Thomason, S. G., & Kaufman, T. (1988). *Language Contact, Creolization, and Genetic Linguistics*. University of California Press.  
+Winford, D. (2003). *An Introduction to Contact Linguistics*. Blackwell.
 
 ---
 
-[Back to Historical-Comparative Linguistics](README.md)
+[Back to Historical-Comparative Linguistics](../README.md)

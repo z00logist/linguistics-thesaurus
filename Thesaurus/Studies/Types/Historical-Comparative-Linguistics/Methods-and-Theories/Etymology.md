@@ -1,39 +1,19 @@
 # Etymology
 
-Etymology is the study of the origin and historical development of words. It traces how words have evolved in form and meaning over time.
+Etymology is the study of the origins and historical development of words. This field explores how words have changed in form and meaning over time.
 
 ## Essentials
 
-- **Word Origins**: Identifying the earliest known use and source of a word.
-- **Borrowing**: Words adopted from other languages.
-- **Compound Words**: Words formed by combining two or more existing words.
-- **Derivation**: Formation of new words using prefixes and suffixes.
-- **Semantic Change**: Evolution of word meanings.
+Etymology focuses on understanding word origins by identifying the earliest known use and source of a word. Borrowing refers to words adopted from other languages, while compound words are formed by combining existing ones. Derivation involves creating new words using prefixes or suffixes. Semantic change traces how meanings evolve over time.
 
 ## Methods
 
-- **Historical Documentation**: Analyzing written records to trace word usage.
-- **Comparative Linguistics**: Comparing cognates across languages.
-- **Phonological Analysis**: Understanding sound changes to link words historically.
-- **Morphological Analysis**: Examining word formation processes.
+Etymologists use several methods to trace word histories:
 
-## Challenges
-
-- **Lack of Records**: Gaps in historical documentation.
-- **Folk Etymology**: Misleading or incorrect popular explanations.
-- **Semantic Drift**: Changes in meaning that obscure original senses.
-
-
-## Notable Concepts
-
-- **Doublets**: Words in the same language derived from the same source but through different routes (e.g., "chief" and "chef").
-- **Calques**: Loan translations where a phrase is translated literally from another language.
-
-## Related Topics
-
-- [Semantic Change](Semantic-Change.md)
-- [Historical Linguistics](../Historical-Comparative-Linguistics.md)
-- [Lexicology](https://en.wikipedia.org/wiki/Lexicology)
+- Historical documentation involves analyzing written records to track how words were used over time.
+- Comparative linguistics looks at cognates in different languages to find common roots.
+- Phonological analysis helps understand sound changes that link words historically.
+- Morphological analysis studies the processes involved in word formation.
 
 ## External Links
 
@@ -42,9 +22,9 @@ Etymology is the study of the origin and historical development of words. It tra
 
 ## Sources
 
-- Liberman, A. (2005). *Word Origins...And How We Know Them: Etymology for Everyone*. Oxford University Press.
-- Durkin, P. (2009). *The Oxford Guide to Etymology*. Oxford University Press.
+Liberman, A. (2005). *Word Origins...And How We Know Them: Etymology for Everyone*. Oxford University Press.  
+Durkin, P. (2009). *The Oxford Guide to Etymology*. Oxford University Press.
 
 ---
 
-[Back to Advanced Topics](README.md)
+[Back to Historical-Comparative Linguistics](../README.md)

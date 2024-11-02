@@ -1,34 +1,20 @@
 # Phonological Reconstruction
 
-Phonological reconstruction involves reconstructing the sound system of a proto-language based on systematic sound correspondences among its descendant languages.
+Phonological reconstruction focuses on reconstructing the sound system of a proto-language by analyzing systematic sound correspondences among descendant languages.
 
 ## Essentials
 
-- **Proto-Phonemes**: Hypothesized sounds in the ancestral language.
-- **Sound Correspondences**: Regular patterns of sound change identified through the comparative method.
-- **Phonological Rules**: Descriptions of how sounds have changed over time.
+This process deals with proto-phonemes, which are the hypothesized sounds of the ancestral language. It identifies sound correspondences, which are regular patterns of sound change, and formulates phonological rules describing how these sounds evolved over time.
 
 ## Methodology
 
-1. **Collect Cognate Sets**: Assemble words with shared origins across related languages.
-2. **Identify Sound Correspondences**: Note consistent phonetic similarities.
-3. **Reconstruct Proto-Sounds**: Infer the original sounds based on patterns.
-4. **Formulate Phonological Rules**: Describe the changes from proto-sounds to present sounds.
-5. **Validate Reconstruction**: Check for consistency and plausibility.
+The steps involved are:
 
-## Principles
-
-- **Regularity of Sound Change**: Sound changes occur systematically.
-- **Economy**: Prefer the simplest set of changes that accounts for the data.
-- **Directionality**: Some sound changes are more common (e.g., voiceless to voiced).
-
-
-
-## Related Topics
-
-- [Comparative Method](../Comparative-Method.md)
-- [Morphological Reconstruction](Morphological-Reconstruction.md)
-- [Sound Change](../Sound-Change.md)
+1. Collect cognate sets by gathering words with shared origins across related languages.
+2. Identify sound correspondences, noting consistent phonetic similarities.
+3. Reconstruct proto-sounds by inferring the original sounds based on observed patterns.
+4. Formulate phonological rules that describe changes from proto-sounds to their current forms.
+5. Validate the reconstruction to ensure it is consistent and plausible.
 
 ## External Links
 
@@ -42,4 +28,4 @@ Phonological reconstruction involves reconstructing the sound system of a proto-
 
 ---
 
-[Back to Advanced Topics](README.md)
+[Back to Historical-Comparative Linguistics](../README.md)

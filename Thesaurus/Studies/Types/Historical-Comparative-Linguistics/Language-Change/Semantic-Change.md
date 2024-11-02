@@ -4,26 +4,18 @@ Semantic change refers to the evolution of word meanings over time. Understandin
 
 ## Types of Semantic Change
 
-- **Narrowing (Specialization)**: A word's meaning becomes more specific.
+- **Narrowing (Specialization)**
   - *Example*: "Meat" once meant food in general; now it refers specifically to animal flesh.
-- **Widening (Generalization)**: A word's meaning becomes more general.
+- **Widening (Generalization)**
   - *Example*: "Bird" once referred specifically to young birds; now it includes all birds.
-- **Metaphor**: A word acquires a new meaning based on similarity.
+- **Metaphor**
   - *Example*: "Mouse" as a computer device.
-- **Metonymy**: A word takes on a new meaning closely associated with the original.
+- **Metonymy**
   - *Example*: "Crown" representing monarchy.
-- **Pejoration**: A word's meaning becomes more negative.
+- **Pejoration**
   - *Example*: "Silly" once meant happy or fortunate; now it means lacking good sense.
-- **Amelioration**: A word's meaning becomes more positive.
+- **Amelioration**
   - *Example*: "Knight" originally meant servant; now it denotes a noble title.
-
-## Mechanisms of Change
-
-- **Cultural Shifts**: Changes in society and technology influence word meanings.
-- **Language Contact**: Borrowing and calquing can alter meanings.
-- **Polysemy and Homonymy**: Multiple meanings can lead to semantic drift.
-- **Euphemism and Taboo**: Words may change to avoid offense.
-
 
 ## Related Topics
 
@@ -43,4 +35,4 @@ Semantic change refers to the evolution of word meanings over time. Understandin
 
 ---
 
-[Back to Advanced Topics](README.md)
+[Back to Historical-Comparative Linguistics](../README.md)

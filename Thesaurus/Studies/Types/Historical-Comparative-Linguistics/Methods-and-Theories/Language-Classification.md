@@ -1,35 +1,36 @@
 # Language Classification
 
-Language classification involves grouping languages based on shared features, which can be genetic (historical), typological (structural), or areal (geographic).
+Language classification involves grouping languages based on shared characteristics, which can be genetic (historical), typological (structural), or areal (geographic).
 
 ## Types of Classification
 
 ### Genetic Classification
 
-- **Definition**: Grouping languages into families based on common ancestry.
-- **Method**: Using the comparative method to identify genetic relationships.
-- **Result**: Language families and subfamilies (e.g., Indo-European > Germanic > English).
+Grouping languages by common ancestry:
+
+- Identifies relationships using the comparative method.
+- Results in the formation of language families and subfamilies (e.g., Indo-European > Germanic > English).
 
 ### Typological Classification
 
-- **Definition**: Classifying languages based on structural features.
-- **Criteria**:
-  - **Phonological**: Sound systems.
-  - **Morphological**: Word formation processes (e.g., agglutinative, fusional).
-  - **Syntactic**: Sentence structure (e.g., SVO, SOV).
+Classifying languages by structural features:
+
+- Phonological features focus on sound systems.
+- Morphological traits include word formation processes, such as agglutinative or fusional structures.
+- Syntactic patterns consider sentence structure types (e.g., SVO, SOV).
 
 ### Areal Classification
 
-- **Definition**: Grouping languages based on geographic proximity and shared features due to contact.
-- **Concept**: **Sprachbund** (linguistic area) where languages influence each other.
+Grouping languages by geographic proximity:
 
-
+- Focuses on how languages in close contact share features.
+- Involves the concept of a *Sprachbund*, where languages influence each other.
 
 ## Related Topics
 
-- [Language Families](Language-Families.md)
-- [Typological Classification](Advanced/Typological-Classification.md)
-- [Areal Linguistics](Advanced/Areal-Linguistics.md)
+Explore more about:
+
+- [Areal Linguistics](../Language-Change/Areal-Linguistics.md)
 
 ## External Links
 
@@ -38,9 +39,9 @@ Language classification involves grouping languages based on shared features, wh
 
 ## Sources
 
-- Croft, W. (2002). *Typology and Universals*. Cambridge University Press.
-- Comrie, B. (Ed.). (1987). *The World's Major Languages*. Oxford University Press.
+Croft, W. (2002). *Typology and Universals*. Cambridge University Press.  
+Comrie, B. (Ed.). (1987). *The World's Major Languages*. Oxford University Press.
 
 ---
 
-[Back to Historical-Comparative Linguistics](README.md)
+[Back to Historical-Comparative Linguistics](../README.md)

@@ -4,29 +4,16 @@ Sound change refers to systematic alterations in pronunciation that occur within
 
 ## Types of Sound Changes
 
-- **Assimilation**: A sound becomes similar to a neighboring sound.
+- **Assimilation**
   - *Example*: Latin "octo" → Italian "otto" (the "c" assimilates to "t").
-- **Dissimilation**: A sound becomes less like a neighboring sound.
+- **Dissimilation**
   - *Example*: Latin "peregrinus" → Spanish "peregrino" (change to avoid repetition).
-- **Metathesis**: Switching positions of sounds in a word.
+- **Metathesis**
   - *Example*: Old English "brid" → Modern English "bird".
-- **Elision**: Loss of a sound.
+- **Elision**
   - *Example*: French "parler" → "parlé" (loss of the "r" sound).
-- **Epenthesis**: Insertion of a sound.
+- **Epenthesis**
   - *Example*: Old English "empty" → "emty" (addition of "p").
-
-## Laws and Principles
-
-- **Grimm's Law**: Describes consonant shifts in the Germanic languages.
-- **Verner's Law**: Addresses exceptions to Grimm's Law based on stress patterns.
-- **The Great Vowel Shift**: A major change in the pronunciation of English vowels during the 15th to 18th centuries.
-
-## Methods
-
-- **Comparative Analysis**: Comparing cognates across related languages.
-- **Phonetic Transcription**: Recording sounds accurately for analysis.
-- **Regularity Principle**: Assuming that sound changes are regular and systematic.
-
 
 ## Related Topics
 
@@ -46,4 +33,4 @@ Sound change refers to systematic alterations in pronunciation that occur within
 
 ---
 
-[Back to Historical-Comparative Linguistics](README.md)
+[Back to Historical-Comparative Linguistics](../README.md)

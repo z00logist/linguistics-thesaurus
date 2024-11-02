@@ -1,26 +1,21 @@
 # Historical-Comparative Linguistics
 
-Historical-Comparative Linguistics examines how languages change over time and the relationships among languages. It seeks to reconstruct ancestral languages and understand the processes that drive linguistic evolution.
+Historical-Comparative Linguistics explores how languages change over time and the relationships between different languages. It aims to reconstruct ancient languages and understand the processes behind linguistic evolution.
 
 ## Key Objectives
 
-- **Language Reconstruction**: Rebuilding aspects of unattested ancestral languages.
-- **Classification**: Grouping languages into families based on common ancestry.
-- **Understanding Language Change**: Studying phonological, morphological, syntactic, and semantic changes.
-- **Language Contact**: Investigating how languages influence each other through contact.
+The main goals of this field include language reconstruction, which involves rebuilding aspects of ancestral languages that are not directly recorded. Classification groups languages into families based on their shared ancestry. Researchers also focus on understanding language change, studying shifts in sound, grammar, and meaning. Another important area is language contact, which examines how languages influence each other when they come into contact.
 
 ## Essentials
 
-- **Sound Change**: Systematic phonetic changes in a language over time.
-- **Comparative Method**: Technique for reconstructing proto-languages by comparing cognates.
-- **Internal Reconstruction**: Using irregularities within a single language to hypothesize about earlier forms.
-- **Language Families**: Groups of languages descended from a common ancestor.
+Key concepts in historical-comparative linguistics include sound change, where systematic changes in pronunciation occur over time. The comparative method is used to reconstruct proto-languages by comparing similar words (cognates) across related languages. Internal reconstruction analyzes irregularities within a single language to make hypotheses about its earlier forms. Language families represent groups of languages that share a common ancestor.
 
 ## Related Fields
 
-- [Sociolinguistics](../Sociolinguistics/README.md)
-- [Dialectology](Dialectology.md)
-- [Areal Linguistics](Advanced/Areal-Linguistics.md)
+## Related Fields
+
+- [Sociolinguistics](../../Sociolinguistics/README.md)
+- [Areal Linguistics](../Language-Change/Areal-Linguistics.md)
 
 ## External Links
 
@@ -34,4 +29,4 @@ Historical-Comparative Linguistics examines how languages change over time and t
 
 ---
 
-[Back to Historical-Comparative Linguistics](README.md)
+[Back to Historical-Comparative Linguistics](../README.md)
