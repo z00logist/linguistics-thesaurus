@@ -10,7 +10,7 @@ Sociolinguistics is the study of how language varies and changes in social group
 
 ### 2. [Language and Society](Language-and-Society/README.md)
 - [Code-Switching](Language-and-Society/Code-Switching.md)
-- [Labov's New York City Study](Language-and-Society/Labov's-New-York-City-Study.md)
+- [Labov's New York City Study](Language-and-Society/Labovs-New-York-City-Study.md)
 
 ### 3. [Language  Variation](Language-Variation/README.md)
 - [Language Change](Language-Variation/Language-Change.md)
