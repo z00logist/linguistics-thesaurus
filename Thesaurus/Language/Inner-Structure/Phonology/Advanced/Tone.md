@@ -14,7 +14,8 @@ Tone involves using pitch to convey different meanings or grammatical nuances in
   - Rising tone: "hemp"
   - Falling-rising tone: "horse"
   - Falling tone: "scold"
-- Serbian uses pitch accent system:
+- Serbian uses pitch accent system:  
+
 ![Serbian pitch accent system](../../../../assets/serbian-accent.jpg)
 
 ## Related Topics
