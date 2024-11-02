@@ -29,4 +29,4 @@ In this Thesaurus you will often see links to Wikipedia. You can enhance your st
         - [Cognitive Linguistics](Language/Studies/Types/Cognitive-Linguistics/README.md)
         - [Corpus Linguistics](Language/Studies/Types/Corpus-Linguistics/README.md)
         - [Computational Linguistics](Language/Studies/Types/Computational-Linguistics/README.md)
-- [References](References/References.md)
+
