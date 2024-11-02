@@ -1,18 +1,22 @@
-
 # Sociolinguistics
 
-Sociolinguistics is the study of how language varies and changes in social contexts, considering factors like class, gender, ethnicity, and social networks.
+Sociolinguistics is the study of how language varies and changes in social groups and the effects of social factors on language. This field explores the relationships between language and society, including cultural norms, language identity, and linguistic diversity.
 
 ## Contents
 
-- [Sociolinguistics](Sociolinguistics.md)
-- [Language Variation](Language-Variation.md)
-- [Language Change](Language-Change.md)
-- [Dialectology](Dialectology.md)
-- [Code-Switching](Code-Switching.md)
-- [Language and Identity](Language-and-Identity.md)
-- [Labov's New York City Study](Labovs-New-York-City-Study.md)
-- [Variables](Variables.md)
+### 1. [Core](Core/README.md)
+- [Sociolinguistics](Core/Sociolinguistics.md)
+- [Variables in Sociolinguistics](Core/Variables.md)
+
+### 2. [Language and Society](Language-and-Society/README.md)
+- [Code-Switching](Language-and-Society/Code-Switching.md)
+- [Language and Identity](Language-and-Society/Language-and-Identity.md)
+- [Labov's New York City Study](Language-and-Society/Labov's-New-York-City-Study.md)
+
+### 3. [Language  Variation](Language-Variation/README.md)
+- [Language Change](Language-Variation/Language-Change.md)
+- [Language Variation](Language-Variation/Language-Variation.md)
+- [Dialectology](Language-Variation/Dialectology.md)
 
 ---
 
