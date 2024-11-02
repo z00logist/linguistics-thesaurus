@@ -6,7 +6,7 @@ Constructed languages, or "conlangs," are languages that have been intentionally
 ## Examples
 
 - **Esperanto** -- constructed langauge, which aim was to make a mediate langauge that every indo-european language speaker would learn fast.
-- **Interslavic** -- the same as esperanto, but for speakers of slavic langauges.
+- **Interslavic** -- the same as esperanto, but for speakers of slavic languages.
 
 
 ## Related Topics
