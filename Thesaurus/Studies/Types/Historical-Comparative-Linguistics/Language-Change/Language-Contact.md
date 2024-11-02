@@ -21,12 +21,6 @@ Language contact occurs when speakers of different languages or dialects interac
 - **Structural Borrowing**: Adoption of phonological, morphological, or syntactic features.
 - **Language Convergence**: Languages becoming more similar due to prolonged contact.
 
-## Applications
-
-- **Sociolinguistics**: Studying language use in multilingual communities.
-- **Historical Linguistics**: Identifying external influences on language change.
-- **Language Policy**: Managing multilingual societies and language preservation.
-
 ## Related Topics
 
 - [Sociolinguistics](../Sociolinguistics/README.md)

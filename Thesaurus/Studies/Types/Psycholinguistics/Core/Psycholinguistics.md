@@ -19,11 +19,7 @@ Psycholinguistics explores the psychological and neurobiological factors that en
 - **Computational Modeling**: Simulating language processes using algorithms.
 - **Observational Studies**: Naturalistic observation of language use.
 
-## Applications
 
-- **Education**: Informing teaching methods for language learning.
-- **Speech Therapy**: Developing treatments for language disorders.
-- **Artificial Intelligence**: Improving natural language processing systems.
 
 ## Related Fields
 

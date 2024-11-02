@@ -2,17 +2,12 @@
 
 Force dynamics is a semantic framework introduced by Leonard Talmy that describes how entities interact with respect to force, including movement, resistance, and causation.
 
-## Key Concepts
+Force dynamics involves several central ideas:
 
-- **Agonist and Antagonist**: Entities exerting force (agonist) and counterforce (antagonist).
-- **Force Interaction**: Includes causation, prevention, enablement.
-- **Modal Verbs**: Reflect force dynamics (e.g., "can," "must," "may").
+- **Agonist and Antagonist**: The agonist is the entity exerting force, while the antagonist is the entity that counteracts or resists the force.
+- **Force Interaction**: This includes different types of interactions, such as causation, prevention, and enablement.
+- **Modal Verbs**: Words like "can," "must," and "may" often reflect underlying force dynamics in language.
 
-## Applications
-
-- **Linguistic Analysis**: Understanding verb meanings and event structures.
-- **Cognitive Semantics**: Explaining how physical experiences influence language.
-- **Metaphorical Extension**: Applying physical force concepts to abstract domains.
 
 ## Examples
 
@@ -22,9 +17,7 @@ Force dynamics is a semantic framework introduced by Leonard Talmy that describe
 
 ## Related Topics
 
-- [Cognitive Semantics](../Cognitive-Semantics.md)
 - [Image Schemas](Image-Schemas.md)
-- [Conceptual Metaphor Theory](../Conceptual-Metaphor-Theory.md)
 
 ## External Links
 
@@ -39,4 +32,4 @@ Force dynamics is a semantic framework introduced by Leonard Talmy that describe
 
 ---
 
-[Back to Advanced Topics](README.md)
+[Back to Cognitive Linguistics](../README.md)

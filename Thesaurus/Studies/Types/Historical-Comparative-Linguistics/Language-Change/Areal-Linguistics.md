@@ -27,17 +27,7 @@ Areal linguistics studies the features shared by languages within a geographical
 - **Exclude Genetic Inheritance**: Ensure features are not due to shared ancestry.
 - **Analyze Patterns of Contact**: Study historical interactions and sociolinguistic factors.
 
-## Importance
 
-- **Understanding Language Change**: Highlights the role of contact in shaping languages.
-- **Typological Studies**: Informs theories about language universals and diversity.
-- **Historical Reconstruction**: Assists in separating inherited features from borrowed ones.
-
-## Applications
-
-- **Language Documentation**: Prioritizing languages in contact zones.
-- **Anthropological Linguistics**: Studying cultural exchange and influence.
-- **Language Policy**: Managing multilingual regions and language preservation.
 
 ## Related Topics
 

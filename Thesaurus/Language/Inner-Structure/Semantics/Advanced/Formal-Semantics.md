@@ -1,30 +1,23 @@
 # Formal Semantics
 
-Formal semantics is the study of linguistic meaning using formal tools from logic and mathematics. It aims to model how language users understand and interpret sentences.
+Formal semantics studies linguistic meaning using formal tools drawn from logic and mathematics. Its goal is to model how speakers understand and interpret sentences in a systematic way.
 
 ## Key Concepts
 
-- **Model-Theoretic Semantics**: Uses models to represent possible worlds and truth conditions.
-- **Truth-Conditional Semantics**: Assigns truth values to sentences based on their meaning and context.
-- **Lambda Calculus**: A formal system for expressing computation based on function abstraction and application.
-- **Type Theory**: Categorizes expressions into types for proper semantic composition.
+Some of the main ideas in formal semantics include:
+
+- **Model-Theoretic Semantics** involves using models to represent possible worlds and assess the truth conditions of sentences.
+- **Truth-Conditional Semantics** assigns truth values to sentences based on their meaning and the context in which they are used.
+- **Lambda Calculus** is a formal system used to express computations through function abstraction and application.
+- **Type Theory** categorizes expressions into types to ensure correct semantic composition.
 
 ## Approaches
 
-- **Montague Grammar**: Developed by Richard Montague, integrates formal logic with natural language semantics.
-- **Possible Worlds Semantics**: Considers different possible states of affairs to analyze meaning.
+Formal semantics encompasses different methods, such as:
 
-## Applications
+- **Montague Grammar**, developed by Richard Montague, which merges formal logic with natural language semantics.
+- **Possible Worlds Semantics**, which analyzes meaning by considering different potential states of the world.
 
-- **Natural Language Understanding**: Improving computational models for AI.
-- **Philosophy of Language**: Analyzing philosophical questions about meaning and reference.
-- **Syntax-Semantics Interface**: Understanding how syntactic structures map to semantic interpretations.
-
-## Related Topics
-
-- [Compositional Semantics](../Compositional-Semantics.md)
-- [Quantification and Scope](Quantification-and-Scope.md)
-- [Dynamic Semantics](Dynamic-Semantics.md)
 
 ## External Links
 

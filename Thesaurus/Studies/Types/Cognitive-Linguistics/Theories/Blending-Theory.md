@@ -14,11 +14,6 @@ Blending Theory, also known as Conceptual Integration Theory, is a cognitive fra
 - **Completion**: Filling in additional structure using background knowledge.
 - **Elaboration**: Developing the blend through imaginative processes.
 
-## Applications
-
-- **Metaphor and Analogy**: Explaining creative thought.
-- **Humor**: Understanding jokes and puns.
-- **Problem-Solving**: Integrating concepts to find solutions.
 
 ## Examples
 
@@ -44,4 +39,4 @@ Blending Theory, also known as Conceptual Integration Theory, is a cognitive fra
 
 ---
 
-[Back to Cognitive Linguistics](README.md)
+[Back to Cognitive Linguistics](../README.md)

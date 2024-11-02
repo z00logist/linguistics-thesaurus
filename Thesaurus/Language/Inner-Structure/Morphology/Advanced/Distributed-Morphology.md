@@ -28,4 +28,4 @@ Distributed Morphology is a theoretical framework that integrates morphology int
 
 ---
 
-[Back to Advanced Morphology](README.md)
+[Back to Morphology](../README.md)

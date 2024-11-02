@@ -17,11 +17,6 @@ Phonotactics refers to the rules governing the permissible combinations and sequ
   - Syllables typically follow a consonant-vowel (CV) pattern.
   - Does not allow consonant clusters at the beginning of words.
 
-## Importance
-
-- **Language Acquisition**: Helps learners predict permissible words.
-- **Speech Disorders**: Phonotactic constraints may affect speech development.
-- **Loanwords**: Adapted to fit the phonotactic rules of the borrowing language.
 
 ## Related Topics
 
@@ -38,4 +33,4 @@ Phonotactics refers to the rules governing the permissible combinations and sequ
 
 ---
 
-[Back to Phonology](README.md)
+[Back to Phonology](../README.md)

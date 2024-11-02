@@ -1,37 +1,20 @@
 # Semantics
 
-Semantics is the study of meaning in language. It examines how words and sentences convey meaning, how meaning is structured, and how it is interpreted by speakers and listeners.
+Semantics is the branch of linguistics that studies meaning in language. It explores how words and sentences convey meaning, how that meaning is structured, and how it is interpreted by both speakers and listeners.
 
 ## Key Areas
 
-- **Lexical Semantics**: The meaning of words and the relationships between them.
-- **Compositional Semantics**: How meanings of individual words combine in phrases and sentences.
-- **Pragmatics**: The study of how context influences meaning.
-- **Semantic Roles**: The functions that participants have in the events described by sentences.
+Semantics covers several important areas:
 
-## Key Concepts
+- **Lexical Semantics** focuses on the meanings of words and their relationships with one another.
+- **Compositional Semantics** examines how the meanings of individual words combine to create meanings in phrases and sentences.
+- **Pragmatics** studies how context affects the interpretation of meaning.
+- **Semantic Roles** look at the functions that participants play in the events or states described by sentences.
 
-- **Meaning**: The information conveyed by words and sentences.
-- **Sense and Reference**: Distinction between the inherent meaning of a word (sense) and the actual object or concept it refers to (reference).
-- **Polysemy and Homonymy**: Words with multiple related meanings (polysemy) and words that sound the same but have unrelated meanings (homonymy).
-- **Synonymy and Antonymy**: Words with similar meanings (synonyms) and opposite meanings (antonyms).
-
-## Importance
-
-- **Communication**: Understanding semantics is crucial for effective communication.
-- **Language Learning**: Helps in acquiring vocabulary and understanding nuances.
-- **Computational Linguistics**: Essential for natural language processing and AI.
-
-## Applications
-
-- **Lexicography**: Compiling dictionaries and thesauri.
-- **Translation Studies**: Ensuring accurate translation of meaning across languages.
-- **Language Teaching**: Assisting learners in grasping meanings and usage.
 
 ## Related Fields
 
-- [Syntax](../Syntax/README.md)
-- [Pragmatics](Pragmatics.md)
+- [Syntax](../../Syntax/README.md)
 - [Cognitive Linguistics](../../Types/Cognitive-Linguistics/README.md)
 
 ## External Links
@@ -46,4 +29,4 @@ Semantics is the study of meaning in language. It examines how words and sentenc
 
 ---
 
-[Back to Semantics](README.md)
+[Back to Semantics](../README.md)

@@ -5,7 +5,6 @@ The **Advanced** section delves deeper into specialized and complex topics in se
 ## Contents
 - [Formal Semantics](Formal-Semantics.md)
 - [Natural Semantic Metalanguage](Natural-Semantic-Metalanguage.md)
-- [Prototype Theory](Prototype-Theory.md)
 - [Semantic Fields](Semantic-Fields.md)
 - [Semantic Roles](Semantic-Roles.md)
 - [Pragmatics](Pragmatics.md)

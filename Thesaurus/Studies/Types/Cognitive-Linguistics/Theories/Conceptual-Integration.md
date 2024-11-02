@@ -15,11 +15,6 @@ Conceptual Integration, also known as Blending Theory, is a cognitive process wh
 - **Completion**: Filling in additional structure based on background knowledge.
 - **Elaboration**: Developing the blend through imaginative simulation.
 
-## Applications
-
-- **Metaphor and Analogy**: Explaining how we understand and create metaphors.
-- **Humor and Creativity**: Understanding jokes and creative thought.
-- **Problem-Solving**: Integrating concepts to generate solutions.
 
 ## Related Topics
 

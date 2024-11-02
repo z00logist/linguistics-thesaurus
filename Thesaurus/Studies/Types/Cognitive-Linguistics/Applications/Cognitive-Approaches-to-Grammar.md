@@ -14,11 +14,7 @@ Cognitive approaches to grammar view grammatical structures as inherently meanin
 - **Construction Grammar**: Emphasizes that all grammatical structures are constructions with form and meaning.
 - **Embodied Grammar**: Explores how bodily experiences influence grammatical structures.
 
-## Applications
-
-- **Language Teaching**: Emphasizing meaning in grammar instruction.
-- **Discourse Analysis**: Understanding how grammar shapes communication.
-- **Language Change**: Studying how usage patterns influence grammatical evolution.
+age patterns influence grammatical evolution.
 
 ## Related Topics
 
@@ -39,4 +35,4 @@ Cognitive approaches to grammar view grammatical structures as inherently meanin
 
 ---
 
-[Back to Cognitive Linguistics](README.md)
+[Back to Cognitive Linguistics](../README.md)

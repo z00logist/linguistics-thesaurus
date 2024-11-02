@@ -46,4 +46,4 @@ The way sounds are articulated varies by how air is manipulated:
 
 ---
 
-[Back to Phonetics](README.md)
+[Back to Phonetics](../README.md)

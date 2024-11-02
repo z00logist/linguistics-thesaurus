@@ -39,4 +39,4 @@ Some common examples include:
 
 ---
 
-[Back to Phonetics](README.md)
+[Back to Phonetics](../README.md)

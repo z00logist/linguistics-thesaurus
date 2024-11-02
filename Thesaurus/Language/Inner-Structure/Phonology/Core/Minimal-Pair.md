@@ -32,4 +32,4 @@ Ladefoged, P., & Johnson, K. (2014). *A Course in Phonetics*. Cengage Learning.
 
 ---
 
-[Back to Phonetics](README.md)
+[Back to Phonetics](../README.md)

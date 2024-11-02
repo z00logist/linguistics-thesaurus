@@ -2,30 +2,25 @@
 
 Event structure in cognitive linguistics refers to the way events are conceptualized and represented in language, including their temporal, aspectual, and causal characteristics.
 
-## Key Concepts
 
-- **Aspectual Classes**: Categories of verbs based on temporal properties (e.g., states, activities).
-- **Causation**: How language encodes cause-effect relationships.
-- **Telicity**: Whether an event has a natural endpoint.
-- **Temporal Sequencing**: Ordering of events in time.
+Event structure involves several fundamental ideas:
+
+- **Aspectual Classes** categorize verbs based on their temporal characteristics, such as states, activities, accomplishments, and achievements.
+- **Causation** looks at how language encodes cause-and-effect relationships.
+- **Telicity** indicates whether an event has a natural endpoint or is open-ended.
+- **Temporal Sequencing** refers to the order in which events unfold over time.
 
 ## Theoretical Approaches
 
-- **Vendler's Verb Classes**: Distinguishes between states, activities, accomplishments, achievements.
-- **Conceptual Semantics**: Examines how meaning is structured in the mind.
-- **Force Dynamics**: Analyzes how entities interact in events.
+Different theories offer perspectives on how event structure is represented:
 
-## Applications
-
-- **Narrative Analysis**: Understanding how stories are constructed.
-- **Discourse Coherence**: How event structures contribute to textual cohesion.
-- **Language Typology**: Comparing how different languages encode events.
+- **Vendler's Verb Classes** categorize verbs into states, activities, accomplishments, and achievements based on their temporal properties.
+- **Conceptual Semantics** explores how meaning is mentally structured.
+- **Force Dynamics** analyzes how different entities interact and exert force in events.
 
 ## Related Topics
 
-- [Cognitive Semantics](../Cognitive-Semantics.md)
 - [Force Dynamics](Force-Dynamics.md)
-- [Aspect](../../Language/Inner-Structure/Grammar/Aspect.md)
 
 ## External Links
 
@@ -40,4 +35,4 @@ Event structure in cognitive linguistics refers to the way events are conceptual
 
 ---
 
-[Back to Advanced Topics](README.md)
+[Back to Cognitive Linguistics](../README.md)

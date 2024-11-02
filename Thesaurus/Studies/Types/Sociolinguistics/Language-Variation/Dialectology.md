@@ -39,4 +39,4 @@ Dialectology is the study of regional differences in language, focusing on varia
 
 ---
 
-[Back to Sociolinguistics](README.md)
+[Back to Sociolinguistics](../README.md)

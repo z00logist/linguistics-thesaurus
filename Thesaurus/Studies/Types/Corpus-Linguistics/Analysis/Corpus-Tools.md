@@ -15,12 +15,6 @@ Corpus tools are software applications used for compiling, managing, and analyzi
 - **Sketch Engine**: Online corpus management and analysis tool.
 - **WordSmith Tools**: Commercial software for corpus analysis.
 
-## Applications
-
-- **Linguistic Research**: Analyzing language patterns.
-- **Language Teaching**: Developing materials based on authentic usage.
-- **Lexicography**: Compiling dictionaries.
-
 ## Related Topics
 
 - [Concordance](Concordance.md)

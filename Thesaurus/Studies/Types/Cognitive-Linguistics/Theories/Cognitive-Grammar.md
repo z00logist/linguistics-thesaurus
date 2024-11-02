@@ -16,11 +16,7 @@ Cognitive Grammar is a theory developed by Ronald W. Langacker that views gramma
 - **Domains**: Conceptual contexts that provide meaning (e.g., space, time).
 - **Profiling**: Highlighting aspects of a conceptual domain.
 
-## Applications
 
-- **Syntax**: Understanding sentence structures through conceptualization.
-- **Morphology**: Analyzing word formation as symbolic assemblies.
-- **Semantics**: Interpreting meaning based on cognitive processes.
 
 ## Related Topics
 

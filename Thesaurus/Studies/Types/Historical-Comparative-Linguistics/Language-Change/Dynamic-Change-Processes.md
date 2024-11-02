@@ -41,12 +41,6 @@ Dynamic change processes refer to the mechanisms and factors that drive language
 - **Grammaticalization Theory**: Processes by which words become grammatical markers.
 - **Usage-Based Models**: Emphasize the role of frequency and patterns in language change.
 
-## Applications
-
-- **Predicting Language Change**: Understanding current trends to anticipate future changes.
-- **Language Preservation**: Documenting endangered languages undergoing rapid change.
-- **Computational Modeling**: Simulating language evolution.
-
 ## Related Topics
 
 - [Language Change](../Language-Change.md)

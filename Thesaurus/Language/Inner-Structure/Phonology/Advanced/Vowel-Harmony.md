@@ -14,9 +14,6 @@ Vowel harmony is a phonological process where the vowels within a word match in 
   - "Ev" (house) becomes "Evler" (houses)
 - Finnish also uses vowel harmony, with suffixes adapting to match either front or back vowels in the root.
 
-## Importance
-
-Vowel harmony influences how words are formed and shows the interaction between phonological and morphological rules in a language.
 
 ## Related Topics
 
@@ -36,4 +33,4 @@ Hayes, B. (2009). *Introductory Phonology*. Wiley-Blackwell.
 
 ---
 
-[Back to Phonology](README.md)
+[Back to Phonology](../README.md)

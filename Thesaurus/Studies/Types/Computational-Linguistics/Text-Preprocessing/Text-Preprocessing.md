@@ -11,12 +11,6 @@ Text preprocessing is the initial stage in natural language processing where raw
 - **Stemming**: Reducing words to their base or root form.
 - **Lemmatization**: Reducing words to their canonical form based on vocabulary and morphology.
 
-## Importance
-
-- **Data Consistency**: Ensures uniformity in text data.
-- **Dimensionality Reduction**: Simplifies the dataset by reducing the number of unique tokens.
-- **Improved Model Performance**: Enhances the effectiveness of computational models.
-
 ## Related Topics
 
 - [Tokenization](Tokenization.md)

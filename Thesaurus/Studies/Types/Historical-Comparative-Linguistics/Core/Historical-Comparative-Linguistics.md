@@ -16,18 +16,6 @@ Historical-Comparative Linguistics examines how languages change over time and t
 - **Internal Reconstruction**: Using irregularities within a single language to hypothesize about earlier forms.
 - **Language Families**: Groups of languages descended from a common ancestor.
 
-## Importance
-
-- **Historical Insight**: Provides information about the history and migration of peoples.
-- **Cultural Understanding**: Reveals connections between cultures and languages.
-- **Linguistic Theory**: Enhances understanding of language structures and change mechanisms.
-
-## Applications
-
-- **Etymology**: Tracing the origins of words.
-- **Anthropology**: Studying human societies through language relationships.
-- **Archaeology**: Correlating linguistic data with archaeological findings.
-
 ## Related Fields
 
 - [Sociolinguistics](../Sociolinguistics/README.md)

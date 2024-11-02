@@ -16,17 +16,7 @@ The Comparative Method is a systematic approach used in historical linguistics t
 - **Directionality**: Certain types of changes are more likely than others.
 - **Occam's Razor**: Prefer the simplest explanation that accounts for the data.
 
-## Applications
 
-- **Reconstructing Proto-Languages**: Such as Proto-Indo-European.
-- **Establishing Language Families**: Confirming genetic relationships.
-- **Historical Analysis**: Understanding language evolution and divergence.
-
-## Limitations
-
-- **Borrowing**: Loanwords can complicate comparisons.
-- **Analogical Change**: Irregularities may arise from internal language changes.
-- **Incomplete Data**: Limited or lost languages can hinder reconstruction.
 
 ## Related Topics
 

@@ -28,17 +28,7 @@ Typological classification categorizes languages based on shared structural feat
 - **Alignment Systems**: Nominative-accusative, ergative-absolutive.
 - **Head-Marking vs. Dependent-Marking**: Grammatical relations marked on the verb or noun.
 
-## Methods
 
-- **Data Collection**: Analyzing language grammars and corpora.
-- **Cross-Linguistic Comparison**: Comparing features across a wide range of languages.
-- **Statistical Analysis**: Identifying patterns and correlations.
-
-## Applications
-
-- **Understanding Language Universals**: Informing theories about human language capabilities.
-- **Language Documentation**: Prioritizing under-described languages with unique typological features.
-- **Artificial Intelligence**: Improving language processing models for diverse languages.
 
 ## Related Topics
 

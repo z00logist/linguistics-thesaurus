@@ -14,12 +14,6 @@ Cognitive approaches to syntax analyze sentence structure based on meaning and c
 - **Cognitive Grammar**: Views syntax as symbolic and intimately linked to semantics.
 - **Role and Reference Grammar**: Focuses on the interplay between syntax, semantics, and pragmatics.
 
-## Applications
-
-- **Language Acquisition**: Understanding how children learn syntactic structures.
-- **Language Change**: Analyzing syntactic shifts over time.
-- **Typology**: Comparing syntactic patterns across languages.
-
 ## Related Topics
 
 - [Construction Grammar](../Construction-Grammar.md)
@@ -39,4 +33,4 @@ Cognitive approaches to syntax analyze sentence structure based on meaning and c
 
 ---
 
-[Back to Advanced Topics](README.md)
+[Back to Cognitive Linguistics](../README.md)

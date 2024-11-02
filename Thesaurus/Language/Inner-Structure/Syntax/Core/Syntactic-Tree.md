@@ -4,32 +4,20 @@ A syntactic tree, or parse tree, is a diagram representing the hierarchical stru
 
 ## Components
 
-- **Nodes**: Represent constituents (e.g., NP, VP).
-- **Branches**: Connect nodes to show relationships.
-- **Root Node**: Represents the entire sentence (S).
+- **Nodes** represent constituents (e.g., NP, VP).
+- **Branches** connect nodes to show relationships.
+- **Root Node** represents the entire sentence (S).
 
 ## Example
 
-   S
-  / \
- NP  VP
-/    / \
+![Syntatic Tree](../../../../assets/tree.png)
 
-## Importance
-
-- **Visual Representation**: Helps in understanding sentence structure.
-- **Computational Parsing**: Used in natural language processing.
-
-## Related Topics
-
-- [Phrase Structure Rules](Phrase-Structure-Rules.md)
-- [Constituents](Constituents.md)
-- [Syntax](Syntax.md)
 
 ## External Links
 
 - [Parse Tree - Wikipedia](https://en.wikipedia.org/wiki/Parse_tree)
 - [Tree Diagrams - SIL International](https://glossary.sil.org/term/tree-diagram)
+- [Syntatic Tree Tutorial](https://www.youtube.com/watch?app=desktop&v=CeuhQ3s-Jss)
 
 ## References
 
@@ -37,4 +25,4 @@ A syntactic tree, or parse tree, is a diagram representing the hierarchical stru
 
 ---
 
-[Back to Syntax](README.md)
+[Back to Syntax](../README.md)

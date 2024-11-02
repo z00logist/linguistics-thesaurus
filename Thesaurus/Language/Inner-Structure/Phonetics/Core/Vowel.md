@@ -40,4 +40,4 @@ Some common examples of English vowels include:
 
 ---
 
-[Back to Phonetics](README.md)
+[Back to Phonetics](../README.md)

@@ -14,11 +14,7 @@ GloVe (Global Vectors for Word Representation) is an unsupervised learning algor
 - **Performance**: Competitive with or better than Word2Vec on various tasks.
 - **Efficiency**: Training is faster for large corpora.
 
-## Applications
 
-- **Natural Language Understanding**: Improving the performance of NLP models.
-- **Text Similarity**: Measuring the similarity between texts.
-- **Downstream NLP Tasks**: Used as pre-trained embeddings for various applications.
 
 ## Related Topics
 

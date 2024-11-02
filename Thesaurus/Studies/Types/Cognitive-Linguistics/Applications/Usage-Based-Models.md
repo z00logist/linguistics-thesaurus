@@ -8,12 +8,6 @@ Usage-based models in cognitive linguistics propose that linguistic knowledge em
 - **Schema Formation**: Generalizations are made from specific instances.
 - **Emergence**: Grammar and linguistic patterns emerge from usage.
 
-## Applications
-
-- **Language Acquisition**: Explains how children learn language through exposure.
-- **Language Change**: Accounts for how usage patterns influence language evolution.
-- **Psycholinguistics**: Studies processing based on usage frequency.
-
 ## Evidence
 
 - **Zipf's Law**: Predicts the frequency distribution of words.
@@ -39,4 +33,4 @@ Usage-based models in cognitive linguistics propose that linguistic knowledge em
 
 ---
 
-[Back to Cognitive Linguistics](README.md)
+[Back to Cognitive Linguistics](../README.md)

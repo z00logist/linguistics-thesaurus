@@ -14,11 +14,6 @@ Transformers are neural network architectures that rely entirely on self-attenti
 - **Long-Range Dependencies**: Better at capturing relationships between distant words.
 - **State-of-the-Art Performance**: Forms the basis of models like BERT and GPT.
 
-## Applications
-
-- **Machine Translation**: Achieving high-quality translations.
-- **Language Modeling**: Pre-training models for various NLP tasks.
-- **Text Summarization**: Generating summaries of long documents.
 
 ## Notable Models
 

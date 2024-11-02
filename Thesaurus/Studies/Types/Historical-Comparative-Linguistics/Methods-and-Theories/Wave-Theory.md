@@ -19,11 +19,6 @@ The Wave Theory is an alternative model to the tree model in historical linguist
 - **Contact and Influence**: Languages influence each other through proximity and interaction.
 - **Non-Discrete Boundaries**: Linguistic features may not align neatly with language boundaries.
 
-## Applications
-
-- **Dialectology**: Explains regional variations and the gradual change across dialects.
-- **Language Contact Studies**: Accounts for shared features due to borrowing and convergence.
-- **Historical Reconstruction**: Supplements the tree model by considering areal features.
 
 ## Advantages
 

@@ -9,11 +9,6 @@ Speech perception is the process by which the brain processes spoken language, t
 - **Phonological Processing**: Understanding sound patterns and rules.
 - **Lexical Access**: Matching sounds to known words.
 
-## Challenges
-
-- **Variability**: Differences in speakers, accents, and contexts.
-- **Coarticulation**: Overlapping of speech sounds.
-- **Segmentation**: Identifying word boundaries in continuous speech.
 
 ## Theories
 
@@ -22,11 +17,6 @@ Speech perception is the process by which the brain processes spoken language, t
 - **Cohort Model**: Word recognition starts with the initial sounds and narrows down.
 - **Trace Model**: Interactive activation network that processes speech at multiple levels.
 
-## Applications
-
-- **Speech Recognition Technology**: Improving voice-controlled systems.
-- **Language Learning**: Assisting learners in perceiving new sounds.
-- **Hearing Aids and Cochlear Implants**: Enhancing speech perception in hearing-impaired individuals.
 
 ## Related Topics
 

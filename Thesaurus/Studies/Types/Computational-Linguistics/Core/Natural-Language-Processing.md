@@ -9,12 +9,7 @@ Natural Language Processing is a subfield of artificial intelligence focused on 
 - **Semantic Analysis**: Understanding meaning and context.
 - **Pragmatics**: Understanding language in context, including idioms and metaphors.
 
-## Applications
 
-- **Machine Translation**: Translating text between languages.
-- **Sentiment Analysis**: Determining the sentiment expressed in text.
-- **Text Summarization**: Creating concise summaries of large texts.
-- **Question Answering**: Developing systems that can answer questions posed in natural language.
 
 ## Techniques
 

@@ -14,11 +14,6 @@ FastText is a library developed by Facebook's AI Research (FAIR) lab for efficie
 - **Morphological Richness**: Particularly useful for morphologically rich languages.
 - **Classification Tasks**: Provides efficient text classification capabilities.
 
-## Applications
-
-- **Text Classification**: Sentiment analysis, topic categorization.
-- **Language Modeling**: Improved performance on languages with rich morphology.
-- **Machine Translation**: Enhanced word representations.
 
 ## Related Topics
 

@@ -8,11 +8,6 @@ Frequency analysis involves examining how often words or linguistic structures o
 - **Vocabulary Profiling**: Assessing language complexity and learner vocabulary levels.
 - **Zipf's Law**: Observing the relationship between word frequency and rank.
 
-## Applications
-
-- **Language Teaching**: Developing word lists for language learners.
-- **Lexicography**: Informing dictionary entries.
-- **Computational Linguistics**: Improving language models.
 
 ## Tools
 

@@ -16,11 +16,7 @@ Zipf's Law is an empirical law that describes the frequency distribution of word
 
 - The most common word (e.g., "the") might occur thousands of times, while less common words might occur only once.
 
-## Applications
 
-- **Natural Language Processing**: Optimizing algorithms for language modeling.
-- **Information Retrieval**: Enhancing search engine performance.
-- **Cryptography**: Analyzing patterns in code-breaking.
 
 ## Related Topics
 

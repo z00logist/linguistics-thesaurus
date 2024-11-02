@@ -36,4 +36,4 @@ Crystal, D. (2008). *A Dictionary of Linguistics and Phonetics*. Wiley-Blackwell
 
 ---
 
-[Back to Phonetics](README.md)
+[Back to Phonetics](../README.md)

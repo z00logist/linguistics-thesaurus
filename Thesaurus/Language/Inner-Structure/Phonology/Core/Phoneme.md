@@ -2,7 +2,6 @@
 
 A phoneme is the smallest unit of sound in a language that can change the meaning of a word.
 
-> *According to Ladefoged and Johnson (2014)*, "Phonemes are the contrastive units in the sound system of a language."
 
 ## Characteristics
 
@@ -33,4 +32,4 @@ Ladefoged, P., & Johnson, K. (2014). *A Course in Phonetics*. Cengage Learning.
 
 ---
 
-[Back to Phonetics](README.md)
+[Back to Phonetics](../README.md)

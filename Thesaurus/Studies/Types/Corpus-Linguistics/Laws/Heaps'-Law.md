@@ -24,10 +24,6 @@ The relationship is often expressed as:
 - **Zipf's Law**: Describes the frequency distribution of words.
 - **Heaps' Law**: Describes the growth of vocabulary size with corpus size.
 
-## Applications
-
-- **Information Retrieval**: Understanding the expected vocabulary size aids in indexing and storage optimization.
-- **Language Modeling**: Helps in estimating the coverage of vocabulary in language models.
 
 ## Related Topics
 

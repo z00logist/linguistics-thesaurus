@@ -1,34 +1,24 @@
 # Lexical Semantics
 
-Lexical semantics is the study of how and what the words of a language denote. It focuses on the meanings of words and the relationships among them.
+Lexical semantics studies how words in a language denote meaning and the relationships among those words. It aims to understand the meanings of individual words and how they relate to each other.
 
 ## Key Concepts
 
-- **Word Meaning**: Understanding the inherent meaning of words.
-- **Semantic Relations**:
-  - **Synonymy**: Words with similar meanings (e.g., "big" and "large").
-  - **Antonymy**: Words with opposite meanings (e.g., "hot" and "cold").
-  - **Hyponymy**: Hierarchical relationship where one word is a kind of another (e.g., "rose" is a hyponym of "flower").
-  - **Meronymy**: Part-whole relationships (e.g., "wheel" is a part of "car").
-- **Polysemy**: A single word having multiple related meanings (e.g., "bank" as financial institution and riverbank).
-- **Homonymy**: Words that are spelled or pronounced the same but have different meanings (e.g., "bat" as an animal and "bat" used in sports).
+Lexical semantics explores several fundamental ideas:
 
-## Approaches
+- **Word Meaning**: Examining the inherent meanings of words.
+- **Semantic Relations** include:
+  - **Synonymy**, where words have similar meanings (e.g., "big" and "large").
+  - **Antonymy**, where words have opposite meanings (e.g., "hot" and "cold").
+  - **Hyponymy**, which describes hierarchical relationships where one word is a type of another (e.g., "rose" as a type of "flower").
+  - **Meronymy**, involving part-whole relationships (e.g., "wheel" as part of "car").
+- **Polysemy** refers to a single word that has multiple related meanings, such as "bank," which can mean a financial institution or a riverbank.
+- **Homonymy** involves words that are spelled or pronounced the same but have unrelated meanings, like "bat" (the animal) and "bat" (used in sports).
 
-- **Componential Analysis**: Breaking down word meanings into smaller semantic features.
-- **Prototype Theory**: Categories have central (prototypical) members and less central members.
-- **Cognitive Semantics**: Meaning is a function of cognitive processes and experiences.
-
-## Applications
-
-- **Dictionary Compilation**: Defining words and their meanings.
-- **Natural Language Processing**: Word sense disambiguation in computational models.
-- **Language Teaching**: Vocabulary development and understanding nuances.
 
 ## Related Topics
 
-- [Prototype Theory](Prototype-Theory.md)
-- [Semantic Fields](Semantic-Fields.md)
+- [Semantic Fields](../Advanced/Semantic-Fields.md)
 - [Sense and Reference](Sense-and-Reference.md)
 
 ## External Links
@@ -43,4 +33,4 @@ Lexical semantics is the study of how and what the words of a language denote. I
 
 ---
 
-[Back to Semantics](README.md)
+[Back to Semantics](../README.md)

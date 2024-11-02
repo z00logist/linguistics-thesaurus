@@ -35,11 +35,6 @@ Glottochronology is a method in historical linguistics that estimates the time o
 - **Borrowing**: Even basic vocabulary can be borrowed, affecting calculations.
 - **Statistical Validity**: Questions about the reliability of the mathematical models used.
 
-## Applications
-
-- **Estimating Divergence Times**: Providing rough timelines for when languages split.
-- **Comparative Studies**: Supplementing other methods in language classification.
-- **Interdisciplinary Research**: Collaborating with archaeology and genetics.
 
 ## Related Topics
 

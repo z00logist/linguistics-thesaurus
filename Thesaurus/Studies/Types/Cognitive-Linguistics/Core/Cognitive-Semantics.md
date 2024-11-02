@@ -14,12 +14,7 @@ Cognitive semantics is a subfield of cognitive linguistics that studies the rela
 - **Image Schemas**: Recurring patterns from sensory and motor experiences that structure thought.
 - **Frames**: Structures that represent stereotyped situations.
 - **Prototypes**: Central or typical examples of a category.
-
-## Applications
-
-- **Lexical Semantics**: Studying word meanings and relationships.
-- **Metaphor Analysis**: Understanding how metaphors shape thought.
-- **Discourse Analysis**: Examining how meaning is constructed in context.
+n context.
 
 ## Examples
 
@@ -45,4 +40,4 @@ Cognitive semantics is a subfield of cognitive linguistics that studies the rela
 
 ---
 
-[Back to Cognitive Linguistics](README.md)
+[Back to Cognitive Linguistics](../README.md)

@@ -22,17 +22,7 @@ Phonological reconstruction involves reconstructing the sound system of a proto-
 - **Economy**: Prefer the simplest set of changes that accounts for the data.
 - **Directionality**: Some sound changes are more common (e.g., voiceless to voiced).
 
-## Challenges
 
-- **Incomplete Data**: Missing information from extinct or poorly documented languages.
-- **Convergent Evolution**: Independent development of similar sounds.
-- **Borrowings**: Loanwords can introduce irregularities.
-
-## Applications
-
-- **Reconstructing Proto-Languages**: Understanding ancestral sound systems.
-- **Historical Phonology**: Studying the evolution of phonological systems.
-- **Linguistic Theory**: Testing models of phonological change.
 
 ## Related Topics
 

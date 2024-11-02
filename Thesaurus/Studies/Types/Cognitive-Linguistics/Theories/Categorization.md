@@ -9,17 +9,6 @@ Categorization is the cognitive process by which ideas and objects are recognize
 - **Prototype Theory**: Categories centered around typical examples.
 - **Exemplar Theory**: Categories represented by specific instances.
 
-## Importance
-
-- **Language Structure**: Influences how words are organized and used.
-- **Perception and Memory**: Affects how we perceive and recall information.
-- **Reasoning and Decision Making**: Guides how we make inferences.
-
-## Applications
-
-- **Lexical Semantics**: Understanding word meanings and relationships.
-- **Artificial Intelligence**: Designing algorithms for categorization tasks.
-- **Psychology**: Studying how categories are formed and used.
 
 ## Related Topics
 
@@ -40,4 +29,4 @@ Categorization is the cognitive process by which ideas and objects are recognize
 
 ---
 
-[Back to Cognitive Linguistics](README.md)
+[Back to Cognitive Linguistics](../README.md)

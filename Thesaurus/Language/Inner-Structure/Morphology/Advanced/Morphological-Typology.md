@@ -34,4 +34,4 @@ Morphological typology is the classification of languages based on their morphol
 
 ---
 
-[Back to Morphology](README.md)
+[Back to Morphology](../README.md)

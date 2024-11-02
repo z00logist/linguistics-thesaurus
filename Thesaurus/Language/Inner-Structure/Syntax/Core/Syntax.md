@@ -2,21 +2,8 @@
 
 Syntax is the study of the rules and principles that govern the structure of sentences in a language. It examines how words combine to form phrases and sentences.
 
-> **Carnie (2013):**
-> "Syntax is the system of rules that governs sentence structure."
-
-## Key Concepts
-
-- **Phrase Structure Rules**: Describe how words and phrases are organized hierarchically.
-- **Constituents**: Groups of words functioning as a unit.
-- **Syntactic Trees**: Visual representations of sentence structure.
-- **Grammatical Relations**: Roles like subject, object, etc.
-
-## Related Topics
-
-- [Phrase Structure Rules](Phrase-Structure-Rules.md)
-- [Constituents](Constituents.md)
-- [Universal Grammar](Universal-Grammar.md)
+> **Chomsky (1957,):**
+> "Syntax is the study of the principles and processes by which sentences are constructed in particular languages."
 
 ## External Links
 
@@ -25,8 +12,8 @@ Syntax is the study of the rules and principles that govern the structure of sen
 
 ## References
 
-- Carnie, A. (2013). *Syntax: A Generative Introduction*. Wiley-Blackwell.
+- Chomsky, N. (1957). Syntactic structures. *Mouton*.
 
 ---
 
-[Back to Syntax](README.md)
+[Back to Syntax](../README.md)

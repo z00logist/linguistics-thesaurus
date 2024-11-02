@@ -15,12 +15,6 @@ Image schemas are recurring, dynamic patterns of our perceptual interactions and
 - **Force Schema**: Interaction involving force dynamics.
 - **Balance Schema**: Concepts of equilibrium.
 
-## Applications
-
-- **Metaphor Formation**: Basis for conceptual metaphors (e.g., "Ideas are objects").
-- **Language Understanding**: Explains how abstract concepts are grounded in physical experience.
-- **Cognitive Development**: Insight into how children acquire language and concepts.
-
 ## Related Topics
 
 - [Conceptual Metaphor Theory](../Conceptual-Metaphor-Theory.md)
@@ -40,4 +34,4 @@ Image schemas are recurring, dynamic patterns of our perceptual interactions and
 
 ---
 
-[Back to Advanced Topics](README.md)
+[Back to Cognitive Linguistics](../README.md)

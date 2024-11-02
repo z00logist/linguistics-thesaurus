@@ -4,20 +4,17 @@ Dependency grammar is a type of syntax theory that focuses on the relationships 
 
 ## Characteristics
 
-- **Head-Dependent Relations**: Every word (dependent) is connected to a head.
-- **No Phrase Nodes**: Unlike constituency grammar, no phrasal categories.
-- **Tree Structure**: Forms a connected tree with one root (the main verb).
+Dependency grammar has a few distinctive features:
 
-## Importance
+- Each word in a sentence (a dependent) is linked to another word, called the head, forming a hierarchy.
+- Unlike constituency grammar, dependency grammar does not use phrasal categories or phrase nodes.
+- The sentence is represented as a connected tree structure, with one root, usually the main verb, connecting all other words.
 
-- **Emphasis on Relationships**: Highlights the direct connections between words.
-- **Computational Applications**: Useful in parsing algorithms.
 
 ## Related Topics
 
-- [Syntax](Syntax.md)
-- [Grammatical Relations](Grammatical-Relations.md)
-- [Syntactic Tree](Syntactic-Tree.md)
+- [Grammatical Relations](../Core/Grammatical-Relations.md)
+- [Syntactic Tree](../Core/Syntactic-Tree.md)
 
 ## External Links
 
@@ -30,4 +27,4 @@ Dependency grammar is a type of syntax theory that focuses on the relationships 
 
 ---
 
-[Back to Syntax](README.md)
+[Back to Syntax](../README.md)

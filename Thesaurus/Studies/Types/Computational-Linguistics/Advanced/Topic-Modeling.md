@@ -14,11 +14,6 @@ Topic modeling is a technique in natural language processing used to discover th
 - **Non-Negative Matrix Factorization (NMF)**: A linear algebra approach that decomposes document-term matrices into topics and word distributions.
 - **Latent Semantic Analysis (LSA)**: Reduces dimensionality by identifying patterns in term-document matrices through singular value decomposition (SVD).
 
-## Applications
-
-- **Content Recommendation**: Recommends similar content based on topics.
-- **Sentiment and Trend Analysis**: Tracks topics over time to analyze trends or changes in sentiment.
-- **Document Summarization**: Provides high-level summaries of large text corpora by identifying key topics.
 
 
 ## External Links

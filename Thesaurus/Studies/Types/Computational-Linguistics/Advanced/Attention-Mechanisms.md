@@ -13,11 +13,6 @@ Attention mechanisms allow models to focus on specific parts of the input when g
 - **Additive Attention**: Uses a feedforward network to compute attention weights.
 - **Multiplicative (Dot-Product) Attention**: Computes the similarity between queries and keys via dot product.
 
-## Applications
-
-- **Machine Translation**: Aligning source and target language words.
-- **Text Summarization**: Focusing on important parts of the text.
-- **Transformers**: Foundation of models like BERT and GPT.
 
 ## Related Topics
 

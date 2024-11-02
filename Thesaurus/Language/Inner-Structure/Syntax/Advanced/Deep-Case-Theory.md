@@ -2,41 +2,26 @@
 
 Deep Case Theory, proposed by Charles J. Fillmore in 1968, is a model in syntax that emphasizes the underlying semantic roles (cases) that nouns play in sentences.
 
-## Key Concepts
+The theory is built around several key ideas:
 
-- **Case Grammar**: Focuses on the relationship between verbs and nouns based on semantic roles.
-- **Deep Cases**: Abstract semantic roles such as Agent, Patient, Instrument, Beneficiary, etc.
-- **Surface Structure vs. Deep Structure**: Differentiates between the syntactic form of a sentence and its underlying semantic representation.
+- Case grammar emphasizes the relationship between verbs and nouns, focusing on their semantic roles.
+- Deep cases refer to abstract roles such as Agent, Patient, Instrument, Beneficiary, and others that explain how nouns function semantically within a sentence.
+- The distinction between surface structure and deep structure shows the difference between the syntactic form of a sentence and its deeper semantic representation.
+
 
 ## Deep Cases
 
-- **Agentive (A)**: The doer of an action.
-- **Instrumental (I)**: The means by which an action is performed.
-- **Dative (D)**: The entity affected indirectly by an action.
-- **Factitive (F)**: The object resulting from an action.
-- **Locative (L)**: The location of an action.
-- **Objective (O)**: The entity directly affected by an action.
+- Agentive (A), representing the doer of an action.
+- Instrumental (I), indicating the means used to perform an action.
+- Dative (D), referring to the entity indirectly affected by an action.
+- Factitive (F), describing the object that results from an action.
+- Locative (L), specifying the location where an action takes place.
+- Objective (O), pointing to the entity directly affected by an action.
 
-## Importance
-
-- **Syntax-Semantics Interface**: Bridges the gap between syntactic structures and semantic interpretation.
-- **Language Universals**: Suggests that deep cases are universal across languages.
-- **Transformational Grammar**: Integrates with Chomsky's theories to explain sentence generation.
-
-## Applications
-
-- **Linguistic Analysis**: Provides a framework for analyzing sentence structure and meaning.
-- **Computational Linguistics**: Influences natural language understanding and parsing.
-- **Language Teaching**: Assists in explaining sentence roles and grammar.
-
-## Related Topics
-
-- [Case Grammar](https://en.wikipedia.org/wiki/Case_grammar)
-- [Semantic Roles](../../Semantics/Semantic-Roles.md)
-- [Transformational Grammar](Transformational-Grammar.md)
 
 ## External Links
 
+- [Case Grammar](https://en.wikipedia.org/wiki/Case_grammar)
 - [Fillmore's Case Grammar - Wikipedia](https://en.wikipedia.org/wiki/Case_grammar)
 - [Case Theory in Linguistics](https://glottopedia.org/wiki/Case_grammar)
 
@@ -47,4 +32,4 @@ Deep Case Theory, proposed by Charles J. Fillmore in 1968, is a model in syntax 
 
 ---
 
-[Back to Advanced Syntax](README.md)
+[Back to Syntax](../README.md)

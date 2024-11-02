@@ -2,7 +2,7 @@
 
 Sociolinguistics examines the interplay between language and society, revealing how social factors influence linguistic variation and change.
 
-> **Wardhaugh and Fuller (2015):**
+> **Spolsky, 1998:**
 > "Sociolinguistics is the field that studies the relationship between language and society, between the uses of language and the social structures in which the users of language live."
 
 ## Key Concepts
@@ -33,7 +33,7 @@ For more details, see [Labov's New York City Study](Labovs-New-York-City-Study.m
 ## References
 
 - Wardhaugh, R., & Fuller, J. M. (2015). *An Introduction to Sociolinguistics*. Wiley-Blackwell.
-
+- Spolsky, B. (1998). *Sociolinguistics*. Oxford University Press.
 ---
 
-[Back to Sociolinguistics](README.md)
+[Back to Sociolinguistics](../README.md)

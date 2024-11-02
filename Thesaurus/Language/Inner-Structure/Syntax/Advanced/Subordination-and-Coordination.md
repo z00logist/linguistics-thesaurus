@@ -1,29 +1,23 @@
 # Subordination and Coordination
 
-These are mechanisms for combining clauses in sentences.
+Subordination and coordination are two ways of combining clauses in sentences to create more complex structures.
 
 ## Coordination
 
-- **Definition**: Links clauses or phrases of equal grammatical status.
-- **Coordinating Conjunctions**: "and," "but," "or"
-- **Example**:
-  - "She likes tea *and* he likes coffee."
+Coordination involves linking clauses or phrases that have equal grammatical status. This is typically done using coordinating conjunctions like "and," "but," and "or."
+
+### Example
+- "She likes tea *and* he likes coffee."
 
 ## Subordination
 
-- **Definition**: Combines a main clause with one or more subordinate (dependent) clauses.
-- **Subordinating Conjunctions**: "because," "although," "if"
-- **Example**:
-  - "She left early *because* she was tired."
+Subordination connects a main clause with one or more subordinate (dependent) clauses, allowing for a hierarchy of importance within the sentence. Subordinating conjunctions such as "because," "although," and "if" are used.
 
-## Importance
-
-- **Complex Sentences**: Allows for the expression of more complex ideas.
-- **Syntax Structures**: Helps in understanding clause relationships.
+### Example
+- "She left early *because* she was tired."
 
 ## Related Topics
 
-- [Syntax](Syntax.md)
 - [Recursion](Recursion.md)
 - [Phrase Structure Rules](Phrase-Structure-Rules.md)
 
@@ -38,4 +32,4 @@ These are mechanisms for combining clauses in sentences.
 
 ---
 
-[Back to Syntax](README.md)
+[Back to Syntax](../README.md)

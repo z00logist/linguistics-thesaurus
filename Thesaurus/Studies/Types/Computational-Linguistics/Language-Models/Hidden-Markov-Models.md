@@ -22,12 +22,7 @@ Hidden Markov Models (HMMs) are statistical models that represent systems with u
 - **Viterbi Algorithm**: Finds the most likely sequence of hidden states given an observed sequence, commonly used in speech recognition and part-of-speech tagging.
 - **Baum-Welch Algorithm**: An expectation-maximization algorithm used to estimate the parameters of an HMM, particularly for unsupervised learning.
 
-## Applications
 
-- **Part-of-Speech Tagging**: Assigns parts of speech to words in a sentence by predicting the sequence of hidden tags.
-- **Speech Recognition**: Models phoneme sequences in audio to transcribe spoken language into text.
-- **Gene Prediction**: Identifies coding regions in DNA sequences by modeling sequences of nucleotide patterns.
-- **Named Entity Recognition (NER)**: Identifies and classifies entities in text, such as names and locations.
 
 ## Related Topics
 

@@ -29,4 +29,4 @@ Coarticulation is the phenomenon where speech sounds overlap and influence each 
 
 ---
 
-[Back to Phonetics](README.md)
+[Back to Phonetics](../README.md)

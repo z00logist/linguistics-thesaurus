@@ -2,8 +2,8 @@
 
 Frame semantics is a theory that relates linguistic semantics to encyclopedic knowledge, proposing that words evoke certain frames or schemas of knowledge.
 
-> **Fillmore (1982):**
-> "Meanings are relativized to scenes; words name categories of experience structured in terms of background frames."
+> **Fillmore (1977):**
+> "Meanings are relativized to frames."
 
 ## Key Concepts
 
@@ -11,11 +11,6 @@ Frame semantics is a theory that relates linguistic semantics to encyclopedic kn
 - **Semantic Roles**: Participants in the frame (e.g., Agent, Patient, Instrument).
 - **Valence**: The number of arguments a verb can have, associated with the frame.
 
-## Applications
-
-- **Lexicography**: Developing dictionaries that include frame information.
-- **Natural Language Processing**: Enhancing semantic understanding in computational models.
-- **Discourse Analysis**: Analyzing how frames influence interpretation.
 
 ## Examples
 
@@ -40,10 +35,12 @@ Frame semantics is a theory that relates linguistic semantics to encyclopedic kn
 
 ## References
 
+- Fillmore, C. J.  (1977a). "The Case for Case Reopened". *In Syntax and Semantics 8:
+Grammatical Relations*, ed. P. Cole, 59 – 81. New York: Academic Press
 - Fillmore, C. J. (1982). "Frame Semantics." *Linguistics in the Morning Calm*, 111–137.
 - Fillmore, C. J., & Baker, C. F. (2010). "A Frames Approach to Semantic Analysis." In *The Oxford Handbook of Linguistic Analysis*, 313–340.
 - Evans, V., & Green, M. (2006). *Cognitive Linguistics: An Introduction*. Lawrence Erlbaum Associates.
 
 ---
 
-[Back to Cognitive Linguistics](README.md)
+[Back to Cognitive Linguistics](../README.md)

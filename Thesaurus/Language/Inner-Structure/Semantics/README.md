@@ -13,7 +13,6 @@ Semantics is the branch of linguistics that studies meaning in language. This se
 ### 2. [Advanced](Advanced/README.md)
 - [Formal Semantics](Advanced/Formal-Semantics.md)
 - [Natural Semantic Metalanguage](Advanced/Natural-Semantic-Metalanguage.md)
-- [Prototype Theory](Advanced/Prototype-Theory.md)
 - [Semantic Fields](Advanced/Semantic-Fields.md)
 - [Semantic Roles](Advanced/Semantic-Roles.md)
 - [Pragmatics](Advanced/Pragmatics.md)

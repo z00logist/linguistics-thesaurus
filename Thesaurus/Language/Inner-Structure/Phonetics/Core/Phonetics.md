@@ -2,7 +2,14 @@
 
 Phonetics is the study of the physical properties of speech sounds, focusing on their production, acoustic characteristics, and how they are perceived by listeners. It encompasses three main areas: articulatory phonetics (how sounds are made), acoustic phonetics (the sound wave properties), and auditory phonetics (the perception of these sounds).
 
-> *Ladefoged and Johnson (2014) describe phonetics as*: "Phonetics is the science concerned with the physical properties of speech sounds."
+> **Hayes (2009):**
+> " Phonetics is primarily an experimental science, which studies speech sounds from
+three viewpoints:  
+• Production: how sounds are made in the human vocal tract  
+• Acoustics: the study of the waveforms by which speech is transmitted through
+the atmosphere  
+• Perception: how the incoming acoustic signal is processed to detect the sound
+sequence originally intended by the speaker"
 
 ## Branches of Phonetics
 
@@ -38,8 +45,8 @@ For more information:
 
 ## References
 
-Ladefoged, P., & Johnson, K. (2014). *A Course in Phonetics*. Cengage Learning.
-
+- Ladefoged, P., & Johnson, K. (2014). *A Course in Phonetics*. Cengage Learning.
+- Hayes, B. (2009). *Introductory Phonology*. Wiley-Blackwell.
 ---
 
-[Back to Phonetics](README.md)
+[Back to Phonetics](../README.md)

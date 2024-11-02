@@ -9,16 +9,7 @@ An n-gram is a contiguous sequence of n items from a given sample of text or spe
 - **Trigrams (3-grams)**: Triplets of consecutive words.
 - **Higher-order n-grams**: Sequences of four or more words.
 
-## Applications
 
-- **Language Modeling**: Predicting the next word in a sequence.
-- **Text Analysis**: Identifying common phrases and structures.
-- **Information Retrieval**: Improving search algorithms.
-
-## Examples
-
-- **Bigram**: "New York", "data analysis"
-- **Trigram**: "to be or", "end of the"
 
 ## Related Topics
 

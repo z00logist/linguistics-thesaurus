@@ -1,14 +1,18 @@
 # Natural Semantic Metalanguage (NSM)
 
-The Natural Semantic Metalanguage (NSM) is a linguistic theory developed by Anna Wierzbicka and colleagues, proposing that all meanings can be decomposed into a set of universal semantic primitives.
+The Natural Semantic Metalanguage (NSM) is a linguistic theory developed by Anna Wierzbicka and colleagues, proposing that all meanings can be broken down into a set of universal semantic building blocks called semantic primitives or primes.
 
 ## Key Concepts
 
-- **Semantic Primes**: A set of basic, universal meanings found in all languages (e.g., "I", "you", "someone", "something", "good", "bad").
-- **Reductive Paraphrase**: Explaining complex meanings using only semantic primes.
-- **Culture and Language**: Emphasizes the relationship between language, thought, and culture.
+NSM centers around a few core ideas:
+
+- **Semantic Primes** are basic, universal meanings that exist across all languages. Examples include simple concepts like "I," "you," "someone," "something," "good," and "bad."
+- **Reductive Paraphrase** is the process of explaining complex meanings using only these semantic primes.
+- NSM highlights the strong connection between **language, thought, and culture**, showing how universal meanings are expressed differently across cultures.
 
 ## Semantic Primes
+
+Some common semantic primes include:
 
 - **Substantives**: I, you, someone, something, people.
 - **Determiners**: This, the same, other.
@@ -19,24 +23,6 @@ The Natural Semantic Metalanguage (NSM) is a linguistic theory developed by Anna
 - **Speech**: Say, words, true.
 
 *(The list continues to cover approximately 65 primes.)*
-
-## Applications
-
-- **Cross-Linguistic Semantics**: Comparing meanings across different languages without bias.
-- **Intercultural Communication**: Facilitating understanding by using universal concepts.
-- **Language Teaching**: Assisting learners in grasping core meanings.
-
-## Importance
-
-- **Avoiding Circular Definitions**: Uses irreducible concepts to define words.
-- **Cultural Scripts**: Describes cultural norms and practices using semantic primes.
-- **Translation Studies**: Aids in achieving semantic equivalence across languages.
-
-## Related Topics
-
-- [Semantic Primitives](https://en.wikipedia.org/wiki/Semantic_primes)
-- [Cognitive Semantics](Cognitive-Semantics.md)
-- [Lexical Semantics](../Lexical-Semantics.md)
 
 ## External Links
 

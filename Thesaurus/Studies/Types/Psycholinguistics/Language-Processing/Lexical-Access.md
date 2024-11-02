@@ -20,11 +20,6 @@ Lexical access refers to the process of retrieving a word's meaning, pronunciati
 - **Context Effects**: Semantic context can facilitate access.
 - **Phonological Similarity**: Words that sound alike can interfere.
 
-## Applications
-
-- **Aphasia Treatment**: Helping patients recover word retrieval abilities.
-- **Reading and Dyslexia**: Understanding reading processes and impairments.
-- **Language Learning**: Enhancing vocabulary acquisition strategies.
 
 ## Related Topics
 

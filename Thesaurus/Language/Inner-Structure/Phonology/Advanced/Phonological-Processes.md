@@ -33,4 +33,4 @@ There are several common types of phonological processes:
 
 ---
 
-[Back to Phonology](README.md)
+[Back to Phonology](../README.md)

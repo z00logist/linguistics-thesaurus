@@ -17,11 +17,7 @@ A concordance is an alphabetical list of the principal words used in a text or c
 
 - **Concordancers**: Software applications that generate concordances (e.g., AntConc, WordSmith Tools).
 
-## Applications
 
-- **Lexicography**: Aid in dictionary definitions.
-- **Language Teaching**: Provide authentic examples of usage.
-- **Discourse Analysis**: Examine patterns in language use.
 
 ## Related Topics
 

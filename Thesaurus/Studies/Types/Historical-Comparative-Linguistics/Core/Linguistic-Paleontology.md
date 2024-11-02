@@ -14,17 +14,7 @@ Linguistic paleontology is a method that uses reconstructed vocabulary from prot
 2. **Analyze Semantic Fields**: Group related words to understand broader concepts.
 3. **Draw Inferences**: Make educated guesses about the proto-culture.
 
-## Applications
 
-- **Indo-European Studies**: Reconstructing aspects of Proto-Indo-European culture.
-- **Migration Patterns**: Tracing the movements of peoples based on shared vocabulary.
-- **Interdisciplinary Research**: Collaborating with archaeologists and anthropologists.
-
-## Limitations
-
-- **Semantic Shift**: Meanings of words can change over time.
-- **Circular Reasoning**: Risk of projecting modern concepts onto ancient cultures.
-- **Incomplete Data**: Gaps in the reconstructed vocabulary can lead to incomplete conclusions.
 
 ## Related Topics
 

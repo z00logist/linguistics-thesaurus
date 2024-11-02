@@ -13,11 +13,7 @@ Word embeddings map words or phrases from a vocabulary to numerical vector repre
 - **Predictive Models**: Learn embeddings by predicting context words (e.g., Word2Vec).
 - **Count-Based Models**: Use word co-occurrence statistics (e.g., GloVe).
 
-## Applications
 
-- **Semantic Analysis**: Measuring word similarity.
-- **Machine Translation**: Mapping words across languages.
-- **Information Retrieval**: Enhancing search algorithms.
 
 ## Related Topics
 

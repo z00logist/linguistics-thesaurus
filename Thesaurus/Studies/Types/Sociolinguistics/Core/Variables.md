@@ -16,11 +16,7 @@ A sociolinguistic variable is a feature of language use that correlates with soc
 - **Th-fronting**:
   - Pronouncing "think" as "fink."
 
-## Importance
 
-- **Indicator of Social Identity**: Variants can signal group membership.
-- **Quantitative Analysis**: Allows researchers to measure linguistic variation statistically.
-- **Understanding Language Change**: Variants can become more or less frequent over time.
 
 ## Related Studies
 
@@ -44,4 +40,4 @@ A sociolinguistic variable is a feature of language use that correlates with soc
 
 ---
 
-[Back to Sociolinguistics](README.md)
+[Back to Sociolinguistics](../README.md)

@@ -32,4 +32,4 @@ Allomorphs are variations of a morpheme that differ in pronunciation but not in 
 
 ---
 
-[Back to Morphology](README.md)
+[Back to Morphology](../README.md)

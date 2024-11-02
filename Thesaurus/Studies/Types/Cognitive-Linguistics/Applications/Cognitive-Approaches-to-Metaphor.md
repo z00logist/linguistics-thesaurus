@@ -8,22 +8,14 @@ Cognitive approaches to metaphor examine how metaphors are fundamental to though
 - **Metaphorical Mapping**: Systematic correspondences between source and target domains.
 - **Embodied Metaphor**: Grounding metaphors in physical experiences.
 
-## Importance
 
-- **Cognition**: Shapes our conceptual system and reasoning.
-- **Emotion**: Influences how we experience and express emotions.
-- **Communication**: Affects how we convey and interpret messages.
 
 ## Examples
 
 - **Argument is War**: "He attacked my argument."
 - **Life is a Journey**: "She's at a crossroads in her life."
 
-## Applications
 
-- **Therapy**: Using metaphors to reframe experiences.
-- **Education**: Enhancing learning through metaphorical concepts.
-- **Marketing**: Creating compelling narratives for products.
 
 ## Related Topics
 
@@ -44,4 +36,4 @@ Cognitive approaches to metaphor examine how metaphors are fundamental to though
 
 ---
 
-[Back to Cognitive Linguistics](README.md)
+[Back to Cognitive Linguistics](../README.md)

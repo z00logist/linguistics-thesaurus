@@ -3,7 +3,9 @@
 Phonology is the study of how sounds function within a particular language, focusing on the system and patterns of sounds that convey meaning.
 
 > **Hayes (2009):**
-> "Phonology examines the abstract, grammatical characterization of systems of sounds or signs."
+> " The goal of phonology is to understand the tacit system of
+rules that the speaker uses in apprehending and manipulating the sounds of her
+language"
 
 ## Key Concepts
 
@@ -32,4 +34,4 @@ Phonology includes several important concepts:
 
 ---
 
-[Back to Phonology](README.md)
+[Back to Phonology](../README.md)

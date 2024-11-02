@@ -3,7 +3,7 @@
 Universal Grammar is the theory that the ability to acquire grammar is hard-wired into the brain, and that all human languages share certain fundamental principles.
 
 > **Chomsky (1986):**
-> "Universal grammar provides the underlying structure common to all languages."
+> "UG [Universal Grammar] may be regarded as characterization of the genetically determined language faculty."
 
 ## Key Concepts
 
@@ -11,15 +11,9 @@ Universal Grammar is the theory that the ability to acquire grammar is hard-wire
 - **Language Acquisition Device (LAD)**: Hypothetical brain mechanism for language learning.
 - **Principles and Parameters**: Universal principles with language-specific parameters.
 
-## Importance
-
-- **Language Acquisition**: Explains how children learn complex grammar quickly.
-- **Cross-Linguistic Studies**: Helps identify universal linguistic features.
-
 ## Related Topics
 
 - [Transformational Grammar](Transformational-Grammar.md)
-- [Syntax](Syntax.md)
 - [Recursion](Recursion.md)
 
 ## External Links
@@ -33,4 +27,4 @@ Universal Grammar is the theory that the ability to acquire grammar is hard-wire
 
 ---
 
-[Back to Syntax](README.md)
+[Back to Syntax](../README.md)

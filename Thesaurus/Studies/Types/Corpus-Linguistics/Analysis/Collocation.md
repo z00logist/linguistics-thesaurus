@@ -12,12 +12,6 @@ Collocation refers to the habitual juxtaposition of a particular word with other
 - **Grammatical Collocations**: A dominant word (noun, verb, adjective) and a preposition or grammatical structure (e.g., "depend on").
 - **Lexical Collocations**: Two lexical words (nouns, adjectives, verbs) that commonly occur together (e.g., "heavy rain").
 
-## Importance
-
-- **Language Proficiency**: Essential for natural-sounding language use.
-- **Machine Translation**: Helps in generating accurate translations.
-- **Lexicography**: Important in dictionary entries.
-
 ## Related Topics
 
 - [Corpus Linguistics](Corpus-Linguistics.md)

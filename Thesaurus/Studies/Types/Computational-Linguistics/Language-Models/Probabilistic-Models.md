@@ -8,11 +8,6 @@ Probabilistic models in computational linguistics use probability theory to mode
 - **Bayesian Networks**: Represent probabilistic relationships among variables.
 - **Conditional Random Fields (CRFs)**: Used for structured prediction, improving over HMMs by considering future states.
 
-## Applications
-
-- **Part-of-Speech Tagging**: Assigning grammatical categories to words.
-- **Speech Recognition**: Modeling the probability of phoneme sequences.
-- **Machine Translation**: Estimating the probability of translation pairs.
 
 ## Concepts
 

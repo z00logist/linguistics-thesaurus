@@ -2,10 +2,6 @@
 
 A structured system of communication used by humans, consisting of grammar and vocabulary. Language allows for the expression of ideas, emotions, and intentions.
 
-> **Crystal (2008):**
-> "Language is the systematic, conventional use of sounds, signs, or written symbols in a human society for communication and self-expression."
-
-
 
 ## Explore Types of Languages
 

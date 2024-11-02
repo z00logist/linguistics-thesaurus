@@ -39,4 +39,4 @@ Embodiment in language refers to the idea that cognitive processes, including la
 
 ---
 
-[Back to Cognitive Linguistics](README.md)
+[Back to Cognitive Linguistics](../README.md)

@@ -18,11 +18,6 @@ Subjectivity and intersubjectivity in cognitive linguistics refer to the ways la
   - "You know, that movie we saw last week."
   - "As we all agree, education is important."
 
-## Importance
-
-- **Communication**: Facilitates effective interaction by aligning perspectives.
-- **Language Change**: Subjectification processes influence grammaticalization.
-
 ## Related Topics
 
 - [Pragmatics](../../Language/Inner-Structure/Pragmatics/Pragmatics.md)
@@ -42,4 +37,4 @@ Subjectivity and intersubjectivity in cognitive linguistics refer to the ways la
 
 ---
 
-[Back to Advanced Topics](README.md)
+[Back to Cognitive Linguistics](../README.md)

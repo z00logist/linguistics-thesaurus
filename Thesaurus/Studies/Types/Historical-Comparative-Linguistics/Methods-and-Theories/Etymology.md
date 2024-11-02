@@ -23,11 +23,6 @@ Etymology is the study of the origin and historical development of words. It tra
 - **Folk Etymology**: Misleading or incorrect popular explanations.
 - **Semantic Drift**: Changes in meaning that obscure original senses.
 
-## Applications
-
-- **Dictionary Compilation**: Providing word histories in lexicons.
-- **Cultural Studies**: Understanding cultural influences on language.
-- **Language Education**: Enhancing vocabulary learning through word histories.
 
 ## Notable Concepts
 

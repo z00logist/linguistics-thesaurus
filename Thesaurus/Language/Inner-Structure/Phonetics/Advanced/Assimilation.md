@@ -32,4 +32,4 @@ Assimilation is a phonetic process where a sound changes to become more like a n
 
 ---
 
-[Back to Phonetics](README.md)
+[Back to Phonetics](../README.md)

@@ -44,13 +44,6 @@ An EBNF for the same arithmetic expressions:
 <expression> ::= <term> { "+" <term> } <term> ::= <factor> { "*" <factor> } <factor> ::= <number> | "(" <expression> ")" <number> ::= "0" | "1" | "2" | ... | "9"
 
 
-## Applications
-
-- **Programming Language Design**: Used to define the grammar of programming languages.
-- **Compiler Construction**: Aids in building parsers for language syntax checking.
-- **LLM Instruction Design**: BNF structures are increasingly used to instruct large language models by creating format constraints, structured responses, and rule-driven outputs, ensuring consistency and adherence to predefined syntax.
-- **Documentation**: Provides clear language rules for users and developers.
-
 ## Related Topics
 
 - [LLMs](Large-Language-Models.md)

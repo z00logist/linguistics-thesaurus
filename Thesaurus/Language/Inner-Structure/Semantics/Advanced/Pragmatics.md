@@ -1,31 +1,24 @@
 # Pragmatics
 
-Pragmatics is the branch of linguistics concerned with language use in context and the ways in which context contributes to meaning.
+Pragmatics is a branch of linguistics that explores how language is used in context and how context influences meaning.
 
 ## Key Concepts
 
-- **Context**: The situation in which communication occurs, including physical, social, and cultural factors.
-- **Speech Acts**: Actions performed via utterances (e.g., requesting, promising).
-- **Implicature**: Meaning implied but not explicitly stated.
-- **Deixis**: Words and phrases that cannot be fully understood without contextual information (e.g., "this," "here," "now").
-- **Presupposition**: Assumptions made by speakers that are taken for granted.
+Pragmatics involves several essential ideas:
+
+- **Context** refers to the circumstances surrounding communication, including physical, social, and cultural elements.
+- **Speech Acts** are actions carried out through language, such as making requests or promises.
+- **Implicature** involves meaning that is suggested but not directly stated.
+- **Deixis** includes words or phrases that require contextual information to be understood (e.g., "this," "here," "now").
+- **Presupposition** encompasses assumptions that speakers make and expect listeners to recognize as given.
 
 ## Theories
 
-- **Grice's Cooperative Principle**: Speakers and listeners cooperate in communication, adhering to maxims of quality, quantity, relevance, and manner.
-- **Relevance Theory**: Proposes that human communication is guided by the expectation of relevance.
+Some important theories in pragmatics include:
 
-## Applications
+- **Grice's Cooperative Principle**, which suggests that speakers and listeners collaborate during communication, following maxims related to quality, quantity, relevance, and manner.
+- **Relevance Theory**, which proposes that communication is driven by the expectation of relevance and the effort to convey and interpret meaningful information efficiently.
 
-- **Discourse Analysis**: Studying language use in texts and conversations.
-- **Language Teaching**: Teaching language functions and appropriate usage.
-- **Computational Linguistics**: Developing systems that can understand and generate contextually appropriate responses.
-
-## Related Topics
-
-- [Semantics](Semantics.md)
-- [Speech Acts](Speech-Acts.md)
-- [Discourse Analysis](../../Discourse/README.md)
 
 ## External Links
 
@@ -39,4 +32,4 @@ Pragmatics is the branch of linguistics concerned with language use in context a
 
 ---
 
-[Back to Semantics](README.md)
+[Back to Semantics](../README.md)

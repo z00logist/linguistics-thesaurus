@@ -21,23 +21,12 @@ Sound change refers to systematic alterations in pronunciation that occur within
 - **Verner's Law**: Addresses exceptions to Grimm's Law based on stress patterns.
 - **The Great Vowel Shift**: A major change in the pronunciation of English vowels during the 15th to 18th centuries.
 
-## Importance
-
-- **Reconstruction**: Identifying regular sound correspondences aids in reconstructing ancestral languages.
-- **Historical Linguistics**: Provides evidence for language relationships.
-- **Phonological Theory**: Helps understand phonological processes and patterns.
-
 ## Methods
 
 - **Comparative Analysis**: Comparing cognates across related languages.
 - **Phonetic Transcription**: Recording sounds accurately for analysis.
 - **Regularity Principle**: Assuming that sound changes are regular and systematic.
 
-## Applications
-
-- **Etymology**: Tracing the origin and evolution of words.
-- **Dialectology**: Studying variations within a language.
-- **Language Teaching**: Explaining historical pronunciation changes.
 
 ## Related Topics
 

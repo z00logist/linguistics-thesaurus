@@ -22,12 +22,6 @@ Morphological reconstruction involves reconstructing the morphological structure
 - **Morphological Erosion**: Loss of morphological markers over time.
 - **Polysemy and Homonymy**: Multiple meanings complicate reconstructions.
 
-## Applications
-
-- **Understanding Grammatical Evolution**: Tracing the development of grammatical systems.
-- **Language Typology**: Informing typological classifications based on morphological features.
-- **Comparative Grammar**: Studying similarities and differences in grammatical structures.
-
 ## Related Topics
 
 - [Phonological Reconstruction](Phonological-Reconstruction.md)

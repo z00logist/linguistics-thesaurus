@@ -28,4 +28,4 @@ Suppletion is a morphological phenomenon where an irregular morphological change
 
 ---
 
-[Back to Morphology](README.md)
+[Back to Morphology](../README.md)

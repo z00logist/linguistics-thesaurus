@@ -8,13 +8,7 @@ The Bag of Words model is a simplifying representation used in natural language 
 - **Vocabulary Size**: The dimensionality of the vector equals the size of the vocabulary.
 - **Simplicity**: Easy to implement and use for text classification tasks.
 
-## Applications
 
-- **Text Classification**: Spam detection, sentiment analysis.
-- **Information Retrieval**: Document similarity measures.
-- **Topic Modeling**: Identifying topics within a corpus.
-
-## Limitations
 
 - **Lack of Context**: Ignores word order and semantics.
 - **High Dimensionality**: Can lead to computational inefficiency.

@@ -9,16 +9,10 @@ Recursion is the property of language that allows for the embedding of structure
 - **Coordination**:
   - "He likes apples and oranges and bananas and..."
 
-## Importance
 
-- **Generative Capacity**: Demonstrates the infinite potential of language.
-- **Syntax Structures**: Essential in forming complex sentences.
+## Related Topic
 
-## Related Topics
-
-- [Syntax](Syntax.md)
 - [Universal Grammar](Universal-Grammar.md)
-- [Phrase Structure Rules](Phrase-Structure-Rules.md)
 
 ## External Links
 
@@ -31,4 +25,4 @@ Recursion is the property of language that allows for the embedding of structure
 
 ---
 
-[Back to Syntax](README.md)
+[Back to Syntax](../README.md)

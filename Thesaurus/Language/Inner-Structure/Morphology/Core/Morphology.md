@@ -3,7 +3,7 @@
 Morphology is the branch of linguistics concerned with the form and internal structure of words. It examines how morphemes—the smallest units of meaning—combine to create words.
 
 > **Katamba (1993):**
-> "Morphology deals with the rules governing word formation."
+> "... morphology, the study of the internal structure of words..."
 
 ## Related Topics
 
@@ -22,4 +22,4 @@ Morphology is the branch of linguistics concerned with the form and internal str
 
 ---
 
-[Back to Morphology](README.md)
+[Back to Morphology](../README.md)

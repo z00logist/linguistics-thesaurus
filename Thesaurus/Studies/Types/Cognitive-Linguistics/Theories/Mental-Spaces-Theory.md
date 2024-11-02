@@ -8,12 +8,6 @@ Mental Spaces Theory, developed by Gilles Fauconnier, explains how people constr
 - **Mapping**: Connections between elements in different mental spaces.
 - **Blending**: Integration of elements from different spaces to create new meaning.
 
-## Applications
-
-- **Metaphor and Metonymy**: Understanding figurative language.
-- **Counterfactuals**: Reasoning about hypothetical scenarios.
-- **Discourse Analysis**: Analyzing how meaning shifts in conversation.
-
 ## Examples
 
 - **Hypothetical Scenarios**: "If I were you, I would go."
@@ -38,4 +32,4 @@ Mental Spaces Theory, developed by Gilles Fauconnier, explains how people constr
 
 ---
 
-[Back to Cognitive Linguistics](README.md)
+[Back to Cognitive Linguistics](../README.md)

@@ -32,12 +32,6 @@ Language acquisition studies how humans acquire the capacity to perceive, produc
 - **Output Hypothesis**: Producing language aids acquisition (Swain).
 - **Sociocultural Theory**: Emphasizes social context and interaction.
 
-## Applications
-
-- **Language Education**: Developing curricula and teaching methods.
-- **Speech Therapy**: Assisting children with delayed language development.
-- **Bilingualism Research**: Understanding cognitive benefits and challenges.
-
 ## Related Topics
 
 - [Cognitive Development](../../Cognitive-Psychology/Cognitive-Development.md)

@@ -14,10 +14,6 @@ Language variation refers to the differences in language use across different re
 - **Vocabulary Differences**: "Lift" (UK) vs. "Elevator" (US).
 - **Grammatical Differences**: Use of double negatives in some dialects.
 
-## Importance
-
-- **Understanding Diversity**: Highlights linguistic diversity within a language.
-- **Sociolinguistic Research**: Provides insights into social structures and identities.
 
 ## Related Topics
 
@@ -35,4 +31,4 @@ Language variation refers to the differences in language use across different re
 
 ---
 
-[Back to Sociolinguistics](README.md)
+[Back to Sociolinguistics](../README.md)

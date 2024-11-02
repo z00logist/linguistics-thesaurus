@@ -14,11 +14,6 @@ Computational Syntax focuses on the computational modeling of syntactic structur
 - **Statistical Parsers**: Employ probabilistic models trained on annotated corpora.
 - **Neural Network Parsers**: Utilize deep learning for parsing tasks.
 
-## Applications
-
-- **Machine Translation**: Understanding source language syntax for accurate translation.
-- **Information Extraction**: Identifying relationships and entities in text.
-- **Question Answering**: Parsing questions to understand intent.
 
 ## Related Topics
 

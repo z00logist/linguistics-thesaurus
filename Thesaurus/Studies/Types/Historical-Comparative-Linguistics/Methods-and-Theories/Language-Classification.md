@@ -23,17 +23,7 @@ Language classification involves grouping languages based on shared features, wh
 - **Definition**: Grouping languages based on geographic proximity and shared features due to contact.
 - **Concept**: **Sprachbund** (linguistic area) where languages influence each other.
 
-## Importance
 
-- **Understanding Diversity**: Highlights the range of linguistic structures.
-- **Historical Insights**: Provides evidence for historical connections and migrations.
-- **Linguistic Theory**: Tests hypotheses about language universals and constraints.
-
-## Applications
-
-- **Linguistic Typology**: Studying patterns and distributions of language features.
-- **Language Documentation**: Prioritizing efforts to record endangered languages.
-- **Computational Linguistics**: Developing language models for diverse languages.
 
 ## Related Topics
 

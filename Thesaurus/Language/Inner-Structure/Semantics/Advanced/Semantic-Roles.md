@@ -13,23 +13,6 @@ Semantic roles, also known as thematic roles or theta roles, describe the functi
 - **Source**: The starting point of movement (e.g., "from the station" in "She walked from the station").
 - **Goal**: The endpoint of movement (e.g., "to the store" in "He drove to the store").
 
-## Importance
-
-- **Understanding Sentence Meaning**: Helps in interpreting who did what to whom.
-- **Syntax-Semantics Interface**: Semantic roles influence syntactic structure.
-- **Language Learning**: Assists learners in grasping sentence construction.
-
-## Applications
-
-- **Computational Linguistics**: Semantic role labeling in natural language processing.
-- **Language Teaching**: Clarifying sentence elements and their functions.
-- **Linguistic Analysis**: Studying argument structure and verb valency.
-
-## Related Topics
-
-- [Syntax](../Syntax/README.md)
-- [Compositional Semantics](Compositional-Semantics.md)
-- [Thematic Relations](Advanced/Semantic-Feature-Theory.md)
 
 ## External Links
 
@@ -43,4 +26,4 @@ Semantic roles, also known as thematic roles or theta roles, describe the functi
 
 ---
 
-[Back to Semantics](README.md)
+[Back to Semantics](../README.md)

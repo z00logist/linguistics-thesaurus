@@ -1,36 +1,19 @@
 # Compositional Semantics
 
-Compositional semantics, also known as formal semantics, is the study of how meanings of individual words combine to form the meanings of larger linguistic units like phrases and sentences.
+Compositional semantics, often referred to as formal semantics, examines how the meanings of individual words combine to create the meanings of larger linguistic units such as phrases and sentences.
 
 ## Principle of Compositionality
 
-- **Definition**: The meaning of a complex expression is determined by its structure and the meanings of its constituents.
-- **Attributed to**: Gottlob Frege, a foundational concept in semantics.
+The central idea in compositional semantics is the principle of compositionality, which states that the meaning of a complex expression is determined by its structure and the meanings of its parts. This principle is often attributed to Gottlob Frege and forms a foundational aspect of semantic theory.
 
 ## Key Concepts
 
-- **Syntax-Semantics Interface**: The relationship between syntactic structures and semantic interpretation.
-- **Semantic Rules**: Guidelines for combining meanings based on grammatical structure.
-- **Type Theory**: A formal framework for categorizing expressions and their meanings.
+Compositional semantics involves several core concepts:
 
-## Examples
+- The **Syntax-Semantics Interface** explores how syntactic structures map onto semantic interpretations.
+- **Semantic Rules** provide a framework for combining meanings in accordance with grammatical structures.
+- **Type Theory** categorizes expressions and their meanings, aiding in the formal representation of language.
 
-- **Simple Sentence**: "The cat sleeps."
-  - **Meaning**: The entity referred to as "the cat" performs the action "sleeps."
-- **Complex Sentence**: "Every student passed the exam."
-  - **Quantifiers**: Words like "every," "some," and "no" affect meaning and require special semantic treatment.
-
-## Applications
-
-- **Logic and Philosophy**: Understanding logical form and entailment.
-- **Computational Linguistics**: Natural language understanding and machine translation.
-- **Language Teaching**: Explaining how sentence structures affect meaning.
-
-## Related Topics
-
-- [Semantic Roles](Semantic-Roles.md)
-- [Formal Semantics](Advanced/Formal-Semantics.md)
-- [Syntax](../Syntax/README.md)
 
 ## External Links
 
@@ -44,4 +27,4 @@ Compositional semantics, also known as formal semantics, is the study of how mea
 
 ---
 
-[Back to Semantics](README.md)
+[Back to Semantics](../README.md)

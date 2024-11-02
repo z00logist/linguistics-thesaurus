@@ -8,12 +8,6 @@ Cosine similarity is a measure used to determine the similarity between two non-
 - **Information Retrieval**: Helps rank documents by relevance.
 - **Semantic Analysis**: Detects contextual similarity.
 
-## Applications
-
-- **Document Clustering**: Groups similar documents.
-- **Recommender Systems**: Recommends content based on similarity.
-- **Duplicate Detection**: Identifies similar or duplicate content.
-
 
 ## External Links
 

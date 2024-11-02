@@ -42,4 +42,4 @@ Radial categories are conceptual categories that have a central, prototypical me
 
 ---
 
-[Back to Advanced Topics](README.md)
+[Back to Cognitive Linguistics](../README.md)

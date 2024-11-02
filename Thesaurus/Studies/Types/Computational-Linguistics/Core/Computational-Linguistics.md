@@ -2,8 +2,6 @@
 
 Computational linguistics is an interdisciplinary field concerned with the computational modeling of natural language. It encompasses both theoretical and applied aspects, aiming to understand language from a computational perspective and to develop applications that process and generate human language.
 
-> **Jurafsky and Martin (2020):**
-> "Computational linguistics is the scientific study of language from a computational perspective."
 
 ## Subfields
 
@@ -13,12 +11,6 @@ Computational linguistics is an interdisciplinary field concerned with the compu
 - **Computational Semantics**: Understanding and representing meaning computationally.
 - **Computational Phonology and Morphology**: Modeling sound patterns and word structures.
 
-## Applications
-
-- **Chatbots and Virtual Assistants**: e.g., Siri, Alexa, Alisa.
-- **Text Analysis**: Sentiment analysis, topic modeling.
-- **Information Retrieval**: Search engines, question-answering systems.
-- **Language Generation**: Automated report writing, story generation.
 
 ## Related Topics
 

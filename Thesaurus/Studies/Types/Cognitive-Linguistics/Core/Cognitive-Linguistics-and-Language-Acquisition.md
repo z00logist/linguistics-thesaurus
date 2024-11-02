@@ -39,4 +39,4 @@ This area explores how cognitive linguistics informs our understanding of how la
 
 ---
 
-[Back to Advanced Topics](README.md)
+[Back to Cognitive Linguistics](../README.md)

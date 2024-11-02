@@ -31,4 +31,4 @@ Compounding is the process of combining two or more free morphemes (words) to cr
 
 ---
 
-[Back to Morphology](README.md)
+[Back to Morphology](../README.md)

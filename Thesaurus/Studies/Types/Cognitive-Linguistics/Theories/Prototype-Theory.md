@@ -19,11 +19,6 @@ Prototype Theory is a model of categorization in cognitive science that suggests
 - **Psychology**: Influences perception and memory.
 - **Artificial Intelligence**: Affects how categories are represented in models.
 
-## Applications
-
-- **Lexical Semantics**: Understanding word meanings and category structures.
-- **Language Acquisition**: How children learn categories and word meanings.
-- **Cross-Cultural Studies**: Examining how prototypes vary across cultures.
 
 ## Related Topics
 
@@ -44,4 +39,4 @@ Prototype Theory is a model of categorization in cognitive science that suggests
 
 ---
 
-[Back to Cognitive Linguistics](README.md)
+[Back to Cognitive Linguistics](../README.md)

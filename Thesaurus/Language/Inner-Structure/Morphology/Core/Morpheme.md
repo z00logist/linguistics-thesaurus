@@ -3,7 +3,7 @@
 The smallest grammatical unit in a language that carries meaning. Morphemes can be roots, prefixes, suffixes, infixes, or circumfixes.
 
 > **Katamba (1993):**
-> "Morphemes are the minimal units of meaning or grammatical function."
+> "[Morphemes] are the smallest units of meaning and grammatical function."
 
 ## Types of Morphemes
 
@@ -33,4 +33,4 @@ The smallest grammatical unit in a language that carries meaning. Morphemes can 
 
 ---
 
-[Back to Morphology](README.md)
+[Back to Morphology](../README.md)

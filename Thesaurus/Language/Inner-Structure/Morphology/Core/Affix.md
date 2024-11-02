@@ -31,4 +31,4 @@ An affix is a bound morpheme attached to a root or stem to modify its meaning.
 
 ---
 
-[Back to Morphology](README.md)
+[Back to Morphology](../README.md)

@@ -20,16 +20,6 @@ In bigram models:
 
 **P(w₂ | w₁) = Count(w₁ w₂) / Count(w₁)**
 
-## Applications
-
-- **Language Modeling**: Predicting the next word in a sequence.
-- **Speech Recognition**: Disambiguating homophones based on context.
-- **Text Generation**: Generating text that resembles human language.
-
-## Limitations
-
-- **Data Sparsity**: Rare combinations may not appear in the training data.
-- **Context Limitations**: Only considers a fixed window of previous words.
 
 ## Smoothing Techniques
 

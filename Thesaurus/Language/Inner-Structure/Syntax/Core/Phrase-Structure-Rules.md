@@ -12,16 +12,6 @@ Phrase structure rules describe the possible structures of phrases and sentences
   - *S → NP VP*
   - A sentence (S) consists of a noun phrase (NP) followed by a verb phrase (VP).
 
-## Importance
-
-- **Hierarchical Structure**: Shows how smaller units combine into larger units.
-- **Syntax Analysis**: Essential for parsing sentences in computational linguistics.
-
-## Related Topics
-
-- [Syntactic Tree](Syntactic-Tree.md)
-- [Constituents](Constituents.md)
-- [Syntax](Syntax.md)
 
 ## External Links
 
@@ -34,4 +24,4 @@ Phrase structure rules describe the possible structures of phrases and sentences
 
 ---
 
-[Back to Syntax](README.md)
+[Back to Syntax](../README.md)

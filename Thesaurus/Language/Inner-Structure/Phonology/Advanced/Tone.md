@@ -34,4 +34,4 @@ Yip, M. (2002). *Tone*. Cambridge University Press.
 
 ---
 
-[Back to Phonetics](README.md)
+[Back to Phonetics](../README.md)

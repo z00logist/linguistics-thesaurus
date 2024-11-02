@@ -31,4 +31,4 @@ Intonation patterns can change the meaning or intent of a sentence:
 
 ---
 
-[Back to Phonetics](README.md)
+[Back to Phonetics](../README.md)

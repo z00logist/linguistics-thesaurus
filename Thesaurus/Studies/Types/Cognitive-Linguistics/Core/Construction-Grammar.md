@@ -15,11 +15,7 @@ Construction Grammar is a family of theories that posit that language consists o
 - **Phrase-Level**: Idioms and fixed expressions (e.g., "kick the bucket").
 - **Sentence-Level**: Grammatical patterns (e.g., the ditransitive construction).
 
-## Applications
 
-- **Language Acquisition**: Understanding how constructions are learned.
-- **Syntax Analysis**: Analyzing sentence structures based on constructions.
-- **Cross-Linguistic Studies**: Comparing constructions across languages.
 
 ## Related Theories
 
@@ -45,4 +41,4 @@ Construction Grammar is a family of theories that posit that language consists o
 
 ---
 
-[Back to Cognitive Linguistics](README.md)
+[Back to Cognitive Linguistics](../README.md)

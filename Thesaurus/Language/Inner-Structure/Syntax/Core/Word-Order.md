@@ -11,16 +11,8 @@ Word order refers to the sequence in which words appear in a sentence. Languages
 - **Verb-Subject-Object (VSO)**: Classical Arabic, Irish
   - "Eats (V) she (S) apples (O)."
 
-## Importance
+[Word Orders' Proportions](../../../../assets/word-order.jpg)
 
-- **Syntax Typology**: Helps classify and compare languages.
-- **Understanding Grammar**: Affects sentence structure and meaning.
-
-## Related Topics
-
-- [Syntax](Syntax.md)
-- [Grammatical Relations](Grammatical-Relations.md)
-- [Phrase Structure Rules](Phrase-Structure-Rules.md)
 
 ## External Links
 
@@ -33,4 +25,4 @@ Word order refers to the sequence in which words appear in a sentence. Languages
 
 ---
 
-[Back to Syntax](README.md)
+[Back to Syntax](../README.md)

@@ -24,11 +24,6 @@ Word2Vec is a group of related models that produce word embeddings using shallow
 - **Semantic Relationships**: Captures linear relationships between words (e.g., "king" - "man" + "woman" ≈ "queen").
 - **Dimensionality**: Typically uses 100-300 dimensions.
 
-## Applications
-
-- **Semantic Similarity Tasks**: Finding similar words.
-- **Analogy Tasks**: Solving word analogies.
-- **Text Classification**: Feature representation for classification models.
 
 ## Related Topics
 

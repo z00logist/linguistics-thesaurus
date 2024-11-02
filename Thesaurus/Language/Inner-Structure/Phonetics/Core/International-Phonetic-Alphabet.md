@@ -41,4 +41,4 @@ International Phonetic Association. (1999). *Handbook of the International Phone
 
 ---
 
-[Back to Phonetics](README.md)
+[Back to Phonetics](../README.md)

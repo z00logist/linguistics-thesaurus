@@ -17,17 +17,6 @@ Conceptual Metaphor Theory (CMT) posits that metaphors are not just linguistic e
 - **Love is a Journey**: "Our relationship has hit a dead end."
 - **Ideas are Food**: "I can't digest all these facts."
 
-## Importance
-
-- **Cognition**: Reveals how we think and reason.
-- **Language**: Influences how language evolves and is used.
-- **Culture**: Reflects cultural values and experiences.
-
-## Applications
-
-- **Literary Analysis**: Interpreting metaphors in texts.
-- **Psychology**: Understanding thought patterns and biases.
-- **Education**: Enhancing teaching methods by leveraging metaphors.
 
 ## Related Topics
 
@@ -48,4 +37,4 @@ Conceptual Metaphor Theory (CMT) posits that metaphors are not just linguistic e
 
 ---
 
-[Back to Cognitive Linguistics](README.md)
+[Back to Cognitive Linguistics](../README.md)

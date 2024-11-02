@@ -35,4 +35,4 @@ Code-switching involves alternating between two or more languages or dialects wi
 
 ---
 
-[Back to Sociolinguistics](README.md)
+[Back to Sociolinguistics](../README.md)

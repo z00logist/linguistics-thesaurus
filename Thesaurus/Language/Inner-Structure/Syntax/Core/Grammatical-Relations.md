@@ -2,27 +2,17 @@
 
 Grammatical relations are the roles that constituents play in a sentence, such as subject, object, and indirect object.
 
-## Key Relations
+## Relations
 
-- **Subject**: The doer of the action.
+- **Subject** is the doer of the action.
   - "The *cat* chased the mouse."
-- **Direct Object**: Receives the action directly.
+- **Direct Object** receives the action directly.
   - "The cat chased the *mouse*."
-- **Indirect Object**: Receives the action indirectly.
+- **Indirect Object** receives the action indirectly.
   - "She gave *him* a gift."
-- **Complement**: Completes the meaning of a verb.
+- **Complement** completes the meaning of a verb.
   - "She is a *doctor*."
 
-## Importance
-
-- **Syntax Analysis**: Helps in understanding sentence structure.
-- **Case Marking**: Influences morphological forms in some languages.
-
-## Related Topics
-
-- [Syntax](Syntax.md)
-- [Dependency Grammar](Dependency-Grammar.md)
-- [Agreement](Agreement.md)
 
 ## External Links
 
@@ -35,4 +25,4 @@ Grammatical relations are the roles that constituents play in a sentence, such a
 
 ---
 
-[Back to Syntax](README.md)
+[Back to Syntax](../README.md)

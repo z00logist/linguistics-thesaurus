@@ -17,11 +17,6 @@ Sentence processing involves the cognitive mechanisms by which humans comprehend
 - **Context**: Prior context can facilitate parsing.
 - **Working Memory**: Limited capacity can affect the ability to process complex sentences.
 
-## Applications
-
-- **Reading Comprehension**: Developing strategies to improve understanding.
-- **Language Disorders**: Assisting individuals with aphasia or specific language impairment.
-- **Artificial Intelligence**: Improving natural language understanding systems.
 
 ## Related Topics
 
