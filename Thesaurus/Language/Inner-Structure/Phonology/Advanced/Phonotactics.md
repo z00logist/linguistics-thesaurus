@@ -2,12 +2,6 @@
 
 Phonotactics refers to the rules governing the permissible combinations and sequences of sounds in a particular language.
 
-## Characteristics
-
-- **Language-Specific**: Phonotactic rules vary between languages.
-- **Syllable Structure**: Defines what consonant and vowel patterns are allowed.
-- **Constraints**: May prohibit certain sound clusters.
-
 ## Examples
 
 - **English**:
