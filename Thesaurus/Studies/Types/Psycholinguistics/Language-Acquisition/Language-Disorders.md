@@ -2,7 +2,8 @@
 
 Language disorders, also known as language impairments, affect an individual's ability to acquire, produce, or comprehend language. Studying these disorders helps psycholinguists understand language processing and develop effective interventions.
 
-Language and Speech disorders are communication disorders:
+Language and Speech disorders are communication disorders:  
+
 ![Communication Disorders](../../../../assets/language-disorders.png)
 
 ## Types of Language Disorders
