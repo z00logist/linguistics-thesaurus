@@ -1,31 +1,28 @@
 # Vowel Harmony
 
-Vowel harmony is a phonological process where vowels within a word agree in certain features, such as frontness or roundness.
+Vowel harmony is a phonological process where the vowels within a word match in certain features like frontness or roundness.
 
 ## Characteristics
 
-- **Feature Agreement**: Vowels share specific features.
-- **Morphological Impact**: Influences the form of affixes.
+- Vowels within a word share specific features, creating uniformity.
+- This process can affect the form of affixes, adjusting them to align with the root word's vowel features.
 
 ## Examples
 
-- **Turkish**:
-  - The suffix "-ler" or "-lar" for plural depends on the vowel of the root word.
-    - "Kitap" (book) → "Kitaplar" (books)
-    - "Ev" (house) → "Evler" (houses)
-- **Finnish**:
-  - Suffixes adjust to match front or back vowels in the root.
+- In Turkish, the plural suffix "-ler" or "-lar" depends on the vowel in the root word:
+  - "Kitap" (book) becomes "Kitaplar" (books)
+  - "Ev" (house) becomes "Evler" (houses)
+- Finnish also uses vowel harmony, with suffixes adapting to match either front or back vowels in the root.
 
 ## Importance
 
-- Affects morphological rules and word formation.
-- Demonstrates interaction between phonology and morphology.
+Vowel harmony influences how words are formed and shows the interaction between phonological and morphological rules in a language.
 
 ## Related Topics
 
-- [Phonology](Phonology.md)
+- [Phonology](../Core/honology.md)
 - [Phonological Processes](Phonological-Processes.md)
-- [Morphology](../Morphology/README.md)
+- [Morphology](../../Morphology/README.md)
 
 ## External Links
 
@@ -34,8 +31,8 @@ Vowel harmony is a phonological process where vowels within a word agree in cert
 
 ## References
 
-- Kornfilt, J. (1997). *Turkish*. Routledge.
-- Hayes, B. (2009). *Introductory Phonology*. Wiley-Blackwell.
+Kornfilt, J. (1997). *Turkish*. Routledge.  
+Hayes, B. (2009). *Introductory Phonology*. Wiley-Blackwell.
 
 ---
 

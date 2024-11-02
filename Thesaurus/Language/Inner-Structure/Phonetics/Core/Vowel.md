@@ -2,22 +2,26 @@
 
 A vowel is a speech sound produced without significant constriction or closure in the vocal tract, allowing air to flow freely.
 
-## Characteristics
-
-- **Tongue Height**: High, Mid, Low
-- **Tongue Position**: Front, Central, Back
-- **Lip Rounding**: Rounded, Unrounded
-- **Tenseness**: Tense, Lax
-
 ## Vowel Chart (IPA)
 
-[Insert a vowel chart image or link to one]
+![Vowels](../../../../assets/vowel.jpeg)
+
+## Classification
+
+Vowels are classified based on:
+
+- **Height of the Tongue**, which determines whether the vowel is high (close), mid, or low (open).
+- **Position of the Tongue**, which specifies if the vowel is front, central, or back.
+- **Lip Rounding**, which describes whether the lips are rounded or unrounded.
 
 ## Examples in English
 
-- **Front Vowels**: /i/ as in "beet", /ɛ/ as in "bet"
-- **Central Vowels**: /ʌ/ as in "but", /ə/ as in "sofa"
-- **Back Vowels**: /u/ as in "boot", /ɔ/ as in "bought"
+Some common examples of English vowels include:
+
+- High front vowel: /iː/ as in "see"
+- Mid central vowel: /ə/ (schwa) as in "sofa"
+- Low back vowel: /ɑː/ as in "father"
+
 
 ## Related Topics
 

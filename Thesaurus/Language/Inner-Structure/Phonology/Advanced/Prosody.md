@@ -1,30 +1,29 @@
 # Prosody
 
-Prosody refers to the rhythm, stress, and intonation of speech, which contribute to meaning beyond individual phonemes and words.
+Prosody refers to the rhythm, stress, and intonation in speech, adding meaning that goes beyond individual sounds and words.
 
 ## Components
 
-- **Intonation**: Variation in pitch across a sentence.
-- **Stress**: Emphasis placed on syllables or words.
-- **Rhythm**: Pattern of beats or timing in speech.
-- **Tone**: Pitch used to distinguish word meaning (in tonal languages).
+- Intonation involves variations in pitch throughout a sentence.
+- Stress highlights particular syllables or words for emphasis.
+- Rhythm creates a pattern of beats or timing in speech.
+- Tone uses pitch to convey word meanings, especially in tonal languages.
 
 ## Functions
 
-- **Expressive Meaning**: Convey emotions, attitudes.
-- **Grammatical Information**: Indicate questions, statements.
-- **Discourse Functions**: Highlight new information, topic shifts.
+- Expressive meaning helps communicate emotions and attitudes.
+- Grammatical information clarifies whether an utterance is a question or a statement.
+- Discourse functions emphasize new information or indicate shifts in topic.
 
 ## Examples
 
-- **Question Intonation in English**: Rising pitch at the end of a question.
-- **Contrastive Stress**: "I didn't say he stole the *money*." (Emphasis changes meaning)
+- Question intonation in English often includes a rising pitch at the end of the sentence.
+- Contrastive stress changes meaning, as in: "I didn't say he stole the *money*," where emphasis alters interpretation.
 
 ## Related Topics
 
 - [Intonation](Intonation.md)
 - [Tone](Tone.md)
-- [Phonetics](Phonetics.md)
 
 ## External Links
 
@@ -33,7 +32,7 @@ Prosody refers to the rhythm, stress, and intonation of speech, which contribute
 
 ## References
 
-- Crystal, D. (2008). *A Dictionary of Linguistics and Phonetics*. Wiley-Blackwell.
+Crystal, D. (2008). *A Dictionary of Linguistics and Phonetics*. Wiley-Blackwell.
 
 ---
 

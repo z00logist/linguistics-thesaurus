@@ -2,12 +2,12 @@
 
 Assimilation is a phonetic process where a sound changes to become more like a neighboring sound.
 
-## Types of Assimilation
+## Types
 
-- **Regressive (Anticipatory)**: A sound is influenced by a following sound.
-- **Progressive (Perseverative)**: A sound is influenced by a preceding sound.
-- **Contact (Adjacent)**: Sounds directly next to each other influence each other.
-- **Distant (Non-adjacent)**: Sounds not directly adjacent influence each other (less common).
+- **Regressive** -- а sound is influenced by a following sound.
+- **Progressive** -- а sound is influenced by a preceding sound.
+- **Contact** -- sounds directly next to each other influence each other.
+- **Distant** -- sounds not directly adjacent influence each other (less common).
 
 ## Examples
 
@@ -15,16 +15,11 @@ Assimilation is a phonetic process where a sound changes to become more like a n
   - "Input" pronounced as [ɪmpʊt], where /n/ becomes [m] before /p/.
   - "Handbag" often pronounced as [ˈhæmbæɡ].
 
-## Importance
-
-- **Speech Efficiency**: Assimilation simplifies articulation.
-- **Phonological Rules**: Helps in understanding patterns in language.
-
 ## Related Topics
 
 - [Coarticulation](Coarticulation.md)
 - [Phonology](../Phonology/Phonology.md)
-- [Phonetics](Phonetics.md)
+- [Phonetics](../Core/Phonetics.md)
 
 ## External Links
 

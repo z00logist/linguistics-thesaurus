@@ -4,22 +4,21 @@ Intonation is the variation of pitch in speech, which can convey different meani
 
 ## Functions
 
-- **Grammatical**: Distinguish between statements and questions.
-- **Attitudinal**: Express emotions like surprise, sarcasm.
-- **Discourse**: Indicate continuation or completion.
+Intonation serves multiple roles in communication. It helps differentiate between sentence types, such as distinguishing a question from a statement. It also conveys the speaker's emotions and attitudes, adding layers like surprise or sarcasm to the message. Additionally, it signals whether the speaker is continuing their thought or finishing their statement.
 
 ## Examples in English
 
-- **Rising Intonation**: Used in yes/no questions.
-  - "You're coming?" (Rising pitch at the end)
-- **Falling Intonation**: Used in statements and commands.
-  - "She left early." (Falling pitch at the end)
+Intonation patterns can change the meaning or intent of a sentence:
+
+- **Rising Intonation** is commonly used for yes/no questions.
+  - Example: "You're coming?" (with a rising pitch at the end)
+- **Falling Intonation** is typical for statements and commands.
+  - Example: "She left early." (with a falling pitch at the end)
 
 ## Related Topics
 
 - [Prosody](Prosody.md)
 - [Tone](Tone.md)
-- [Phonetics](Phonetics.md)
 
 ## External Links
 

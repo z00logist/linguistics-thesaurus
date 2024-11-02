@@ -12,6 +12,7 @@ Communication systems used by animals, which lack the complexity and generative 
 
 - **Bee Waggle Dance**:
   - Bees communicate the location of food sources through specific movements.
+![Bee Waggle Dance](../../../assets/bee-dance-featured.jpg)
 - **Bird Songs**:
   - Used for mating calls or territorial signals.
 

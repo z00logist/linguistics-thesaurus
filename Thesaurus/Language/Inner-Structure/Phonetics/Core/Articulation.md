@@ -4,32 +4,30 @@ Articulation refers to the physical movement of speech organs (e.g., tongue, lip
 
 ## Speech Organs
 
-- **Tongue**
-- **Lips**
-- **Teeth**
-- **Alveolar Ridge**
-- **Hard Palate**
-- **Soft Palate (Velum)**
-- **Glottis**
+The primary organs involved in articulation include the tongue, lips, teeth, alveolar ridge, hard palate, soft palate (or velum), and the glottis.
+
+![Articulation organs](../../../../assets/articulation.jpg)
 
 ## Places of Articulation
 
-- **Bilabial**: Both lips (e.g., /p/, /b/)
-- **Labiodental**: Lower lip and upper teeth (e.g., /f/, /v/)
-- **Dental**: Tongue and teeth (e.g., /θ/ as in "think")
-- **Alveolar**: Tongue and alveolar ridge (e.g., /t/, /d/, /s/, /z/)
-- **Palatal**: Tongue and hard palate (e.g., /ʃ/ as in "she")
-- **Velar**: Tongue and soft palate (e.g., /k/, /g/)
-- **Glottal**: Glottis (e.g., /h/)
+- **Bilabial** sounds are created using both lips (e.g., /p/, /b/).
+- **Labiodental** sounds involve the lower lip and the upper teeth (e.g., /f/, /v/)
+- **Dental** use the tongue and teeth (e.g., /θ/ as in "think").
+- **Alveolar** are formed with the tongue touching or approaching the alveolar ridge (e.g., /t/, /d/, /s/, /z/).
+- **Palatal** occur when the tongue contacts the hard palate (e.g., /ʃ/ as in "she").
+- **Velar** sounds are made with the tongue near the soft palate (e.g., /k/, /g/).
+- **Glottal** sounds are produced in the glottis (e.g., /h/).
 
 ## Manners of Articulation
 
-- **Stop (Plosive)**: Complete closure followed by release (e.g., /p/, /t/, /k/)
-- **Fricative**: Narrowing of the vocal tract causing friction (e.g., /f/, /s/, /ʃ/)
-- **Affricate**: Combination of stop and fricative (e.g., /tʃ/ as in "church")
-- **Nasal**: Airflow through the nose (e.g., /m/, /n/)
-- **Liquid**: Partial closure allowing air to flow around the tongue (e.g., /l/, /r/)
-- **Glide (Approximant)**: Slight constriction (e.g., /w/, /j/)
+The way sounds are articulated varies by how air is manipulated:
+
+- In stops (plosives), the vocal tract is fully closed and then released (e.g., /p/, /t/, /k/).
+- Fricatives are formed by a narrow constriction that creates friction (e.g., /f/, /s/, /ʃ/).
+- Affricates begin with a stop and release into a fricative (e.g., /tʃ/ as in "church").
+- Nasals involve air passing through the nose (e.g., /m/, /n/).
+- Liquids allow air to flow around the tongue with some closure (e.g., /l/, /r/).
+- Glides (approximants) involve slight constriction (e.g., /w/, /j/).
 
 ## Related Topics
 

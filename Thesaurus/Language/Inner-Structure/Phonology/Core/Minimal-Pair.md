@@ -1,23 +1,25 @@
 # Minimal Pair
 
-A minimal pair consists of two words that differ by only one phoneme, demonstrating that the two sounds are distinct phonemes in a language.
+A minimal pair is made up of two words that differ by just one phoneme, showing that these sounds function as distinct phonemes within a language.
 
 ## Purpose
 
-- **Phonemic Analysis**: Helps identify phonemes in a language.
-- **Language Teaching**: Assists learners in distinguishing similar sounds.
+Minimal pairs are important in phonemic analysis to help identify which sounds are phonemes in a given language. They are also useful in language teaching, aiding learners in recognizing and producing similar sounds more accurately.
 
 ## Examples in English
 
-- **"Bat" vs. "Pat"**: /b/ vs. /p/
-- **"Ship" vs. "Sheep"**: /ɪ/ vs. /iː/
-- **"Cat" vs. "Cut"**: /æ/ vs. /ʌ/
+Some common examples include:
+
+- "Bat" and "Pat" highlight the difference between /b/ and /p/.
+- "Ship" and "Sheep" contrast /ɪ/ with /iː/.
+- "Cat" and "Cut" show the distinction between /æ/ and /ʌ/.
 
 ## Related Topics
 
+For more on related concepts, see:
+
 - [Phoneme](Phoneme.md)
 - [Allophone](../Phonology/Allophone.md)
-- [Phonology](../Phonology/Phonology.md)
 
 ## External Links
 
@@ -26,7 +28,7 @@ A minimal pair consists of two words that differ by only one phoneme, demonstrat
 
 ## References
 
-- Ladefoged, P., & Johnson, K. (2014). *A Course in Phonetics*. Cengage Learning.
+Ladefoged, P., & Johnson, K. (2014). *A Course in Phonetics*. Cengage Learning.
 
 ---
 

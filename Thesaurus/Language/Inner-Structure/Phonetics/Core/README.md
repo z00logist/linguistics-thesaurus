@@ -6,6 +6,8 @@ The **Core** section introduces the basic principles of phonetics, including the
 - [Phonetics Overview](Phonetics.md)
 - [International Phonetic Alphabet (IPA)](International-Phonetic-Alphabet.md)
 - [Articulation](Articulation.md)
+- [Vowel](Vowel.md)
+- [Consonant](Consonant.md)
 
 ---
 

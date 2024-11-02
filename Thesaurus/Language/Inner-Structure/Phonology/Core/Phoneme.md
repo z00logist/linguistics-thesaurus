@@ -1,26 +1,26 @@
 # Phoneme
 
-The phoneme is the smallest unit of sound in a language that can distinguish meaning.
+A phoneme is the smallest unit of sound in a language that can change the meaning of a word.
 
-> **Ladefoged and Johnson (2014):**
-> "Phonemes are the contrastive units in the sound system of a language."
+> *According to Ladefoged and Johnson (2014)*, "Phonemes are the contrastive units in the sound system of a language."
 
 ## Characteristics
 
-- **Abstract Units**: Represented by slashes / /.
-- **Distinctive Features**: Differ from other phonemes in at least one feature.
-- **Function**: Differentiate words in minimal pairs.
+Phonemes are abstract units, represented by slashes (e.g., /p/ or /b/). Each phoneme has distinctive features that set it apart from others, making it possible to differentiate between words, such as in minimal pairs.
 
 ## Examples
 
-- **/p/ and /b/** in "pat" vs. "bat"
-- **/s/ and /z/** in "sip" vs. "zip"
+Some examples include:
+
+- The difference between /p/ and /b/ can be seen in the words "pat" and "bat."
+- The sounds /s/ and /z/ create different meanings in "sip" and "zip."
 
 ## Related Topics
 
+To delve deeper, explore these related topics:
+
 - [Allophone](../Phonology/Allophone.md)
 - [Minimal Pair](Minimal-Pair.md)
-- [Phonology](../Phonology/Phonology.md)
 
 ## External Links
 
@@ -29,7 +29,7 @@ The phoneme is the smallest unit of sound in a language that can distinguish mea
 
 ## References
 
-- Ladefoged, P., & Johnson, K. (2014). *A Course in Phonetics*. Cengage Learning.
+Ladefoged, P., & Johnson, K. (2014). *A Course in Phonetics*. Cengage Learning.
 
 ---
 

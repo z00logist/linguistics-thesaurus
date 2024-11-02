@@ -1,32 +1,26 @@
 # Tone
 
-Tone is the use of pitch to distinguish lexical or grammatical meaning in a language.
+Tone involves using pitch to convey different meanings or grammatical nuances in spoken language.
 
 ## Types of Tone Languages
 
-- **Level Tone Languages**: Use steady pitch levels.
-- **Contour Tone Languages**: Use pitch movements (rising, falling).
+- Level tone languages use steady pitches without significant change.
+- Contour tone languages incorporate pitch movements, such as rising and falling tones.
 
 ## Examples
 
-- **Mandarin Chinese**:
-  - **"ma"** can have different meanings based on tone:
-    - High level tone: "mother"
-    - Rising tone: "hemp"
-    - Falling-rising tone: "horse"
-    - Falling tone: "scold"
-- **Igbo**: Uses tone to distinguish verb tenses.
-
-## Importance
-
-- **Lexical Distinction**: Changes word meaning.
-- **Grammatical Functions**: Indicates tense, aspect, mood.
+- In Mandarin Chinese, the syllable **"ma"** can have various meanings based on the tone:
+  - High level tone: "mother"
+  - Rising tone: "hemp"
+  - Falling-rising tone: "horse"
+  - Falling tone: "scold"
+- Serbian uses pitch accent system:
+![Serbian pitch accent system](../../../../assets/serbian-accent.jpg)
 
 ## Related Topics
 
 - [Prosody](Prosody.md)
 - [Intonation](Intonation.md)
-- [Phonetics](Phonetics.md)
 
 ## External Links
 
@@ -35,7 +29,7 @@ Tone is the use of pitch to distinguish lexical or grammatical meaning in a lang
 
 ## References
 
-- Yip, M. (2002). *Tone*. Cambridge University Press.
+Yip, M. (2002). *Tone*. Cambridge University Press.
 
 ---
 

@@ -25,8 +25,7 @@ Phonotactics refers to the rules governing the permissible combinations and sequ
 
 ## Related Topics
 
-- [Phonology](Phonology.md)
-- [Phoneme](Phoneme.md)
+- [Phoneme](../Core/Phoneme.md)
 
 ## External Links
 

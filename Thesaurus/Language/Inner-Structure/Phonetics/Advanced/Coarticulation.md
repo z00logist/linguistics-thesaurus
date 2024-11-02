@@ -2,26 +2,21 @@
 
 Coarticulation is the phenomenon where speech sounds overlap and influence each other during speech production.
 
-## Types of Coarticulation
+## Types
 
-- **Anticipatory (Forward) Coarticulation**: A speech sound is influenced by a following sound.
-- **Perseverative (Backward) Coarticulation**: A speech sound is influenced by a preceding sound.
+- **Anticipatory (Forward) Coarticulation** -- a speech sound is influenced by a following sound.
+- **Perseverative (Backward) Coarticulation** -- a speech sound is influenced by a preceding sound.
 
 ## Examples
 
 - **"Key" vs. "Cool"**:
   - The /k/ sound is produced more forward in the mouth in "key" due to the front vowel /i/, and further back in "cool" due to the back vowel /u/.
 
-## Importance
-
-- **Natural Speech**: Coarticulation contributes to the fluidity of speech.
-- **Speech Recognition and Synthesis**: Understanding coarticulation is crucial for accurate models.
 
 ## Related Topics
 
-- [Articulation](Articulation.md)
+- [Articulation](../Core/Articulation.md)
 - [Assimilation](Assimilation.md)
-- [Phonetics](Phonetics.md)
 
 ## External Links
 

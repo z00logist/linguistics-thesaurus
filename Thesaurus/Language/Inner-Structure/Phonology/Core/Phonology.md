@@ -7,17 +7,19 @@ Phonology is the study of how sounds function within a particular language, focu
 
 ## Key Concepts
 
-- **Phoneme**: The smallest unit of sound that can distinguish meaning.
-- **Allophone**: Variations of a phoneme that do not change meaning.
-- **Phonotactics**: Rules governing permissible sound combinations.
-- **Phonological Processes**: Patterns of sound change (e.g., assimilation, palatalization).
+Phonology includes several important concepts:
+
+- Phonemes are the smallest units of sound that can differentiate meaning.
+- Allophones are variations of a single phoneme that do not alter meaning.
+- Phonotactics refers to the rules that determine which sound combinations are allowed.
+- Phonological processes are patterns of sound changes, such as assimilation or palatalization.
+
 
 ## Related Topics
 
 - [Phoneme](Phoneme.md)
 - [Allophone](Allophone.md)
-- [Phonotactics](Phonotactics.md)
-- [Palatalization](Palatalization.md)
+- [Phonotactics](../Advanced/Phonotactics.md)
 
 ## External Links
 

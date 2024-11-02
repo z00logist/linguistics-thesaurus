@@ -8,10 +8,10 @@ Phonetics is the branch of linguistics that studies the sounds of human speech. 
 - [Phonetics Overview](Core/Phonetics.md)
 - [International Phonetic Alphabet (IPA)](Core/International-Phonetic-Alphabet.md)
 - [Articulation](Core/Articulation.md)
+- [Vowel](Core/Vowel.md)
+- [Consonant](Core/Consonant.md)
 
 ### 2. [Advanced](Advanced/README.md)
-- [Consonant](Advanced/Consonant.md)
-- [Vowel](Advanced/Vowel.md)
 - [Assimilation](Advanced/Assimilation.md)
 - [Coarticulation](Advanced/Coarticulation.md)
 
