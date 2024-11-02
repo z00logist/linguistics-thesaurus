@@ -1,22 +1,23 @@
 # Corpus Linguistics
 
-Corpus linguistics is an empirical approach to studying language that involves the systematic analysis of large collections of naturally occurring texts (corpora).
-
+Corpus linguistics is an empirical approach for studying language through the systematic analysis of large collections of real-life texts, known as corpora.
 
 ## Essentials
 
-- **Corpora**: Large, structured sets of texts used for linguistic analysis.
-- **Concordance**: A list of all the occurrences of a word or phrase in a corpus, along with its context.
-- **Collocation**: The habitual juxtaposition of a particular word with other words.
-- **Frequency Analysis**: Examining how often words or structures occur.
-- **Annotation**: Adding linguistic information to a corpus (e.g., part-of-speech tags).
+Corpora are comprehensive, structured collections of texts that serve as the foundation for linguistic analysis. Through them, researchers can explore language patterns and usage.
+
+Concordance refers to listings that display how a word or phrase appears across a corpus, highlighting its context. This helps in understanding the meaning and function of words within sentences.
+
+Collocation points to the tendency of specific words to occur together more frequently than by chance. This habitual pairing enriches understanding of language nuances.
+
+Frequency analysis involves investigating how often words or structures appear within a corpus. This reveals common language elements and helps distinguish between core and peripheral vocabulary.
+
+Annotation adds layers of linguistic information to a corpus, such as part-of-speech tags, syntactic roles, or semantic meanings. These enrich the data, making analysis more detailed and useful.
 
 ## Related Topics
 
 - [Corpora](Corpora.md)
-- [Concordance](Concordance.md)
-- [Collocation](Collocation.md)
-- [N-grams](N-grams.md)
+- [Analysis](../Analysis/README.md)
 
 ## External Links
 
@@ -25,7 +26,7 @@ Corpus linguistics is an empirical approach to studying language that involves t
 
 ## Sources
 
-- McEnery, T., & Hardie, A. (2012). *Corpus Linguistics: Method, Theory and Practice*. Cambridge University Press.
+McEnery, T., & Hardie, A. (2012). *Corpus Linguistics: Method, Theory and Practice*. Cambridge University Press.
 
 ---
 

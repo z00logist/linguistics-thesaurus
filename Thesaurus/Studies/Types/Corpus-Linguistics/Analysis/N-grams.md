@@ -1,21 +1,13 @@
 # N-grams
 
-An n-gram is a contiguous sequence of n items from a given sample of text or speech. In corpus linguistics, n-grams are used to analyze patterns in language data.
+An n-gram is a sequence of n items taken from a given sample of text or speech. N-grams are valuable in corpus linguistics for analyzing language patterns and usage.
 
 ## Types
 
-- **Unigrams (1-gram)**: Single words.
-- **Bigrams (2-grams)**: Pairs of consecutive words.
-- **Trigrams (3-grams)**: Triplets of consecutive words.
-- **Higher-order n-grams**: Sequences of four or more words.
-
-
-
-## Related Topics
-
-- [Corpus Linguistics](Corpus-Linguistics.md)
-- [Frequency Analysis](Frequency-Analysis.md)
-- [Collocation](Collocation.md)
+- **Unigrams (1-gram)** are single words.
+- **Bigrams (2-grams)** are pairs of consecutive words.
+- **Trigrams (3-grams)** are triplets of consecutive words.
+- **Higher-order n-grams** consist of sequences with four or more words.
 
 ## External Links
 

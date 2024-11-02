@@ -1,16 +1,16 @@
 # Collocation
 
-Collocation refers to the habitual juxtaposition of a particular word with other words with a frequency greater than chance.
+Collocation refers to the habitual juxtaposition of a particular word with other words, occurring more frequently than by chance.
 
 ## Characteristics
 
-- **Fixed Expressions**: Phrases like "make a decision," "strong tea."
-- **Statistical Tendency**: Words that co-occur more often than by random chance.
+- Phrases like "make a decision" and "strong tea" are examples of fixed expressions.
+- Words that tend to co-occur more often than by random chance.
 
 ## Types
 
-- **Grammatical Collocations**: A dominant word (noun, verb, adjective) and a preposition or grammatical structure (e.g., "depend on").
-- **Lexical Collocations**: Two lexical words (nouns, adjectives, verbs) that commonly occur together (e.g., "heavy rain").
+- Grammatical collocations consist of a dominant word such as a noun, verb, or adjective paired with a preposition or grammatical structure (e.g., "depend on").
+- Lexical collocations involve two lexical words such as nouns, adjectives, or verbs that frequently appear together (e.g., "heavy rain").
 
 ## Related Topics
 

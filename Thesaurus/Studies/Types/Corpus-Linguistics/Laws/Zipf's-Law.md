@@ -1,34 +1,30 @@
 # Zipf's Law
 
-Zipf's Law is an empirical law that describes the frequency distribution of words in a language, stating that the frequency of any word is inversely proportional to its rank in the frequency table.
+Zipf's Law describes how words are distributed by frequency in a language. It shows that the most frequent word appears far more often than others, with frequency dropping as rank increases.
 
-## Formula
+![Law](../../../../assets/Zipf_s_law.png)
+
+## The Formula
+
+The basic idea can be summarized as:
 
 - **Frequency ∝ 1 / Rank**
 
-## Implications
+## What This Means
 
-- **Few High-Frequency Words**: A small number of words occur very frequently.
-- **Many Low-Frequency Words**: A large number of words occur rarely.
-- **Vocabulary Acquisition**: Understanding which words are most important to learn.
+- A small number of words appear very often in any given text.
+- There are many words that show up only once or very infrequently.
+- This insight can be helpful in understanding which words are crucial to learn for language acquisition.
 
-## Examples
+## Real-Life Examples
 
-- The most common word (e.g., "the") might occur thousands of times, while less common words might occur only once.
+The most common word in English, like "the," might appear thousands of times in a large text, while less common words might be used only once or twice.
 
+## Additional Reading
 
+- [Zipf's Law on Wikipedia](https://en.wikipedia.org/wiki/Zipf's_law)
 
-## Related Topics
-
-- [Frequency Analysis](Frequency-Analysis.md)
-- [Corpus Linguistics](Corpus-Linguistics.md)
-- [Heaps' Law](Heaps-Law.md)
-
-## External Links
-
-- [Zipf's Law - Wikipedia](https://en.wikipedia.org/wiki/Zipf's_law)
-
-## Sources
+## Reference
 
 - Zipf, G. K. (1949). *Human Behavior and the Principle of Least Effort*. Addison-Wesley.
 

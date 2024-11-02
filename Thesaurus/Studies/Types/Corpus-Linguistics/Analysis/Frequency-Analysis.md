@@ -1,23 +1,22 @@
 # Frequency Analysis
 
-Frequency analysis involves examining how often words or linguistic structures occur in a corpus.
+Frequency analysis examines how often words or linguistic structures appear in a corpus.
 
 ## Purpose
 
-- **Identifying Common Words**: Determining the most frequently used words in a language.
-- **Vocabulary Profiling**: Assessing language complexity and learner vocabulary levels.
-- **Zipf's Law**: Observing the relationship between word frequency and rank.
-
+- Helps identify the most common words used in a language.
+- Supports vocabulary profiling to assess language complexity and learner vocabulary levels.
+- Observes patterns like Zipf's Law, which shows the relationship between word frequency and rank.
 
 ## Tools
 
-- **Frequency Lists**: Lists of words ordered by frequency.
-- **Statistical Software**: Tools like R or Python libraries for data analysis.
+- Frequency lists, which display words ordered by frequency.
+- Statistical software, including R or Python libraries for data analysis.
 
 ## Related Topics
 
-- [Corpus Linguistics](Corpus-Linguistics.md)
-- [Zipf's Law](Zipf's-Law.md)
+- [Heaps' Law](../Laws/Heaps'-Law.md)
+- [Zipf's Law](../Laws/Zipf's-Law.md)
 - [N-grams](N-grams.md)
 
 ## External Links

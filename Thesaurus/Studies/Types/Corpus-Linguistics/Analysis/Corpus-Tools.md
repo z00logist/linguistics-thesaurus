@@ -1,25 +1,25 @@
 # Corpus Tools
 
-Corpus tools are software applications used for compiling, managing, and analyzing linguistic corpora.
+Corpus tools are software applications designed to compile, manage, and analyze linguistic corpora.
 
 ## Types of Tools
 
-- **Corpus Management Systems**: Software for storing and organizing corpora (e.g., Sketch Engine).
-- **Concordancers**: Generate concordances and analyze collocations (e.g., AntConc).
-- **Annotation Tools**: For adding linguistic annotations (e.g., UAM CorpusTool).
-- **Frequency Analyzers**: Calculate word and n-gram frequencies.
+- Corpus management systems store and organize corpora, such as Sketch Engine.
+- Concordancers generate concordances and analyze collocations, for instance, AntConc.
+- Annotation tools help add linguistic annotations, like UAM CorpusTool.
+- Frequency analyzers calculate word and n-gram frequencies.
 
 ## Popular Tools
 
-- **AntConc**: Free concordance program for Windows, Mac, and Linux.
-- **Sketch Engine**: Online corpus management and analysis tool.
-- **WordSmith Tools**: Commercial software for corpus analysis.
+- AntConc, a free concordance program available for Windows, Mac, and Linux.
+- Sketch Engine, an online tool for corpus management and analysis.
+- WordSmith Tools, a commercial software package for corpus analysis.
 
 ## Related Topics
 
 - [Concordance](Concordance.md)
-- [Corpus Annotation](Corpus-Annotation.md)
-- [Corpus Linguistics](Corpus-Linguistics.md)
+- [Corpus Annotation](../Core/Corpus-Annotation.md)
+- [Corpus Linguistics](../Core/Corpus-Linguistics.md)
 
 ## External Links
 

@@ -1,23 +1,17 @@
 # Concordance
 
-A concordance is an alphabetical list of the principal words used in a text or corpus, showing every contextual occurrence of a word or phrase.
+A concordance is an alphabetical list of principal words used in a text or corpus, displaying each occurrence of a word or phrase in its context.
 
 ## Purpose
 
-- **Contextual Analysis**: Understand how words are used in context.
-- **Collocation Study**: Identify words that frequently occur together.
-- **Frequency Counts**: Determine how often a word appears.
+- Helps analyze how words are used within their context.
+- Allows identification of collocations, revealing words that frequently appear together.
+- Provides frequency counts, showing how often specific words appear.
 
 ## Types
 
-- **KWIC (Key Word in Context)**: Displays the keyword centered with its surrounding context.
-- **Full-Text Concordance**: Provides larger excerpts or entire documents where the word appears.
-
-## Tools
-
-- **Concordancers**: Software applications that generate concordances (e.g., AntConc, WordSmith Tools).
-
-
+- KWIC (Key Word in Context) format presents the keyword centered within its surrounding text.
+- Full-text concordance includes larger excerpts or entire documents where the word occurs.
 
 ## Related Topics
 

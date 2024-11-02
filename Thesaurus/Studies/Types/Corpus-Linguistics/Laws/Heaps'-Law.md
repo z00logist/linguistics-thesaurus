@@ -1,42 +1,40 @@
 # Heaps' Law
 
-Heaps' Law describes the relationship between the size of a corpus and the number of unique words (vocabulary size) it contains. It states that as the number of tokens (total words) increases, the number of types (unique words) increases, but at a diminishing rate.
+Heaps' Law helps explain how a text's vocabulary grows as more words are added. While the total number of words increases, the pace at which new, unique words appear slows down over time.
 
-## Formula
 
-The relationship is often expressed as:
+The Heaps' Law:     
+
+![Law](../../../../assets/Heaps_Law.png)
+
+## The Formula
+
+The relationship is shown by:
 
 **V(N) = K * N^β**
 
-- **V(N)**: Vocabulary size (number of unique words)
-- **N**: Total number of words in the corpus
-- **K**: Constant (varies by language and corpus)
-- **β (beta)**: Typically between 0.4 and 0.6
+Where:
+- **V(N)** represents the number of unique words,
+- **N** is the total word count,
+- **K** is a constant affected by language and corpus type,
+- **β** typically ranges from 0.4 to 0.6.
 
-## Implications
+## Key Insights
 
-- **Vocabulary Growth**: New unique words continue to appear as more text is added.
-- **Non-Finite Vocabulary**: Suggests that vocabulary is theoretically unlimited.
-- **Corpus Design**: Important for estimating the required corpus size for studies.
+- New words continue to emerge as text grows, but not as quickly as at the start.
+- This suggests that language has the potential to keep generating words.
+- Useful for researchers who need to know how large their text samples should be for meaningful analysis.
 
-## Comparison with Zipf's Law
+## Heaps' Law vs. Zipf's Law
 
-- **Zipf's Law**: Describes the frequency distribution of words.
-- **Heaps' Law**: Describes the growth of vocabulary size with corpus size.
+While Zipf’s Law explains word frequency patterns within a text, Heaps' Law looks at how the number of unique words expands as the total text size grows.
 
+## Additional Resources
 
-## Related Topics
+- [Heaps' Law on Wikipedia](https://en.wikipedia.org/wiki/Heaps%27_law)
+- [Stanford NLP Guide](https://nlp.stanford.edu/IR-book/html/htmledition/heaps-law-1.html)
 
-- [Frequency Analysis](Frequency-Analysis.md)
-- [Zipf's Law](Zipf's-Law.md)
-- [Corpus Linguistics](Corpus-Linguistics.md)
-
-## External Links
-
-- [Heaps' Law - Wikipedia](https://en.wikipedia.org/wiki/Heaps%27_law)
-- [Statistical Properties of Text](https://nlp.stanford.edu/IR-book/html/htmledition/heaps-law-1.html) (Stanford NLP)
-
-## Sources
+## References
 
 - Heaps, H. S. (1978). *Information Retrieval: Computational and Theoretical Aspects*. Academic Press.
 - Baayen, R. H. (2001). *Word Frequency Distributions*. Kluwer Academic Publishers.

@@ -1,25 +1,26 @@
 # Corpora
 
-A corpus (plural: corpora) is a large and structured set of texts (nowadays usually electronically stored and processed) used for linguistic analysis.
+A corpus (plural: corpora) is a large, structured set of texts, often stored electronically, used for linguistic analysis and research.
 
 ## Types of Corpora
 
-- **Reference Corpora**: General collections representing a language (e.g., British National Corpus).
-- **Specialized Corpora**: Focused on specific genres, domains, or registers.
-- **Learner Corpora**: Contain language produced by language learners.
-- **Spoken Corpora**: Transcriptions of spoken language.
-- **Multilingual Corpora**: Contain texts in multiple languages.
+- **Reference Corpora** are general collections representing a language, like the British National Corpus.
+- **Specialized Corpora** focus on specific genres, domains, or language registers.
+- **Learner Corpora** contain language data produced by language learners.
+- **Spoken Corpora** are made up of transcriptions of spoken language.
+- **Multilingual Corpora** include texts in more than one language for comparative studies.
 
 ## Characteristics
 
-- **Authenticity**: Real-world language use.
-- **Representativeness**: Reflects the diversity of the language.
-- **Size**: Ranges from thousands to billions of words.
+- **Authenticity** reflects real-world language usage.
+- **Representativeness** ensures the corpus mirrors the variety found in the language.
+- **Size** can range from thousands to billions of words, impacting the depth of analysis.
 
 ## Examples
 
-- **British National Corpus (BNC)**: A 100-million-word collection of samples of written and spoken English from a wide range of sources.
-- **Corpus of Contemporary American English (COCA)**: Contains over 560 million words of American English texts.
+- **The Internet** is the larges colection of text, i.e. corpus.
+- **British National Corpus (BNC)** is a 100-million-word collection of samples of written and spoken English from a wide range of sources.
+- **Corpus of Contemporary American English (COCA)** contains over 560 million words of American English texts.
 
 ## Related Topics
 
