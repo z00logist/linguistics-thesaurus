@@ -1,17 +1,23 @@
 # Psycholinguistics
 
-Psycholinguistics is the interdisciplinary study of how humans acquire, produce, comprehend, and use language. It combines methods and theories from psychology and linguistics to understand the cognitive processes underlying language.
+Psycholinguistics is the study of how humans acquire, produce, and understand language. This field combines insights from linguistics and psychology to explore the cognitive processes underlying language use.
 
 ## Contents
 
-- [Psycholinguistics](Psycholinguistics.md)
-- [Language Acquisition](Language-Acquisition.md)
-- [Speech Perception](Speech-Perception.md)
-- [Speech Production](Speech-Production.md)
-- [Lexical Access](Lexical-Access.md)
-- [Sentence Processing](Sentence-Processing.md)
-- [Bilingualism](Bilingualism.md)
-- [Language Disorders](Language-Disorders.md)
+### 1. [Core](Core/README.md)
+- [Psycholinguistics](Core/Psycholinguistics.md)
+- [Neurolinguistics](Core/Neurolinguistics.md)
+
+### 2. [Language Acquisition](Language-Acquisition/README.md)
+- [Language Acquisition](Language-Acquisition/Language-Acquisition.md)
+- [Language Disorders](Language-Acquisition/Language-Disorders.md)
+- [Bilingualism](Language-Acquisition/Bilingualism.md)
+
+### 3. [Language Processing](Language-Processing/README.md)
+- [Lexical Access](Language-Processing/Lexical-Access.md)
+- [Sentence Processing](Language-Processing/Sentence-Processing.md)
+- [Speech Perception](Language-Processing/Speech-Perception.md)
+- [Speech Production](Language-Processing/Speech-Production.md)
 
 ---
 
