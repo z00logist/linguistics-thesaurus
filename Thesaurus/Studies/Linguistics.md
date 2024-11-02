@@ -15,7 +15,7 @@ The scientific study of language, encompassing its structure, use, and historica
 - [Linguistics - Wikipedia](https://en.wikipedia.org/wiki/Linguistics)
 - [Linguistic Society of America](https://www.linguisticsociety.org/)
 
-## References
+## Sources
 
 - Fromkin, V., Rodman, R., & Hyams, N. (2017). *An Introduction to Language*. Cengage Learning.
 - Edward Finegan, Language: *Its Structure and Use*, 6th ed. Wadsworth, 2012 

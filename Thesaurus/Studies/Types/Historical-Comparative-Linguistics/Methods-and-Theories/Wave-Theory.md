@@ -2,7 +2,7 @@
 
 The Wave Theory is an alternative model to the tree model in historical linguistics, proposing that linguistic changes spread outward in waves from a central point, affecting languages in a region to varying degrees.
 
-## Key Concepts
+## Essentials
 
 - **Isoglosses**: Geographic boundaries of linguistic features.
 - **Diffusion**: The spread of linguistic features across languages and dialects.
@@ -41,7 +41,7 @@ The Wave Theory is an alternative model to the tree model in historical linguist
 - [Wave Model - Wikipedia](https://en.wikipedia.org/wiki/Wave_model)
 - [Isoglosses and the Wave Theory](https://www.uni-due.de/ELE/MethodsWaveTheory.htm)
 
-## References
+## Sources
 
 - Schmidt, J. (1872). *Die Verwandtschaftsverhältnisse der indogermanischen Sprachen*. Hermann Böhlau.
 - Hock, H. H., & Joseph, B. D. (2009). *Language History, Language Change, and Language Relationship*. Mouton de Gruyter.

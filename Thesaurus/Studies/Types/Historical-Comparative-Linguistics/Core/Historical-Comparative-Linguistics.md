@@ -9,7 +9,7 @@ Historical-Comparative Linguistics examines how languages change over time and t
 - **Understanding Language Change**: Studying phonological, morphological, syntactic, and semantic changes.
 - **Language Contact**: Investigating how languages influence each other through contact.
 
-## Key Concepts
+## Essentials
 
 - **Sound Change**: Systematic phonetic changes in a language over time.
 - **Comparative Method**: Technique for reconstructing proto-languages by comparing cognates.
@@ -27,7 +27,7 @@ Historical-Comparative Linguistics examines how languages change over time and t
 - [Historical Linguistics - Wikipedia](https://en.wikipedia.org/wiki/Historical_linguistics)
 - [Introduction to Historical Linguistics](https://www.linguisticsociety.org/resource/historical-linguistics)
 
-## References
+## Sources
 
 - Campbell, L. (2013). *Historical Linguistics: An Introduction*. MIT Press.
 - Trask, R. L. (1996). *Historical Linguistics*. Arnold.

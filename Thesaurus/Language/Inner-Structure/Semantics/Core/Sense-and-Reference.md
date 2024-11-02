@@ -1,6 +1,6 @@
 # Sense and Reference
 
-Sense and reference are key concepts in semantics that differentiate between the meaning of a linguistic expression and the actual entity it refers to in the world.
+Sense and reference are Essentials in semantics that differentiate between the meaning of a linguistic expression and the actual entity it refers to in the world.
 
 ## Sense
 
@@ -34,7 +34,7 @@ The phrase "the current president" points to a specific person, but the actual i
 - [Sense and Reference - Wikipedia](https://en.wikipedia.org/wiki/Sense_and_reference)
 - [Stanford Encyclopedia of Philosophy: Frege's Theory of Sense and Reference](https://plato.stanford.edu/entries/frege/#SenRef)
 
-## References
+## Sources
 
 - Frege, G. (1892). "Über Sinn und Bedeutung" ("On Sense and Reference"). *Zeitschrift für Philosophie und philosophische Kritik*, 100, 25–50.
 - Lyons, J. (1995). *Linguistic Semantics: An Introduction*. Cambridge University Press.

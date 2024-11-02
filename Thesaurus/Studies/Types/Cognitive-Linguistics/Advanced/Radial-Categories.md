@@ -1,12 +1,10 @@
 # Radial Categories
 
-Radial categories are conceptual categories that have a central, prototypical meaning with extended meanings related through metaphorical or metonymic links.
+Radial categories are conceptual groupings that have a core, prototypical meaning with additional meanings branching out through metaphorical or metonymic connections.
 
 ## Characteristics
 
-- **Prototype Effects**: Some members are more central than others.
-- **Polysemy**: A single word with multiple related meanings.
-- **Extensions**: New meanings develop from the prototype via cognitive mechanisms.
+Radial categories show prototype effects, where some members are more central or typical than others. They often display polysemy, with a single word having multiple, related meanings. New meanings develop from the prototype through cognitive mechanisms that link related concepts.
 
 ## Examples
 
@@ -19,22 +17,19 @@ Radial categories are conceptual categories that have a central, prototypical me
 
 ## Cognitive Mechanisms
 
-- **Metaphor**: Mapping from one domain to another.
-- **Metonymy**: Using one aspect of something to refer to the whole.
-- **Image Schemas**: Underlying patterns influencing meaning extensions.
+Radial categories grow through cognitive mechanisms like metaphor, where one domain maps onto another, and metonymy, where one aspect of something refers to the whole. Image schemas provide underlying patterns that influence how meanings extend from the prototype.
 
 ## Related Topics
 
-- [Prototype Theory](../Prototype-Theory.md)
-- [Conceptual Metaphor Theory](../Conceptual-Metaphor-Theory.md)
-- [Cognitive Semantics](../Cognitive-Semantics.md)
+- [Conceptual Metaphor Theory](../Core/Conceptual-Metaphor-Theory.md)
+- [Cognitive Semantics](../Core/Cognitive-Semantics.md)
 
 ## External Links
 
 - [Radial Categories - Wikipedia](https://en.wikipedia.org/wiki/Radial_category)
 - [Polysemy and Radial Categories](https://www.sciencedirect.com/topics/psychology/radial-category)
 
-## References
+## Sources
 
 - Lakoff, G. (1987). *Women, Fire, and Dangerous Things: What Categories Reveal About the Mind*. University of Chicago Press.
 - Brugman, C. (1981). *The Story of "Over": Polysemy, Semantics, and the Structure of the Lexicon*. PhD Dissertation, University of California, Berkeley.

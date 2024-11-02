@@ -2,7 +2,7 @@
 
 Etymology is the study of the origin and historical development of words. It traces how words have evolved in form and meaning over time.
 
-## Key Concepts
+## Essentials
 
 - **Word Origins**: Identifying the earliest known use and source of a word.
 - **Borrowing**: Words adopted from other languages.
@@ -40,7 +40,7 @@ Etymology is the study of the origin and historical development of words. It tra
 - [Etymology - Wikipedia](https://en.wikipedia.org/wiki/Etymology)
 - [Online Etymology Dictionary](https://www.etymonline.com/)
 
-## References
+## Sources
 
 - Liberman, A. (2005). *Word Origins...And How We Know Them: Etymology for Everyone*. Oxford University Press.
 - Durkin, P. (2009). *The Oxford Guide to Etymology*. Oxford University Press.

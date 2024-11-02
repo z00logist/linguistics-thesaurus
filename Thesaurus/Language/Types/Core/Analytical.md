@@ -15,7 +15,7 @@ Languages that convey grammatical relationships without using inflectional morph
 - **Vietnamese**:
   - Heavily relies on word order and particles.
 
-## References
+## Sources
 
 - Comrie, B. (1989). *Language Universals and Linguistic Typology*. University of Chicago Press.
 

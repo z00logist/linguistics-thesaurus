@@ -2,7 +2,7 @@
 
 Glottochronology is a method in historical linguistics that estimates the time of divergence between languages by analyzing the percentage of shared core vocabulary.
 
-## Key Concepts
+## Essentials
 
 - **Lexicostatistics**: The quantitative comparison of lexical items across languages.
 - **Basic Vocabulary**: Words less likely to be borrowed or replaced, such as pronouns, numbers, and kinship terms.
@@ -47,7 +47,7 @@ Glottochronology is a method in historical linguistics that estimates the time o
 - [Glottochronology - Wikipedia](https://en.wikipedia.org/wiki/Glottochronology)
 - [Swadesh Lists](https://en.wiktionary.org/wiki/Appendix:Swadesh_lists)
 
-## References
+## Sources
 
 - Swadesh, M. (1952). "Lexico-Statistic Dating of Prehistoric Ethnic Contacts." *Proceedings of the American Philosophical Society*, 96(4), 452–463.
 - Embleton, S. M. (1986). *Statistics in Historical Linguistics*. Bochum Publications in Evolutionary Cultural Semiotics.

@@ -19,7 +19,7 @@ Languages in which morphemes may encode multiple grammatical meanings simultaneo
     - Root: *habl* (speak)
     - Ending: *-o* (first person singular present)
 
-## References
+## Sources
 
 - Trask, R. L. (2000). *The Dictionary of Historical and Comparative Linguistics*. Fitzroy Dearborn.
 

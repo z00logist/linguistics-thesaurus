@@ -29,7 +29,7 @@ Neurolinguistics is the study of how language is represented and processed in th
 - [Neurolinguistics - Wikipedia](https://en.wikipedia.org/wiki/Neurolinguistics)
 - [Society for the Neurobiology of Language](https://www.neurolang.org/)
 
-## References
+## Sources
 
 - Hickok, G., & Poeppel, D. (2007). "The Cortical Organization of Speech Processing." *Nature Reviews Neuroscience*, 8(5), 393–402.
 - Gazzaniga, M. S., Ivry, R. B., & Mangun, G. R. (2013). *Cognitive Neuroscience: The Biology of the Mind*. W. W. Norton & Company.

@@ -29,7 +29,7 @@ The Comparative Method is a systematic approach used in historical linguistics t
 - [Comparative Method - Wikipedia](https://en.wikipedia.org/wiki/Comparative_method_(linguistics))
 - [Introduction to the Comparative Method](https://www.uni-due.de/ELE/MethodsComparativeMethod.htm)
 
-## References
+## Sources
 
 - Campbell, L. (2013). *Historical Linguistics: An Introduction*. MIT Press.
 - Crowley, T., & Bowern, C. (2010). *An Introduction to Historical Linguistics*. Oxford University Press.

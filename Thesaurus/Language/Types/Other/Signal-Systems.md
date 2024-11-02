@@ -21,7 +21,7 @@ Communication systems used by animals, which lack the complexity and generative 
 - Human language can produce infinite messages; animal signals cannot.
 - Human language can refer to past and future events; animal signals are typically about the present.
 
-## References
+## Sources
 
 - Yule, G. (2016). *The Study of Language*. Cambridge University Press.
 

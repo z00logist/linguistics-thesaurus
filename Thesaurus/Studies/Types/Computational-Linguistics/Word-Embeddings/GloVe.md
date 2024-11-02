@@ -27,7 +27,7 @@ GloVe (Global Vectors for Word Representation) is an unsupervised learning algor
 - [GloVe Project Page](https://nlp.stanford.edu/projects/glove/)
 - [GloVe Explained](https://medium.com/@sonicboom8/glove-global-vectors-for-word-representation-5a262012210d)
 
-## References
+## Sources
 
 - Pennington, J., Socher, R., & Manning, C. D. (2014). "GloVe: Global Vectors for Word Representation." *Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing*, 1532–1543.
 

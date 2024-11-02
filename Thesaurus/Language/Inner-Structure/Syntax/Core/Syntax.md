@@ -10,7 +10,7 @@ Syntax is the study of the rules and principles that govern the structure of sen
 - [Syntax - Wikipedia](https://en.wikipedia.org/wiki/Syntax)
 - [Syntax in Linguistics - Glossary](https://glossary.sil.org/term/syntax)
 
-## References
+## Sources
 
 - Chomsky, N. (1957). Syntactic structures. *Mouton*.
 

@@ -25,7 +25,7 @@ Intonation patterns can change the meaning or intent of a sentence:
 - [Intonation (Linguistics) - Wikipedia](https://en.wikipedia.org/wiki/Intonation_(linguistics))
 - [Intonation - SIL International](https://glossary.sil.org/term/intonation)
 
-## References
+## Sources
 
 - Cruttenden, A. (1997). *Intonation*. Cambridge University Press.
 

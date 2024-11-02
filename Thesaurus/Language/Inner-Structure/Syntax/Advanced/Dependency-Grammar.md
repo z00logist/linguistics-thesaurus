@@ -21,7 +21,7 @@ Dependency grammar has a few distinctive features:
 - [Dependency Grammar - Wikipedia](https://en.wikipedia.org/wiki/Dependency_grammar)
 - [Dependency Grammar - SIL International](https://glossary.sil.org/term/dependency-grammar)
 
-## References
+## Sources
 
 - Mel'čuk, I. (1988). *Dependency Syntax: Theory and Practice*. SUNY Press.
 

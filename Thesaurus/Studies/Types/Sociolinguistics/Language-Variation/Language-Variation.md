@@ -4,15 +4,15 @@ Language variation refers to the differences in language use across different re
 
 ## Types of Variation
 
-- **Regional Variation (Dialect)**: Differences based on geographic areas.
-- **Social Variation (Sociolect)**: Differences based on social class, ethnicity, gender.
-- **Stylistic Variation (Register)**: Differences based on context or situation.
+- **Regional Variation** is Dialect
+- **Social Variation** is Sociolect
+- **Stylistic Variation** is called Register
 
 ## Examples
 
 - **Accent Differences**: British English vs. American English pronunciations.
 - **Vocabulary Differences**: "Lift" (UK) vs. "Elevator" (US).
-- **Grammatical Differences**: Use of double negatives in some dialects.
+
 
 
 ## Related Topics
@@ -25,7 +25,7 @@ Language variation refers to the differences in language use across different re
 - [Language Variation - Wikipedia](https://en.wikipedia.org/wiki/Language_variation)
 - [Dialects and Accents - University of Leeds](https://www.leeds.ac.uk/arts/info/125219/dialects_and_accents)
 
-## References
+## Sources
 
 - Chambers, J. K., & Trudgill, P. (1998). *Dialectology*. Cambridge University Press.
 

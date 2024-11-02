@@ -2,7 +2,7 @@
 
 The Natural Semantic Metalanguage (NSM) is a linguistic theory developed by Anna Wierzbicka and colleagues, proposing that all meanings can be broken down into a set of universal semantic building blocks called semantic primitives or primes.
 
-## Key Concepts
+## Essentials
 
 NSM centers around a few core ideas:
 
@@ -29,7 +29,7 @@ Some common semantic primes include:
 - [Natural Semantic Metalanguage - Wikipedia](https://en.wikipedia.org/wiki/Natural_semantic_metalanguage)
 - [NSM Homepage](https://nsm-approach.net/)
 
-## References
+## Sources
 
 - Wierzbicka, A. (1996). *Semantics: Primes and Universals*. Oxford University Press.
 - Goddard, C. (Ed.). (2008). *Cross-Linguistic Semantics*. John Benjamins Publishing.

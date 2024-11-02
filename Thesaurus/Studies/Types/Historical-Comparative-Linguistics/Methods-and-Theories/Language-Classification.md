@@ -36,7 +36,7 @@ Language classification involves grouping languages based on shared features, wh
 - [Language Classification - Wikipedia](https://en.wikipedia.org/wiki/Language_classification)
 - [World Atlas of Language Structures](https://wals.info/)
 
-## References
+## Sources
 
 - Croft, W. (2002). *Typology and Universals*. Cambridge University Press.
 - Comrie, B. (Ed.). (1987). *The World's Major Languages*. Oxford University Press.

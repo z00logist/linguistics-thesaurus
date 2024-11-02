@@ -1,26 +1,20 @@
 # Dialectology
 
-Dialectology is the study of regional differences in language, focusing on variations in pronunciation, grammar, and vocabulary.
+Dialectology is the study of regional variations in language, examining differences in pronunciation, grammar, and vocabulary.
 
 ## Objectives
 
-- **Mapping Dialect Areas**: Identifying geographic boundaries of dialects.
-- **Understanding Language Variation**: Analyzing how and why dialects differ.
-- **Preserving Linguistic Diversity**: Documenting endangered dialects.
+Dialectology has several main goals. One focus is on mapping dialect areas to identify the geographic boundaries where different dialects are spoken. Understanding language variation involves analyzing the reasons dialects differ across regions. Another important aim is preserving linguistic diversity by documenting dialects that are at risk of disappearing.
 
 ## Methods
 
-- **Field Surveys**: Collecting data through interviews and questionnaires.
-- **Linguistic Atlases**: Creating maps showing linguistic features.
+The study of dialects often uses field surveys to gather data through interviews and questionnaires. Linguistic atlases are created to visually represent these findings by mapping out specific linguistic features.
 
 ## Examples
-- **German Dialects**:
-  - **Bavarian**: Characterized by unique vowel sounds and verb conjugations.
-  - **Swabian**: Known for distinct intonation and pronunciation differences, especially with consonants.
-  - **Low German**: A dialect family with many unique words, preserving older Germanic linguistic features.
-  
-- **The Survey of English Dialects**: Documented English dialects across England.
-- **Atlas Linguistique de la France**: Early linguistic atlas mapping French dialects.
+
+The study of German dialects provides clear examples. Bavarian is known for unique vowel sounds and verb conjugations. Swabian is recognized for its distinct intonation and differences in consonant pronunciation. Low German retains many unique words and preserves older Germanic linguistic characteristics.
+
+Other notable studies include the Survey of English Dialects, which documented the different English dialects across England, and the *Atlas Linguistique de la France*, an early project mapping French dialects.
 
 ## Related Topics
 
@@ -32,7 +26,7 @@ Dialectology is the study of regional differences in language, focusing on varia
 - [Dialectology - Wikipedia](https://en.wikipedia.org/wiki/Dialectology)
 - [The British Library - Accents and Dialects](https://www.bl.uk/british-accents-and-dialects)
 
-## References
+## Sources
 
 - Chambers, J. K., & Trudgill, P. (1998). *Dialectology*. Cambridge University Press.
 - König, W., & Auer, P. (2003). *The Dialects of Modern German*. Routledge.

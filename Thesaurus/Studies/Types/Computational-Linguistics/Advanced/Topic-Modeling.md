@@ -22,7 +22,7 @@ Topic modeling is a technique in natural language processing used to discover th
 - [Gensim Topic Modeling](https://radimrehurek.com/gensim/)
 - [LDA in Scikit-Learn](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html)
 
-## References
+## Sources
 
 - Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). *Latent Dirichlet Allocation*. Journal of Machine Learning Research.
 - Manning, C. D., & Schütze, H. (1999). *Foundations of Statistical Natural Language Processing*. MIT Press.

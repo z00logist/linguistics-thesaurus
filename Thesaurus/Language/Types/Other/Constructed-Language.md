@@ -20,7 +20,7 @@ Constructed languages, or "conlangs," are languages that have been intentionally
 - [Esperanto - Learn the Language](https://en.duolingo.com/course/eo/en/Learn-Esperanto)
 - [Interslavic](https://en.wikipedia.org/wiki/Interslavic)
 
-## References
+## Sources
 
 - Okrent, A. (2009). *In the Land of Invented Languages*. Spiegel & Grau.
 

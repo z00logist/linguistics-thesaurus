@@ -35,7 +35,7 @@ Explore these related concepts:
 - [International Phonetic Alphabet - Wikipedia](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)
 - [Official IPA Chart](https://www.internationalphoneticassociation.org/content/ipa-chart)
 
-## References
+## Sources
 
 International Phonetic Association. (1999). *Handbook of the International Phonetic Association*. Cambridge University Press.
 

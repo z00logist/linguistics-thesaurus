@@ -25,7 +25,7 @@ Frequency analysis involves examining how often words or linguistic structures o
 - [Frequency Analysis - Wikipedia](https://en.wikipedia.org/wiki/Frequency_analysis)
 - [The Oxford 3000 Word List](https://www.oxfordlearnersdictionaries.com/wordlist/oxford3000/)
 
-## References
+## Sources
 
 - Nation, I. S. P. (2001). *Learning Vocabulary in Another Language*. Cambridge University Press.
 

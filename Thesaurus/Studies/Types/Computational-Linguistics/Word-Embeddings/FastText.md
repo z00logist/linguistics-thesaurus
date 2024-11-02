@@ -26,7 +26,7 @@ FastText is a library developed by Facebook's AI Research (FAIR) lab for efficie
 - [FastText Website](https://fasttext.cc/)
 - [FastText Tutorial](https://fasttext.cc/docs/en/tutorial.html)
 
-## References
+## Sources
 
 - Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2017). "Enriching Word Vectors with Subword Information." *Transactions of the Association for Computational Linguistics*, 5, 135–146.
 - Joulin, A., Grave, E., Bojanowski, P., & Mikolov, T. (2017). "Bag of Tricks for Efficient Text Classification." *Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics*, 427–431.

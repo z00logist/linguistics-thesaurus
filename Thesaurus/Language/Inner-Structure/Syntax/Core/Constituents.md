@@ -24,7 +24,7 @@ Constituents are words or groups of words that function as a single unit within 
 - [Constituent (Linguistics) - Wikipedia](https://en.wikipedia.org/wiki/Constituent_(linguistics))
 - [Constituency Tests - SIL International](https://glossary.sil.org/term/constituency-tests)
 
-## References
+## Sources
 
 - Carnie, A. (2013). *Syntax: A Generative Introduction*. Wiley-Blackwell.
 

@@ -1,20 +1,23 @@
 # Conceptual Integration (Blending Theory)
 
-Conceptual Integration, also known as Blending Theory, is a cognitive process where elements and relations from diverse scenarios are combined into a single mental space or "blend," producing new meaning.
+Conceptual Integration, or Blending Theory, is a cognitive process where elements from different scenarios merge into a single mental space, creating new meanings and insights.
 
 ## Key Components
 
-- **Mental Spaces**: Partial representations of situations constructed as we think and talk.
-- **Input Spaces**: Different mental spaces that contribute elements to the blend.
-- **Generic Space**: Contains shared structure between inputs.
-- **Blended Space**: The mental space where integration occurs.
+Understanding blending involves several main ideas:
 
-## Processes
+- **Mental Spaces** are the partial representations of situations we construct as we think and communicate.
+- **Input Spaces** bring elements from different mental spaces to contribute to the blend.
+- **Generic Space** includes common structures shared by the input spaces.
+- **Blended Space** is where the actual integration and creation of new meaning happen.
 
-- **Composition**: Combining elements from input spaces.
-- **Completion**: Filling in additional structure based on background knowledge.
-- **Elaboration**: Developing the blend through imaginative simulation.
+## How It Works
 
+The blending process unfolds in stages:
+
+- **Composition** mixes elements from the input spaces.
+- **Completion** fills in missing parts using background knowledge.
+- **Elaboration** takes the blend further through imaginative thinking and simulation.
 
 ## Related Topics
 
@@ -27,7 +30,7 @@ Conceptual Integration, also known as Blending Theory, is a cognitive process wh
 - [Conceptual Blending - Wikipedia](https://en.wikipedia.org/wiki/Conceptual_blending)
 - [The Way We Think](https://www.sciencedirect.com/science/article/pii/S0388000199000038)
 
-## References
+## Sources
 
 - Fauconnier, G., & Turner, M. (2002). *The Way We Think: Conceptual Blending and the Mind's Hidden Complexities*. Basic Books.
 - Fauconnier, G. (1994). *Mental Spaces: Aspects of Meaning Construction in Natural Language*. Cambridge University Press.

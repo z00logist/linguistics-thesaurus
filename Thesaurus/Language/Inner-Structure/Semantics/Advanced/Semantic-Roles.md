@@ -19,7 +19,7 @@ Semantic roles, also known as thematic roles or theta roles, describe the functi
 - [Semantic Role - Wikipedia](https://en.wikipedia.org/wiki/Semantic_role)
 - [Semantic Roles in NLP](https://www.kdnuggets.com/2019/11/semantic-role-labeling-deep-learning.html)
 
-## References
+## Sources
 
 - Dowty, D. R. (1991). "Thematic Proto-Roles and Argument Selection." *Language*, 67(3), 547–619.
 - Fillmore, C. J. (1968). "The Case for Case." In *Universals in Linguistic Theory*, 1–88.

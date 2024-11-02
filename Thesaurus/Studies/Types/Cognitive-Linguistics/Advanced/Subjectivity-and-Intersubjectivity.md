@@ -1,35 +1,27 @@
 # Subjectivity and Intersubjectivity
 
-Subjectivity and intersubjectivity in cognitive linguistics refer to the ways language expresses the speaker's perspective (subjectivity) and how shared understanding is established between interlocutors (intersubjectivity).
+Subjectivity and intersubjectivity in cognitive linguistics deal with how language conveys the speaker's perspective and how shared understanding is established between people during communication.
 
 ## Subjectivity
 
-- **Definition**: Linguistic expression of the speaker's feelings, attitudes, and viewpoints.
-- **Markers**: Modality, evaluative adjectives, personal pronouns.
-- **Examples**:
-  - "I think it's going to rain."
-  - "Unfortunately, he left early."
+Subjectivity refers to how language expresses the speaker's feelings, attitudes, and viewpoints. This can be marked by modality, the use of evaluative adjectives, or personal pronouns. For example, sentences like "I think it's going to rain" or "Unfortunately, he left early" reflect the speaker's personal stance.
 
 ## Intersubjectivity
 
-- **Definition**: The mutual, shared understanding and knowledge among language users.
-- **Markers**: Discourse markers, shared cultural references, presuppositions.
-- **Examples**:
-  - "You know, that movie we saw last week."
-  - "As we all agree, education is important."
+Intersubjectivity involves the shared understanding and common knowledge between language users. It is often indicated through discourse markers, shared cultural references, or presuppositions. Phrases like "You know, that movie we saw last week" or "As we all agree, education is important" illustrate how speakers create a sense of mutual knowledge.
+
 
 ## Related Topics
 
-- [Pragmatics](../../Language/Inner-Structure/Pragmatics/Pragmatics.md)
-- [Cognitive Semantics](../Cognitive-Semantics.md)
-- [Embodiment in Language](../Embodiment-in-Language.md)
+- [Cognitive Semantics](../Core/Cognitive-Semantics.md)
+- [Embodiment in Language](../Core/Embodiment-in-Language.md)
 
 ## External Links
 
 - [Subjectivity - Wikipedia](https://en.wikipedia.org/wiki/Subjectivity)
 - [Intersubjectivity - Wikipedia](https://en.wikipedia.org/wiki/Intersubjectivity)
 
-## References
+## Sources
 
 - Langacker, R. W. (1990). "Subjectification." *Cognitive Linguistics*, 1(1), 5–38.
 - Verhagen, A. (2005). *Constructions of Intersubjectivity: Discourse, Syntax, and Cognition*. Oxford University Press.

@@ -44,7 +44,7 @@ Segmentation is the process of dividing text into meaningful units, such as word
 - [Thai Language Segmentation with PyThaiNLP](https://pythainlp.github.io/pythainlp/)
 - [Chinese Word Segmentation with Jieba](https://github.com/fxsjy/jieba)
 
-## References
+## Sources
 
 - Jurafsky, D., & Martin, J. H. (2009). *Speech and Language Processing*. Pearson.
   

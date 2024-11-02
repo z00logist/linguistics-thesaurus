@@ -43,7 +43,7 @@ Language acquisition studies how humans acquire the capacity to perceive, produc
 - [Language Acquisition - Wikipedia](https://en.wikipedia.org/wiki/Language_acquisition)
 - [First Language Acquisition Theories](https://www.simplypsychology.org/language.html)
 
-## References
+## Sources
 
 - Lightbown, P. M., & Spada, N. (2013). *How Languages are Learned*. Oxford University Press.
 - Pinker, S. (1994). *The Language Instinct*. William Morrow and Company.

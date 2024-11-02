@@ -52,7 +52,7 @@ Dynamic change processes refer to the mechanisms and factors that drive language
 - [Historical Linguistics - Wikipedia](https://en.wikipedia.org/wiki/Historical_linguistics)
 - [Mechanisms of Language Change](https://glottopedia.org/wiki/Language_change)
 
-## References
+## Sources
 
 - Labov, W. (1994). *Principles of Linguistic Change, Volume 1: Internal Factors*. Wiley-Blackwell.
 - Bybee, J. (2015). *Language Change*. Cambridge University Press.

@@ -22,7 +22,7 @@ Text preprocessing is the initial stage in natural language processing where raw
 - [Text Preprocessing Techniques - Wikipedia](https://en.wikipedia.org/wiki/Text_preprocessing)
 - [NLP Preprocessing Tutorial](https://www.kdnuggets.com/2019/04/text-preprocessing-nlp.html)
 
-## References
+## Sources
 
 - Bird, S., Klein, E., & Loper, E. (2009). *Natural Language Processing with Python*. O'Reilly Media.
 

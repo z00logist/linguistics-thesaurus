@@ -14,7 +14,7 @@ Languages that use extensive affixation to express complex meanings within singl
   - *tusaatsiarunnanngittualuujunga* - "I can't hear very well"
     - Composed of multiple morphemes expressing the entire sentence.
 
-## References
+## Sources
 
 - Fortescue, M. (1984). *West Greenlandic*. Croom Helm.
 

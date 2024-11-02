@@ -8,7 +8,7 @@ A structured system of communication used by humans, consisting of grammar and v
 - [Types of Languages](Types/README.md)
 
 
-## References
+## Sources
 
 - Crystal, D. (2008). *A Dictionary of Linguistics and Phonetics*. Wiley-Blackwell.
 

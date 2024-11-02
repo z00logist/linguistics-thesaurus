@@ -6,7 +6,7 @@ Compositional semantics, often referred to as formal semantics, examines how the
 
 The central idea in compositional semantics is the principle of compositionality, which states that the meaning of a complex expression is determined by its structure and the meanings of its parts. This principle is often attributed to Gottlob Frege and forms a foundational aspect of semantic theory.
 
-## Key Concepts
+## Essentials
 
 Compositional semantics involves several core concepts:
 
@@ -20,7 +20,7 @@ Compositional semantics involves several core concepts:
 - [Compositional Semantics - Wikipedia](https://en.wikipedia.org/wiki/Compositional_semantics)
 - [Principle of Compositionality](https://plato.stanford.edu/entries/compositionality/)
 
-## References
+## Sources
 
 - Heim, I., & Kratzer, A. (1998). *Semantics in Generative Grammar*. Blackwell.
 - Partee, B., Ter Meulen, A., & Wall, R. (1990). *Mathematical Methods in Linguistics*. Springer.

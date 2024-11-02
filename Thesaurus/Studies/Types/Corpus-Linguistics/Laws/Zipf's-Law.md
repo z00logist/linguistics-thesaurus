@@ -28,7 +28,7 @@ Zipf's Law is an empirical law that describes the frequency distribution of word
 
 - [Zipf's Law - Wikipedia](https://en.wikipedia.org/wiki/Zipf's_law)
 
-## References
+## Sources
 
 - Zipf, G. K. (1949). *Human Behavior and the Principle of Least Effort*. Addison-Wesley.
 

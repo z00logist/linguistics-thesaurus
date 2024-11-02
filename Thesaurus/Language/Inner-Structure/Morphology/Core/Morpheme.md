@@ -27,7 +27,7 @@ The smallest grammatical unit in a language that carries meaning. Morphemes can 
 - [Morpheme - Wikipedia](https://en.wikipedia.org/wiki/Morpheme)
 - [Morphemes - LinguaLinks](https://www.sil.org/lingualinks/languagelearning/OtherResources/GudlnsFrALnggAndCltrLrnrs/Morphemes.htm)
 
-## References
+## Sources
 
 - Katamba, F. (1993). *Morphology*. Macmillan.
 

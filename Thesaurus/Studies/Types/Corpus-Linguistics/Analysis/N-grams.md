@@ -22,7 +22,7 @@ An n-gram is a contiguous sequence of n items from a given sample of text or spe
 - [N-gram - Wikipedia](https://en.wikipedia.org/wiki/N-gram)
 - [Google Ngram Viewer](https://books.google.com/ngrams)
 
-## References
+## Sources
 
 - Manning, C. D., & Schütze, H. (1999). *Foundations of Statistical Natural Language Processing*. MIT Press.
 

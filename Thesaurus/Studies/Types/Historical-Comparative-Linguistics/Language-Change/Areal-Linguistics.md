@@ -2,7 +2,7 @@
 
 Areal linguistics studies the features shared by languages within a geographical area, emphasizing the influence of language contact over genetic relationships.
 
-## Key Concepts
+## Essentials
 
 - **Sprachbund**: A linguistic area where languages share features due to contact.
 - **Convergence**: Languages becoming more similar through prolonged interaction.
@@ -40,7 +40,7 @@ Areal linguistics studies the features shared by languages within a geographical
 - [Areal Linguistics - Wikipedia](https://en.wikipedia.org/wiki/Areal_linguistics)
 - [Sprachbund Studies](https://glottopedia.org/wiki/Sprachbund)
 
-## References
+## Sources
 
 - Campbell, L. (2006). "Areal Linguistics: A Closer Scrutiny." In *Linguistic Areas*, 1–31.
 - Thomason, S. G. (2001). *Language Contact: An Introduction*. Edinburgh University Press.

@@ -36,7 +36,7 @@ Stemming is the process of reducing inflected or derived words to their word ste
 - [Stemming - Wikipedia](https://en.wikipedia.org/wiki/Stemming)
 - [Porter Stemming Algorithm](https://tartarus.org/martin/PorterStemmer/)
 
-## References
+## Sources
 
 - Porter, M. F. (1980). "An Algorithm for Suffix Stripping." *Program*, 14(3), 130–137.
 

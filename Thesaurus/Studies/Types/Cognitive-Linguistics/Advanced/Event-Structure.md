@@ -27,7 +27,7 @@ Different theories offer perspectives on how event structure is represented:
 - [Event Structure - Wikipedia](https://en.wikipedia.org/wiki/Event_structure)
 - [Vendler's Classes of Verbs](https://plato.stanford.edu/entries/action-structure/)
 
-## References
+## Sources
 
 - Vendler, Z. (1957). "Verbs and Times." *The Philosophical Review*, 66(2), 143–160.
 - Talmy, L. (2000). *Toward a Cognitive Semantics*. MIT Press.

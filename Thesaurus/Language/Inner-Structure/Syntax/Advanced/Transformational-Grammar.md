@@ -2,7 +2,7 @@
 
 Transformational grammar, introduced by Noam Chomsky, is a theory that explores how the deep structures of sentences can be transformed into surface structures using specific grammatical rules.
 
-## Key Concepts
+## Essentials
 
 Transformational grammar is built on several core ideas:
 
@@ -28,7 +28,7 @@ An example of transformational grammar is the passive transformation:
 - [Transformational Grammar - Wikipedia](https://en.wikipedia.org/wiki/Transformational_grammar)
 - [Chomsky's Theory - ThoughtCo](https://www.thoughtco.com/chomskys-transformational-grammar-1690509)
 
-## References
+## Sources
 
 - Chomsky, N. (1965). *Aspects of the Theory of Syntax*. MIT Press.
 

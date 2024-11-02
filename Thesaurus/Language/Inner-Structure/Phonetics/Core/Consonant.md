@@ -33,7 +33,7 @@ Some common examples include:
 - [Consonant - Wikipedia](https://en.wikipedia.org/wiki/Consonant)
 - [Interactive IPA Chart - International Phonetic Association](https://www.internationalphoneticassociation.org/content/ipa-chart)
 
-## References
+## Sources
 
 - Ladefoged, P., & Johnson, K. (2014). *A Course in Phonetics*. Cengage Learning.
 

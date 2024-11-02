@@ -26,7 +26,7 @@ Word embeddings map words or phrases from a vocabulary to numerical vector repre
 - [Word Embeddings - Wikipedia](https://en.wikipedia.org/wiki/Word_embedding)
 - [TensorFlow Word Embeddings Tutorial](https://www.tensorflow.org/tutorials/text/word_embeddings)
 
-## References
+## Sources
 
 - Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). "Efficient Estimation of Word Representations in Vector Space." *arXiv preprint arXiv:1301.3781*.
 - Pennington, J., Socher, R., & Manning, C. D. (2014). "GloVe: Global Vectors for Word Representation." *Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing*, 1532–1543.

@@ -2,7 +2,7 @@
 
 Pragmatics is a branch of linguistics that explores how language is used in context and how context influences meaning.
 
-## Key Concepts
+## Essentials
 
 Pragmatics involves several essential ideas:
 
@@ -25,7 +25,7 @@ Some important theories in pragmatics include:
 - [Pragmatics - Wikipedia](https://en.wikipedia.org/wiki/Pragmatics)
 - [Introduction to Pragmatics](https://www.linguisticsociety.org/resource/pragmatics)
 
-## References
+## Sources
 
 - Levinson, S. C. (1983). *Pragmatics*. Cambridge University Press.
 - Grice, H. P. (1975). "Logic and Conversation." In *Syntax and Semantics*, 3, 41–58.

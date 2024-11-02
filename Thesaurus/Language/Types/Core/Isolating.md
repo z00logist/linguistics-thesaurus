@@ -16,7 +16,7 @@ Languages in which words are typically composed of a single morpheme, and gramma
   - *学校* (xuéxiào) - school
   - Sentence: *我去学校* (I go to school)
 
-## References
+## Sources
 
 - Comrie, B. (1989). *Language Universals and Linguistic Typology*. University of Chicago Press.
 

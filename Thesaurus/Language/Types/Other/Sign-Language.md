@@ -18,7 +18,7 @@ Natural languages that use the visual-manual modality to convey meaning, possess
 - Sign languages are independent and not simply signed versions of spoken languages.
 - As sophisticated as spoken languages in terms of grammar and expression.
 
-## References
+## Sources
 
 - Valli, C., Lucas, C., Mulrooney, K. J., & Villanueva, M. (2011). *Linguistics of American Sign Language*. Gallaudet University Press.
 

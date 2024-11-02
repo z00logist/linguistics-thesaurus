@@ -37,7 +37,7 @@ Speech production is the process by which thoughts are translated into speech, i
 - [Speech Production - Wikipedia](https://en.wikipedia.org/wiki/Speech_production)
 - [Understanding Speech Production](https://www.ncbi.nlm.nih.gov/books/NBK10977/)
 
-## References
+## Sources
 
 - Levelt, W. J. M. (1989). *Speaking: From Intention to Articulation*. MIT Press.
 - Dell, G. S. (1986). "A Spreading-Activation Theory of Retrieval in Sentence Production." *Psychological Review*, 93(3), 283–321.

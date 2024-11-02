@@ -27,7 +27,7 @@ There are several common types of phonological processes:
 - [Phonological Rule - Wikipedia](https://en.wikipedia.org/wiki/Phonological_rule)
 - [Phonological Processes - SIL International](https://glossary.sil.org/term/phonological-process)
 
-## References
+## Sources
 
 - Hayes, B. (2009). *Introductory Phonology*. Wiley-Blackwell.
 

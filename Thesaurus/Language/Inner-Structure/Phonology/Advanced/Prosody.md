@@ -30,7 +30,7 @@ Prosody refers to the rhythm, stress, and intonation in speech, adding meaning t
 - [Prosody (Linguistics) - Wikipedia](https://en.wikipedia.org/wiki/Prosody_(linguistics))
 - [Prosody - SIL International](https://glossary.sil.org/term/prosody)
 
-## References
+## Sources
 
 Crystal, D. (2008). *A Dictionary of Linguistics and Phonetics*. Wiley-Blackwell.
 

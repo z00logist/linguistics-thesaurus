@@ -22,7 +22,7 @@ Suppletion is a morphological phenomenon where an irregular morphological change
 - [Suppletion - Wikipedia](https://en.wikipedia.org/wiki/Suppletion)
 - [Suppletion - SIL International](https://glossary.sil.org/term/suppletion)
 
-## References
+## Sources
 
 - Trask, R. L. (2000). *The Dictionary of Historical and Comparative Linguistics*. Fitzroy Dearborn.
 

@@ -19,7 +19,7 @@ Grammatical relations are the roles that constituents play in a sentence, such a
 - [Grammatical Relation - Wikipedia](https://en.wikipedia.org/wiki/Grammatical_relation)
 - [Grammatical Functions - SIL International](https://glossary.sil.org/term/grammatical-function)
 
-## References
+## Sources
 
 - Carnie, A. (2013). *Syntax: A Generative Introduction*. Wiley-Blackwell.
 

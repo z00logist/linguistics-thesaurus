@@ -40,7 +40,7 @@ The way sounds are articulated varies by how air is manipulated:
 - [Articulatory Phonetics - Wikipedia](https://en.wikipedia.org/wiki/Articulatory_phonetics)
 - [The Vocal Tract - University of Iowa](https://soundsofspeech.uiowa.edu/)
 
-## References
+## Sources
 
 - Ladefoged, P., & Johnson, K. (2014). *A Course in Phonetics*. Cengage Learning.
 

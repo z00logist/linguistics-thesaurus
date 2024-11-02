@@ -25,7 +25,7 @@ An affix is a bound morpheme attached to a root or stem to modify its meaning.
 - [Affix - Wikipedia](https://en.wikipedia.org/wiki/Affix)
 - [Affixes - Linguistics](https://www.sil.org/lingualinks/languagelearning/OtherResources/GudlnsFrALnggAndCltrLrnrs/Affixes.htm)
 
-## References
+## Sources
 
 - Katamba, F. (1993). *Morphology*. Macmillan.
 

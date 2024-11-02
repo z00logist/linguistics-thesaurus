@@ -18,7 +18,7 @@ Phrase structure rules describe the possible structures of phrases and sentences
 - [Phrase Structure Rules - Wikipedia](https://en.wikipedia.org/wiki/Phrase_structure_rules)
 - [Phrase Structure - SIL International](https://glossary.sil.org/term/phrase-structure)
 
-## References
+## Sources
 
 - Carnie, A. (2013). *Syntax: A Generative Introduction*. Wiley-Blackwell.
 

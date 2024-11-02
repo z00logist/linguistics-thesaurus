@@ -26,7 +26,7 @@ Vowel harmony is a phonological process where the vowels within a word match in 
 - [Vowel Harmony - Wikipedia](https://en.wikipedia.org/wiki/Vowel_harmony)
 - [Vowel Harmony - SIL International](https://glossary.sil.org/term/vowel-harmony)
 
-## References
+## Sources
 
 Kornfilt, J. (1997). *Turkish*. Routledge.  
 Hayes, B. (2009). *Introductory Phonology*. Wiley-Blackwell.

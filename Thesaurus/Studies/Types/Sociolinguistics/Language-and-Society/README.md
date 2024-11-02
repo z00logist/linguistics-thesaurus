@@ -4,7 +4,6 @@ This section examines the relationship between language and social constructs, s
 
 ## Contents
 - [Code-Switching](Code-Switching.md)
-- [Language and Identity](Language-and-Identity.md)
 - [Labov's New York City Study](Labov's-New-York-City-Study.md)
 
 ---

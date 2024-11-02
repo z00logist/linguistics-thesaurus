@@ -32,7 +32,7 @@ Corpus annotation involves adding interpretative linguistic information to a cor
 - [Corpus Annotation - Wikipedia](https://en.wikipedia.org/wiki/Corpus_linguistics#Annotation)
 - [Introduction to Corpus Annotation](https://ucrel.lancs.ac.uk/acl/EACL2003/corpus_annotation_tutorial.pdf) (PDF)
 
-## References
+## Sources
 
 - Leech, G. (1997). "Corpus Annotation Schemes." *Linguistic and Literary Computing*, 12(4), 254-276.
 

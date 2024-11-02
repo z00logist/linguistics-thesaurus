@@ -26,7 +26,7 @@ To delve deeper, explore these related topics:
 - [Phoneme - Wikipedia](https://en.wikipedia.org/wiki/Phoneme)
 - [Phonemes and Allophones - SIL International](https://glossary.sil.org/term/phoneme)
 
-## References
+## Sources
 
 Ladefoged, P., & Johnson, K. (2014). *A Course in Phonetics*. Cengage Learning.
 

@@ -54,7 +54,7 @@ An EBNF for the same arithmetic expressions:
 - [Backus-Naur Form - Wikipedia](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form)
 - [BNF and EBNF](https://www.cs.cmu.edu/~fp/courses/15122-f10/lectures/19-ebnf.pdf)
 
-## References
+## Sources
 
 - Aho, A. V., Lam, M. S., Sethi, R., & Ullman, J. D. (2006). *Compilers: Principles, Techniques, and Tools*. Pearson.
 - Hopcroft, J. E., Motwani, R., & Ullman, J. D. (2006). *Introduction to Automata Theory, Languages, and Computation*. Pearson.

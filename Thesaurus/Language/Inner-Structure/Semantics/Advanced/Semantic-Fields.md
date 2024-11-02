@@ -2,7 +2,7 @@
 
 A semantic field is a group of words that share a related meaning, referring to a specific topic or area of knowledge. This concept helps illustrate how vocabulary is structured and organized within a language.
 
-## Key Concepts
+## Essentials
 
 Semantic fields encompass a few important ideas:
 
@@ -21,7 +21,7 @@ Semantic fields encompass a few important ideas:
 - [Semantic Field - Wikipedia](https://en.wikipedia.org/wiki/Semantic_field)
 - [Semantic Fields in Linguistics](https://www.linguisticsociety.org/resource/lexicon)
 
-## References
+## Sources
 
 - Lehrer, A. (1974). *Semantic Fields and Lexical Structure*. North-Holland Publishing Company.
 - Cruse, D. A. (1986). *Lexical Semantics*. Cambridge University Press.

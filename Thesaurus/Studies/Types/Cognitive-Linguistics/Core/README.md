@@ -6,8 +6,7 @@ The **Core** section provides foundational knowledge in cognitive linguistics, i
 - [Cognitive Linguistics Overview](Cognitive-Linguistics.md)
 - [Cognitive Semantics](Cognitive-Semantics.md)
 - [Construction Grammar](Construction-Grammar.md)
-- [Embodiment in Language](Embodiment-in-Language.md)
-- [Cognitive Linguistics and Language Acquisition](Cognitive-Linguistics-and-Language-Acquisition.md)
+- [Cognitive Linguistics and Language Acquisition](Language-Acquisition.md)
 
 ---
 

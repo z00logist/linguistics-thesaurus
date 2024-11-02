@@ -25,7 +25,7 @@ The theory is built around several key ideas:
 - [Fillmore's Case Grammar - Wikipedia](https://en.wikipedia.org/wiki/Case_grammar)
 - [Case Theory in Linguistics](https://glottopedia.org/wiki/Case_grammar)
 
-## References
+## Sources
 
 - Fillmore, C. J. (1968). "The Case for Case." In *Universals in Linguistic Theory*, 1–88.
 - Cook, V. J., & Newson, M. (2007). *Chomsky's Universal Grammar: An Introduction*. Wiley-Blackwell.

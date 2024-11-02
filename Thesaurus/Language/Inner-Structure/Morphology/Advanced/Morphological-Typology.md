@@ -27,7 +27,7 @@ Morphological typology is the classification of languages based on their morphol
 - [Morphological Typology - Wikipedia](https://en.wikipedia.org/wiki/Morphological_typology)
 - [Language Typology - SIL International](https://glossary.sil.org/term/language-typology)
 
-## References
+## Sources
 
 - Comrie, B. (1989). *Language Universals and Linguistic Typology*. University of Chicago Press.
 - Greenberg, J. H. (1960). "A Quantitative Approach to the Morphological Typology of Language." *International Journal of American Linguistics*, 26(3), 178–194.

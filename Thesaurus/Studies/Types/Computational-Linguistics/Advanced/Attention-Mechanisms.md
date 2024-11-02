@@ -25,7 +25,7 @@ Attention mechanisms allow models to focus on specific parts of the input when g
 - [Attention Mechanisms in NLP](https://medium.com/syncedreview/a-brief-overview-of-attention-mechanism-13c578ba9129)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
-## References
+## Sources
 
 - Bahdanau, D., Cho, K., & Bengio, Y. (2015). "Neural Machine Translation by Jointly Learning to Align and Translate." *Proceedings of the International Conference on Learning Representations*.
 - Vaswani, A., et al. (2017). "Attention is All You Need." *Advances in Neural Information Processing Systems*, 5998–6008.

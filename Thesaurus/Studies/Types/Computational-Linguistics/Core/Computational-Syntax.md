@@ -26,7 +26,7 @@ Computational Syntax focuses on the computational modeling of syntactic structur
 - [Stanford Parser](https://nlp.stanford.edu/software/lex-parser.shtml)
 - [Computational Syntax - Wikipedia](https://en.wikipedia.org/wiki/Computational_syntax)
 
-## References
+## Sources
 
 - Klein, D., & Manning, C. D. (2003). "Accurate Unlexicalized Parsing." *Proceedings of the 41st Annual Meeting of the Association for Computational Linguistics*, 423–430.
 - Jurafsky, D., & Martin, J. H. (2020). *Speech and Language Processing*. Prentice Hall.

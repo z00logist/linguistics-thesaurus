@@ -28,7 +28,7 @@ Natural Language Processing is a subfield of artificial intelligence focused on 
 - [Natural Language Processing - Wikipedia](https://en.wikipedia.org/wiki/Natural_language_processing)
 - [Stanford NLP Group](https://nlp.stanford.edu/)
 
-## References
+## Sources
 
 - Jurafsky, D., & Martin, J. H. (2020). *Speech and Language Processing*. Prentice Hall.
 - Bird, S., Klein, E., & Loper, E. (2009). *Natural Language Processing with Python*. O'Reilly Media.

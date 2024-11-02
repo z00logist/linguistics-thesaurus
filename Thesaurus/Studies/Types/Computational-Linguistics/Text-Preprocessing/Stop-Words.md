@@ -41,7 +41,7 @@ Stop words are commonly used words in a language, such as "is," "the," or "and,"
 - [NLTK Stop Words](https://www.nltk.org/nltk_data/)
 - [SpaCy Stop Words](https://spacy.io/usage/linguistic-features#stop-words)
 
-## References
+## Sources
 
 - Manning, C. D., Raghavan, P., & Schütze, H. (2008). *Introduction to Information Retrieval*. Cambridge University Press.
 

@@ -1,35 +1,32 @@
 # Code-Switching
 
-Code-switching involves alternating between two or more languages or dialects within a conversation or utterance.
+Code-switching is the practice of shifting between two or more languages or dialects during a conversation or even within a single sentence. This linguistic phenomenon is common in multilingual communities and serves various social and communicative functions.
 
 ## Reasons for Code-Switching
 
-- **Contextual Shifts**: Changing topics or addressing different audiences.
-- **Emphasis**: Highlighting a point or expressing emotion.
-- **Identity Expression**: Reflecting cultural or social identity.
+People switch between languages for many reasons. It often happens when there is a shift in context, like changing the topic or speaking to different audiences. Code-switching can also be used to emphasize a point or convey emotion more effectively. For many, it is a way to express cultural or social identity, showing connection to multiple language groups.
 
-## Types
+## Types of Code-Switching
 
-- **Inter-Sentential**: Switching occurs at sentence boundaries.
-- **Intra-Sentential**: Switching occurs within a single sentence.
-- **Tag-Switching**: Insertion of a tag phrase from another language.
+There are different ways people engage in code-switching:
+
+- **Inter-Sentential Switching** involves changing languages between sentences. A speaker might say one sentence in English and the next in Spanish.
+- **Intra-Sentential Switching** happens within a single sentence, where words or phrases from different languages blend seamlessly.
+- **Tag-Switching** includes inserting a tag or short phrase from one language into a sentence in another language, like adding "you know?" in English to a sentence primarily spoken in French.
 
 ## Examples
 
-- **Spanglish**: Mixing Spanish and English in conversation.
-- **Singlish**: Combining English with elements of Chinese, Malay, and Tamil in Singapore.
+Examples of code-switching can be seen in various multilingual settings:
 
-## Related Topics
-
-- [Sociolinguistics](Sociolinguistics.md)
-- [Language and Identity](Language-and-Identity.md)
+- **Spanglish** is a mix of Spanish and English, common in the United States, where speakers fluidly switch between the two languages.
+- **Singlish** in Singapore blends English with Chinese, Malay, and Tamil, reflecting the country’s rich linguistic diversity.
 
 ## External Links
 
 - [Code-Switching - Wikipedia](https://en.wikipedia.org/wiki/Code-switching)
 - [The Code-Switching Phenomenon - Linguistic Society of America](https://www.linguisticsociety.org/content/code-switching)
 
-## References
+## Sources
 
 - Myers-Scotton, C. (1993). *Social Motivations for Codeswitching*. Oxford University Press.
 

@@ -23,7 +23,7 @@ Computational linguistics is an interdisciplinary field concerned with the compu
 - [Computational Linguistics - Wikipedia](https://en.wikipedia.org/wiki/Computational_linguistics)
 - [Association for Computational Linguistics](https://www.aclweb.org/)
 
-## References
+## Sources
 
 - Jurafsky, D., & Martin, J. H. (2020). *Speech and Language Processing*. Prentice Hall.
 - Manning, C. D., & Schütze, H. (1999). *Foundations of Statistical Natural Language Processing*. MIT Press.

@@ -32,7 +32,7 @@ Transformers are neural network architectures that rely entirely on self-attenti
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Transformers - Hugging Face](https://huggingface.co/transformers/)
 
-## References
+## Sources
 
 - Vaswani, A., et al. (2017). "Attention is All You Need." *Advances in Neural Information Processing Systems*, 5998–6008.
 - Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding." *Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics*, 4171–4186.

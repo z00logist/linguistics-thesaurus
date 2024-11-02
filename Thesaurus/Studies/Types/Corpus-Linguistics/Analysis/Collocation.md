@@ -23,7 +23,7 @@ Collocation refers to the habitual juxtaposition of a particular word with other
 - [Collocation - Wikipedia](https://en.wikipedia.org/wiki/Collocation)
 - [The BBI Combinatory Dictionary of English](https://benjamins.com/catalog/z.bbi2)
 
-## References
+## Sources
 
 - McCarthy, M., & O'Dell, F. (2005). *English Collocations in Use*. Cambridge University Press.
 

@@ -22,7 +22,7 @@ Neural networks are computational models inspired by the human brain's structure
 - [Neural Networks for NLP - Coursera](https://www.coursera.org/learn/deep-neural-networks-with-pytorch)
 - [Deep Learning Book](https://www.deeplearningbook.org/) by Goodfellow, Bengio, and Courville
 
-## References
+## Sources
 
 - Goldberg, Y. (2017). *Neural Network Methods for Natural Language Processing*. Morgan & Claypool Publishers.
 - Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.

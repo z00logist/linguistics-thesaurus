@@ -25,7 +25,7 @@ Allomorphs are variations of a morpheme that differ in pronunciation but not in 
 - [Allomorph - Wikipedia](https://en.wikipedia.org/wiki/Allomorph)
 - [Allomorphs - SIL International](https://glossary.sil.org/term/allomorph)
 
-## References
+## Sources
 
 - Katamba, F. (1993). *Morphology*. Macmillan.
 - Hayes, B. (2009). *Introductory Phonology*. Wiley-Blackwell.

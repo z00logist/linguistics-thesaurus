@@ -26,7 +26,7 @@ For more on related concepts, see:
 - [Minimal Pair - Wikipedia](https://en.wikipedia.org/wiki/Minimal_pair)
 - [Minimal Pairs in English - Practice](https://www.englishclub.com/pronunciation/minimal-pairs.htm)
 
-## References
+## Sources
 
 Ladefoged, P., & Johnson, K. (2014). *A Course in Phonetics*. Cengage Learning.
 

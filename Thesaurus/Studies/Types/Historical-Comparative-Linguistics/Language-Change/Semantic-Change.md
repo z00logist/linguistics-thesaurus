@@ -36,7 +36,7 @@ Semantic change refers to the evolution of word meanings over time. Understandin
 - [Semantic Change - Wikipedia](https://en.wikipedia.org/wiki/Semantic_change)
 - [Types of Semantic Change](https://glottopedia.org/wiki/Semantic_change)
 
-## References
+## Sources
 
 - Blank, A., & Koch, P. (Eds.). (1999). *Historical Semantics and Cognition*. Mouton de Gruyter.
 - Traugott, E. C., & Dasher, R. B. (2001). *Regularity in Semantic Change*. Cambridge University Press.

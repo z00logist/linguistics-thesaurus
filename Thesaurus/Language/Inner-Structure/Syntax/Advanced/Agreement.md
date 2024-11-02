@@ -21,7 +21,7 @@ Agreement is the grammatical connection between words, requiring certain forms t
 - [Agreement (Linguistics) - Wikipedia](https://en.wikipedia.org/wiki/Agreement_(linguistics))
 - [Concord - SIL International](https://glossary.sil.org/term/concord)
 
-## References
+## Sources
 
 - Corbett, G. G. (2006). *Agreement*. Cambridge University Press.
 

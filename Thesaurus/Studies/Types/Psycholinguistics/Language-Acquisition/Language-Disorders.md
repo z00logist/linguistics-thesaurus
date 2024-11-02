@@ -38,7 +38,7 @@ Language disorders, or language impairments, are conditions that affect an indiv
 - [Language Disorder - Wikipedia](https://en.wikipedia.org/wiki/Language_disorder)
 - [American Speech-Language-Hearing Association](https://www.asha.org/)
 
-## References
+## Sources
 
 - Bishop, D. V. M. (1997). *Uncommon Understanding: Development and Disorders of Language Comprehension in Children*. Psychology Press.
 - Goodglass, H., & Wingfield, A. (1997). *Anomia: Neuroanatomical and Cognitive Correlates*. Academic Press.

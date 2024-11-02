@@ -38,7 +38,7 @@ In bigram models:
 - [N-gram Models - Wikipedia](https://en.wikipedia.org/wiki/N-gram)
 - [Language Modeling Tutorial](https://web.stanford.edu/class/cs124/lec/languagemodeling.pdf) (Stanford)
 
-## References
+## Sources
 
 - Jurafsky, D., & Martin, J. H. (2020). *Speech and Language Processing*. Prentice Hall.
 - Manning, C. D., & Schütze, H. (1999). *Foundations of Statistical Natural Language Processing*. MIT Press.

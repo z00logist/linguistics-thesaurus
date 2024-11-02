@@ -22,7 +22,7 @@ Semantics covers several important areas:
 - [Semantics - Wikipedia](https://en.wikipedia.org/wiki/Semantics)
 - [Introduction to Semantics](https://www.linguisticsociety.org/resource/semantics)
 
-## References
+## Sources
 
 - Saeed, J. I. (2015). *Semantics*. Wiley-Blackwell.
 - Lyons, J. (1995). *Linguistic Semantics: An Introduction*. Cambridge University Press.

@@ -42,7 +42,7 @@ Lemmatization is the process of reducing words to their base or dictionary form,
 - [SpaCy Lemmatization](https://spacy.io/usage/linguistic-features#lemmatization)
 - [Russian Lemmatization](https://pymorphy2.readthedocs.io/en/stable/)
 
-## References
+## Sources
 
 - Bird, S., Klein, E., & Loper, E. (2009). *Natural Language Processing with Python*. O'Reilly Media.
 

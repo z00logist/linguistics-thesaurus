@@ -34,7 +34,7 @@ Hidden Markov Models (HMMs) are statistical models that represent systems with u
 - [HMM in Speech Recognition](https://cmusphinx.github.io/wiki/tutorialhmm/)
 - [HMMs in Python (hmmlearn)](https://hmmlearn.readthedocs.io/)
 
-## References
+## Sources
 
 - Rabiner, L. R. (1989). *A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition*. Proceedings of the IEEE.
 - Jurafsky, D., & Martin, J. H. (2009). *Speech and Language Processing*. Pearson.

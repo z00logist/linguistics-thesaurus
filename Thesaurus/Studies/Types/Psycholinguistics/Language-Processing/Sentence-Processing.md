@@ -29,7 +29,7 @@ Sentence processing involves the cognitive mechanisms by which humans comprehend
 - [Sentence Processing - Wikipedia](https://en.wikipedia.org/wiki/Sentence_processing)
 - [Garden Path Sentences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2754953/)
 
-## References
+## Sources
 
 - Frazier, L., & Rayner, K. (1982). "Making and Correcting Errors During Sentence Comprehension: Eye Movements in the Analysis of Structurally Ambiguous Sentences." *Cognitive Psychology*, 14(2), 178–210.
 - Trueswell, J. C., & Tanenhaus, M. K. (1994). "Toward a Lexicalist Framework of Constraint-Based Syntactic Ambiguity Resolution." In *Perspectives on Sentence Processing*, 155–179.

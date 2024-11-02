@@ -32,7 +32,7 @@ Lexical access refers to the process of retrieving a word's meaning, pronunciati
 - [Lexical Access - Wikipedia](https://en.wikipedia.org/wiki/Lexical_retrieval)
 - [The Mental Lexicon](https://www.sciencedirect.com/topics/neuroscience/mental-lexicon)
 
-## References
+## Sources
 
 - Meyer, D. E., & Schvaneveldt, R. W. (1971). "Facilitation in Recognizing Pairs of Words." *Journal of Experimental Psychology*, 90(2), 227–234.
 - Forster, K. I. (1976). "Accessing the Mental Lexicon." In *New Approaches to Language Mechanisms*, 257–287.

@@ -33,7 +33,7 @@ Bilingualism refers to the ability to use two or more languages proficiently. Ps
 - [Bilingualism - Wikipedia](https://en.wikipedia.org/wiki/Bilingualism)
 - [Center for Applied Linguistics](https://www.cal.org/)
 
-## References
+## Sources
 
 - Bialystok, E. (2009). "Bilingualism: The Good, the Bad, and the Indifferent." *Bilingualism: Language and Cognition*, 12(1), 3–11.
 - Grosjean, F. (2010). *Bilingual: Life and Reality*. Harvard University Press.

@@ -19,7 +19,7 @@ Word order refers to the sequence in which words appear in a sentence. Languages
 - [Word Order - Wikipedia](https://en.wikipedia.org/wiki/Word_order)
 - [Word Order Typology - WALS](https://wals.info/chapter/81)
 
-## References
+## Sources
 
 - Dryer, M. S. (2013). "Word Order." In M. S. Dryer & M. Haspelmath (Eds.), *The World Atlas of Language Structures Online*. Max Planck Institute for Evolutionary Anthropology.
 

@@ -2,7 +2,7 @@
 
 Typological classification categorizes languages based on shared structural features, regardless of genetic relationships, to identify patterns and universals in language structures.
 
-## Key Concepts
+## Essentials
 
 - **Linguistic Typology**: The study of systematic patterns and structural similarities among languages.
 - **Structural Features**: Phonological, morphological, syntactic, and semantic properties.
@@ -41,7 +41,7 @@ Typological classification categorizes languages based on shared structural feat
 - [Linguistic Typology - Wikipedia](https://en.wikipedia.org/wiki/Linguistic_typology)
 - [World Atlas of Language Structures](https://wals.info/)
 
-## References
+## Sources
 
 - Croft, W. (2002). *Typology and Universals*. Cambridge University Press.
 - Comrie, B. (1989). *Language Universals and Linguistic Typology*. University of Chicago Press.

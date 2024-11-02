@@ -28,7 +28,7 @@ Explore more about related concepts:
 - [Allophone - Wikipedia](https://en.wikipedia.org/wiki/Allophone)
 - [Allophone - SIL International](https://glossary.sil.org/term/allophone)
 
-## References
+## Sources
 
 Ladefoged, P., & Johnson, K. (2014). *A Course in Phonetics*. Cengage Learning.
 

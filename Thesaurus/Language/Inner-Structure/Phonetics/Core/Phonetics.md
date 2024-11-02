@@ -19,7 +19,7 @@ Phonetics is divided into:
 - **Acoustic Phonetics**, focusing on the sound waves and physical properties of these sounds.
 - **Auditory Phonetics**, which studies how listeners perceive speech sounds.
 
-## Key Concepts
+## Essentials
 
 Some essential concepts in phonetics include:
 
@@ -43,7 +43,7 @@ For more information:
 - [Phonetics - Wikipedia](https://en.wikipedia.org/wiki/Phonetics)
 - [International Phonetic Association](https://www.internationalphoneticassociation.org/)
 
-## References
+## Sources
 
 - Ladefoged, P., & Johnson, K. (2014). *A Course in Phonetics*. Cengage Learning.
 - Hayes, B. (2009). *Introductory Phonology*. Wiley-Blackwell.

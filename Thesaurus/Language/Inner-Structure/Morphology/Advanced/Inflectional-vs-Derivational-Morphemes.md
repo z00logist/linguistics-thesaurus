@@ -40,7 +40,7 @@ Understanding the difference between inflectional and derivational morphemes is 
 - [Inflection vs. Derivation - Wikipedia](https://en.wikipedia.org/wiki/Inflection#Inflection_vs._derivation)
 - [Derivational Morpheme - ThoughtCo](https://www.thoughtco.com/derivational-morpheme-words-1690397)
 
-## References
+## Sources
 
 - Katamba, F. (1993). *Morphology*. Macmillan.
 - Aronoff, M., & Fudeman, K. (2011). *What is Morphology?* Wiley-Blackwell.

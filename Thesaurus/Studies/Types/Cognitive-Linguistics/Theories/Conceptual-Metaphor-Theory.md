@@ -5,18 +5,19 @@ Conceptual Metaphor Theory (CMT) posits that metaphors are not just linguistic e
 > **Lakoff and Johnson (1980):**
 > "Our ordinary conceptual system, in terms of which we both think and act, is fundamentally metaphorical in nature."
 
-## Key Concepts
+## Essentials
 
-- **Source and Target Domains**: The source domain (concrete experience) is used to understand the target domain (abstract concept).
-- **Metaphorical Mappings**: Systematic correspondences between elements of the source and target domains.
-- **Embodiment**: Metaphors are grounded in bodily experiences.
+- **Conceptual Metaphor** is understanding one domain in terms of another.
+- **Metaphorical Mapping** is a systematic correspondences between source and target domains.
+- **Embodied Metaphor** is grounding metaphors in physical experiences.
+
+![Conceptual Metaphor](../../../../assets/conceptual_metaphor.png)
 
 ## Common Conceptual Metaphors
 
 - **Time is Money**: "You're wasting my time."
 - **Love is a Journey**: "Our relationship has hit a dead end."
 - **Ideas are Food**: "I can't digest all these facts."
-
 
 ## Related Topics
 
@@ -29,7 +30,7 @@ Conceptual Metaphor Theory (CMT) posits that metaphors are not just linguistic e
 - [Conceptual Metaphor - Wikipedia](https://en.wikipedia.org/wiki/Conceptual_metaphor)
 - [Metaphor Map of English](http://metaphormap.ihmc.us/)
 
-## References
+## Sources
 
 - Lakoff, G., & Johnson, M. (1980). *Metaphors We Live By*. University of Chicago Press.
 - Kövecses, Z. (2010). *Metaphor: A Practical Introduction*. Oxford University Press.

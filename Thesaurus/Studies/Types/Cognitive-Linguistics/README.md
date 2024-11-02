@@ -8,8 +8,7 @@ Cognitive linguistics is an interdisciplinary branch of linguistics that views l
 - [Cognitive Linguistics Overview](Core/Cognitive-Linguistics.md)
 - [Cognitive Semantics](Core/Cognitive-Semantics.md)
 - [Construction Grammar](Core/Construction-Grammar.md)
-- [Embodiment in Language](Core/Embodiment-in-Language.md)
-- [Cognitive Linguistics and Language Acquisition](Core/Cognitive-Linguistics-and-Language-Acquisition.md)
+- [Cognitive Linguistics and Language Acquisition](Core/Language-Acquisition.md)
 
 ### 2. [Theories](Theories/README.md)
 - [Blending Theory](Theories/Blending-Theory.md)
@@ -21,13 +20,7 @@ Cognitive linguistics is an interdisciplinary branch of linguistics that views l
 - [Mental Spaces Theory](Theories/Mental-Spaces-Theory.md)
 - [Prototype Theory](Theories/Prototype-Theory.md)
 
-### 3. [Applications](Applications/README.md)
-- [Cognitive Approaches to Grammar](Applications/Cognitive-Approaches-to-Grammar.md)
-- [Cognitive Approaches to Metaphor](Applications/Cognitive-Approaches-to-Metaphor.md)
-- [Cognitive Approaches to Syntax](Applications/Cognitive-Approaches-to-Syntax.md)
-- [Usage-Based Models](Applications/Usage-Based-Models.md)
-
-### 4. [Advanced](Advance/README.md)
+### 3. [Advanced](Advance/README.md)
 - [Embodied Cognition](Advanced/Embodied-Cognition.md)
 - [Event Structure](Advanced/Event-Structure.md)
 - [Force Dynamics](Advanced/Force-Dynamics.md)

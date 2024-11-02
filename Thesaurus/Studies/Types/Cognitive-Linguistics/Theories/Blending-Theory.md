@@ -1,37 +1,30 @@
 # Blending Theory
 
-Blending Theory, also known as Conceptual Integration Theory, is a cognitive framework that describes how elements from different mental spaces are combined to create new meaning.
+Blending Theory, also known as Conceptual Integration Theory, is a cognitive approach that explains how elements from different mental spaces are combined to create new meanings.
 
 ## Key Components
 
-- **Input Spaces**: Different mental spaces contributing to the blend.
-- **Generic Space**: Contains abstract structure common to input spaces.
-- **Blended Space**: The mental space where elements are integrated.
+Blending Theory involves several main components. Input spaces are separate mental spaces that contribute elements to the blend. A generic space holds abstract structures that are common to the input spaces, providing a shared framework. The blended space is where the integration of elements happens, forming new ideas or meanings.
 
 ## Processes
 
-- **Composition**: Combining elements from input spaces.
-- **Completion**: Filling in additional structure using background knowledge.
-- **Elaboration**: Developing the blend through imaginative processes.
-
+The creation of blended spaces follows certain processes. Composition involves merging elements from the input spaces. Completion uses background knowledge to fill in additional details within the blend. Elaboration develops the blend further, allowing it to be enriched through imagination and creative thought.
 
 ## Examples
 
-- **Riddle of the Sphinx**: Blending human and animal characteristics.
-- **Advertisements**: Combining product features with desirable lifestyles.
+Blending Theory can be seen in many examples. The riddle of the Sphinx combines human and animal characteristics, creating a mythical figure. Advertisements often use blending by integrating product features with idealized lifestyles, forming persuasive messages.
 
 ## Related Topics
 
-- [Conceptual Integration](Advanced/Conceptual-Integration.md)
+- [Conceptual Integration](Conceptual-Integration.md)
 - [Mental Spaces Theory](Mental-Spaces-Theory.md)
-- [Cognitive Semantics](Cognitive-Semantics.md)
 
 ## External Links
 
 - [Conceptual Blending - Wikipedia](https://en.wikipedia.org/wiki/Conceptual_blending)
 - [Blending and Metaphor](https://www.academia.edu/37730340/Conceptual_Blending_and_Metaphor)
 
-## References
+## Sources
 
 - Fauconnier, G., & Turner, M. (2002). *The Way We Think: Conceptual Blending and the Mind's Hidden Complexities*. Basic Books.
 - Coulson, S. (2001). *Semantic Leaps: Frame-Shifting and Conceptual Blending in Meaning Construction*. Cambridge University Press.

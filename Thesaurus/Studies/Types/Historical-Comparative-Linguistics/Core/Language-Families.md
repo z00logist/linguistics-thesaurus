@@ -36,7 +36,7 @@ Language families are groups of languages that have evolved from a common ancest
 - [Language Family - Wikipedia](https://en.wikipedia.org/wiki/Language_family)
 - [Ethnologue Language Families](https://www.ethnologue.com/browse/families)
 
-## References
+## Sources
 
 - Ruhlen, M. (1991). *A Guide to the World's Languages*. Stanford University Press.
 - Comrie, B. (Ed.). (1987). *The World's Major Languages*. Oxford University Press.

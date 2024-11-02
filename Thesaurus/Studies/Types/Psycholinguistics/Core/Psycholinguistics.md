@@ -32,7 +32,7 @@ Psycholinguistics explores the psychological and neurobiological factors that en
 - [Psycholinguistics - Wikipedia](https://en.wikipedia.org/wiki/Psycholinguistics)
 - [Society for Psycholinguistics](https://www.psycholinguistics.org/)
 
-## References
+## Sources
 
 - Harley, T. A. (2014). *The Psychology of Language: From Data to Theory*. Psychology Press.
 - Traxler, M. J. (2011). *Introduction to Psycholinguistics: Understanding Language Science*. Wiley-Blackwell.

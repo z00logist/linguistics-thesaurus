@@ -29,7 +29,7 @@ The Bag of Words model is a simplifying representation used in natural language 
 - [Bag-of-Words Model - Wikipedia](https://en.wikipedia.org/wiki/Bag-of-words_model)
 - [Understanding Bag of Words](https://machinelearningmastery.com/gentle-introduction-bag-words-model/) (Machine Learning Mastery)
 
-## References
+## Sources
 
 - Jurafsky, D., & Martin, J. H. (2020). *Speech and Language Processing*. Prentice Hall.
 - Harris, Z. S. (1954). "Distributional Structure." *Word*, 10(2-3), 146-162.

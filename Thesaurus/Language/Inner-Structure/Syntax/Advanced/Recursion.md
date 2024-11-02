@@ -19,7 +19,7 @@ Recursion is the property of language that allows for the embedding of structure
 - [Recursion (Linguistics) - Wikipedia](https://en.wikipedia.org/wiki/Recursion_(linguistics))
 - [Recursion - SIL International](https://glossary.sil.org/term/recursion)
 
-## References
+## Sources
 
 - Hauser, M. D., Chomsky, N., & Fitch, W. T. (2002). "The Faculty of Language: What Is It, Who Has It, and How Did It Evolve?" *Science*, 298(5598), 1569–1579.
 

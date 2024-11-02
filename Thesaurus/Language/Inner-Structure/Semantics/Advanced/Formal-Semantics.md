@@ -2,7 +2,7 @@
 
 Formal semantics studies linguistic meaning using formal tools drawn from logic and mathematics. Its goal is to model how speakers understand and interpret sentences in a systematic way.
 
-## Key Concepts
+## Essentials
 
 Some of the main ideas in formal semantics include:
 
@@ -24,7 +24,7 @@ Formal semantics encompasses different methods, such as:
 - [Formal Semantics - Wikipedia](https://en.wikipedia.org/wiki/Formal_semantics_(linguistics))
 - [Introduction to Formal Semantics](https://plato.stanford.edu/entries/semantics-lexicon/)
 
-## References
+## Sources
 
 - Montague, R. (1973). "The Proper Treatment of Quantification in Ordinary English." In *Approaches to Natural Language*, 221–242.
 - Heim, I., & Kratzer, A. (1998). *Semantics in Generative Grammar*. Blackwell.

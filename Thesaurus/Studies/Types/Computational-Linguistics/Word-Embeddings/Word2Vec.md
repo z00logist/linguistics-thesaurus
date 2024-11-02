@@ -36,7 +36,7 @@ Word2Vec is a group of related models that produce word embeddings using shallow
 - [Word2Vec Explained](https://towardsdatascience.com/word2vec-explained-49c52b4ccb71) (Towards Data Science)
 - [Gensim Word2Vec Tutorial](https://radimrehurek.com/gensim/models/word2vec.html)
 
-## References
+## Sources
 
 - Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). "Efficient Estimation of Word Representations in Vector Space." *arXiv preprint arXiv:1301.3781*.
 - Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., & Dean, J. (2013). "Distributed Representations of Words and Phrases and their Compositionality." *Advances in Neural Information Processing Systems*, 26, 3111–3119.

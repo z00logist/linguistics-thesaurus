@@ -5,11 +5,11 @@ Frame semantics is a theory that relates linguistic semantics to encyclopedic kn
 > **Fillmore (1977):**
 > "Meanings are relativized to frames."
 
-## Key Concepts
+## Essentials
 
-- **Frames**: Structured background knowledge that provides context for understanding words.
-- **Semantic Roles**: Participants in the frame (e.g., Agent, Patient, Instrument).
-- **Valence**: The number of arguments a verb can have, associated with the frame.
+- **Frames** are structured background knowledge that provides context for understanding words.
+- Participants in the frame (e.g., Agent, Patient, Instrument) are called **Semantic Roles**.
+- **Valence** is the number of arguments a verb can have, associated with the frame.
 
 
 ## Examples
@@ -20,12 +20,10 @@ Frame semantics is a theory that relates linguistic semantics to encyclopedic kn
 
 ## Projects
 
-- **FrameNet**: A lexical database of English based on frame semantics.
+- **FrameNet** is a lexical database of English based on frame semantics.
 
 ## Related Topics
 
-- [Cognitive Semantics](Cognitive-Semantics.md)
-- [Construction Grammar](Construction-Grammar.md)
 - [Semantic Roles](../../Language/Inner-Structure/Semantics/Semantic-Roles.md)
 
 ## External Links
@@ -33,7 +31,7 @@ Frame semantics is a theory that relates linguistic semantics to encyclopedic kn
 - [Frame Semantics - Wikipedia](https://en.wikipedia.org/wiki/Frame_semantics_(linguistics))
 - [FrameNet Project](https://framenet.icsi.berkeley.edu/)
 
-## References
+## Sources
 
 - Fillmore, C. J.  (1977a). "The Case for Case Reopened". *In Syntax and Semantics 8:
 Grammatical Relations*, ed. P. Cole, 59 – 81. New York: Academic Press

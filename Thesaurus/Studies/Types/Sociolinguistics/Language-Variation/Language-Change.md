@@ -4,26 +4,21 @@ Language change is the evolution of language forms and structures over time, inf
 
 ## Types of Language Change
 
-- **Phonological Change**: Changes in pronunciation (e.g., Great Vowel Shift).
-- **Morphological Change**: Changes in word formation and inflection.
-- **Syntactic Change**: Changes in sentence structure.
-- **Semantic Change**: Changes in word meanings.
-- **Lexical Change**: Addition or loss of vocabulary.
+- **Phonological Change** (e.g., Great Vowel Shift).
+- **Morphological Change**
+- **Syntactic Change**
+- **Semantic Change**
+- **Lexical Change**
 
-## Factors Influencing Change
+![Great Vowel Shift](../../../../assets/Great-Vowel-Shift.png)
 
-- **Social Interaction**: Contact with other languages and dialects.
-- **Technological Advancements**: New concepts require new terms.
-- **Cultural Shifts**: Changes in societal values and norms.
 
 ## Examples
 
-- **Old English to Modern English**: Significant changes in grammar and vocabulary.
-- **Borrowing**: Adoption of words from other languages (e.g., "sushi" from Japanese).
+For example, in old english sound "a" was pronounced flat: the word "make" would be pronounced as "ma:k"
 
 ## Related Topics
 
-- [Historical Linguistics](../../Historical-Linguistics/README.md)
 - [Language Variation](Language-Variation.md)
 
 ## External Links
@@ -31,7 +26,7 @@ Language change is the evolution of language forms and structures over time, inf
 - [Language Change - Wikipedia](https://en.wikipedia.org/wiki/Language_change)
 - [Historical Linguistics - SIL International](https://glossary.sil.org/subject/historical-linguistics)
 
-## References
+## Sources
 
 - Trask, R. L. (1996). *Historical Linguistics*. Arnold.
 

@@ -26,7 +26,7 @@ Large Language Models are neural network models with a large number of parameter
 - [GPT-3 Paper](https://arxiv.org/abs/2005.14165)
 - [Ethical Issues of LLMs](https://arxiv.org/abs/1906.01985)
 
-## References
+## Sources
 
 - Brown, T. B., et al. (2020). "Language Models are Few-Shot Learners." *Advances in Neural Information Processing Systems*, 1877–1901.
 - Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?" *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency*, 610–623.

@@ -2,7 +2,7 @@
 
 Phonological reconstruction involves reconstructing the sound system of a proto-language based on systematic sound correspondences among its descendant languages.
 
-## Key Concepts
+## Essentials
 
 - **Proto-Phonemes**: Hypothesized sounds in the ancestral language.
 - **Sound Correspondences**: Regular patterns of sound change identified through the comparative method.
@@ -35,7 +35,7 @@ Phonological reconstruction involves reconstructing the sound system of a proto-
 - [Phonological Reconstruction - Wikipedia](https://en.wikipedia.org/wiki/Comparative_method_(linguistics)#Phonological_reconstruction)
 - [Reconstructing Phonology](https://glottopedia.org/wiki/Phonological_reconstruction)
 
-## References
+## Sources
 
 - Fox, A. (1995). *Linguistic Reconstruction: An Introduction to Theory and Method*. Oxford University Press.
 - Campbell, L. (2013). *Historical Linguistics: An Introduction*. MIT Press.

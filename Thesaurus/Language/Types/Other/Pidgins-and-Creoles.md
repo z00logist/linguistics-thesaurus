@@ -24,7 +24,7 @@ Pidgins and creoles are languages that develop from contact between speakers of 
 - [Language Contact](../../Studies/Types/Historical-Comparative-Linguistics/Language-Contact.md)
 - [Sociolinguistics](../../Studies/Types/Sociolinguistics/README.md)
 
-## References
+## Sources
 
 - Holm, J. (2000). *An Introduction to Pidgins and Creoles*. Cambridge University Press.
 - Mufwene, S. S. (2001). *The Ecology of Language Evolution*. Cambridge University Press.

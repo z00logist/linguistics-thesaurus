@@ -47,7 +47,7 @@ Word formation refers to the processes by which new words are created in a langu
 - [Word Formation - Wikipedia](https://en.wikipedia.org/wiki/Word_formation)
 - [Word Formation Processes - SIL International](https://glossary.sil.org/term/word-formation)
 
-## References
+## Sources
 
 - Katamba, F. (1993). *Morphology*. Macmillan.
 - Aronoff, M., & Fudeman, K. (2011). *What is Morphology?* Wiley-Blackwell.

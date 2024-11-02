@@ -32,7 +32,7 @@ Language contact occurs when speakers of different languages or dialects interac
 - [Language Contact - Wikipedia](https://en.wikipedia.org/wiki/Language_contact)
 - [Studies in Language Contact](https://www.sciencedirect.com/topics/social-sciences/language-contact)
 
-## References
+## Sources
 
 - Thomason, S. G., & Kaufman, T. (1988). *Language Contact, Creolization, and Genetic Linguistics*. University of California Press.
 - Winford, D. (2003). *An Introduction to Contact Linguistics*. Blackwell.

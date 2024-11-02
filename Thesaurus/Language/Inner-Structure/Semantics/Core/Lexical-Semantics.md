@@ -2,7 +2,7 @@
 
 Lexical semantics studies how words in a language denote meaning and the relationships among those words. It aims to understand the meanings of individual words and how they relate to each other.
 
-## Key Concepts
+## Essentials
 
 Lexical semantics explores several fundamental ideas:
 
@@ -26,7 +26,7 @@ Lexical semantics explores several fundamental ideas:
 - [Lexical Semantics - Wikipedia](https://en.wikipedia.org/wiki/Lexical_semantics)
 - [Introduction to Lexical Semantics](https://www.sciencedirect.com/topics/computer-science/lexical-semantics)
 
-## References
+## Sources
 
 - Murphy, M. L. (2010). *Lexical Meaning*. Cambridge University Press.
 - Cruse, D. A. (1986). *Lexical Semantics*. Cambridge University Press.

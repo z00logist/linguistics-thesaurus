@@ -27,7 +27,7 @@ Corpus tools are software applications used for compiling, managing, and analyzi
 - [Sketch Engine](https://www.sketchengine.eu/)
 - [UAM CorpusTool](http://www.corpustool.com/)
 
-## References
+## Sources
 
 - Anthony, L. (2013). "A Critical Look at Software Tools in Corpus Linguistics." *Linguistic Research*, 30(2), 141-161.
 

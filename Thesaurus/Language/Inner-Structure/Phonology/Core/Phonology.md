@@ -7,7 +7,7 @@ Phonology is the study of how sounds function within a particular language, focu
 rules that the speaker uses in apprehending and manipulating the sounds of her
 language"
 
-## Key Concepts
+## Essentials
 
 Phonology includes several important concepts:
 
@@ -28,7 +28,7 @@ Phonology includes several important concepts:
 - [Phonology - Wikipedia](https://en.wikipedia.org/wiki/Phonology)
 - [Phonology - SIL International](https://glossary.sil.org/subject/phonology)
 
-## References
+## Sources
 
 - Hayes, B. (2009). *Introductory Phonology*. Wiley-Blackwell.
 

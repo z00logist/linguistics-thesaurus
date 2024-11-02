@@ -21,7 +21,7 @@ Phonotactics refers to the rules governing the permissible combinations and sequ
 - [Phonotactics - Wikipedia](https://en.wikipedia.org/wiki/Phonotactics)
 - [Phonotactics - SIL International](https://glossary.sil.org/term/phonotactics)
 
-## References
+## Sources
 
 - Crystal, D. (2008). *A Dictionary of Linguistics and Phonetics*. Wiley-Blackwell.
 

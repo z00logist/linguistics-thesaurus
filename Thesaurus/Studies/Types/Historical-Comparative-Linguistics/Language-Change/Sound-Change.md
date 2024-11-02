@@ -39,7 +39,7 @@ Sound change refers to systematic alterations in pronunciation that occur within
 - [Sound Change - Wikipedia](https://en.wikipedia.org/wiki/Sound_change)
 - [Historical Sound Changes](https://glottopedia.org/wiki/Sound_change)
 
-## References
+## Sources
 
 - Labov, W. (1994). *Principles of Linguistic Change, Volume 1: Internal Factors*. Wiley-Blackwell.
 - Hock, H. H. (1991). *Principles of Historical Linguistics*. Mouton de Gruyter.

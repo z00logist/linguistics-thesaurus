@@ -3,7 +3,7 @@
 Corpus linguistics is an empirical approach to studying language that involves the systematic analysis of large collections of naturally occurring texts (corpora).
 
 
-## Key Concepts
+## Essentials
 
 - **Corpora**: Large, structured sets of texts used for linguistic analysis.
 - **Concordance**: A list of all the occurrences of a word or phrase in a corpus, along with its context.
@@ -23,7 +23,7 @@ Corpus linguistics is an empirical approach to studying language that involves t
 - [Corpus Linguistics - Wikipedia](https://en.wikipedia.org/wiki/Corpus_linguistics)
 - [Corpus Linguistics - Lancaster University](http://corpora.lancs.ac.uk/clmtp/)
 
-## References
+## Sources
 
 - McEnery, T., & Hardie, A. (2012). *Corpus Linguistics: Method, Theory and Practice*. Cambridge University Press.
 

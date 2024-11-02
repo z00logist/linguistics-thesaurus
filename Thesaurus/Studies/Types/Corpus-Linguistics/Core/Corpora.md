@@ -33,7 +33,7 @@ A corpus (plural: corpora) is a large and structured set of texts (nowadays usua
 - [Oxford Text Archive](https://ota.ox.ac.uk/)
 - [Russian National Corpus](https://ruscorpora.ru/en)
 
-## References
+## Sources
 
 - Biber, D., Conrad, S., & Reppen, R. (1998). *Corpus Linguistics: Investigating Language Structure and Use*. Cambridge University Press.
 
