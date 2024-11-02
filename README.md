@@ -6,10 +6,9 @@ This repository is a comprehensive, structured, and detailed resource for studen
 
 ## Why Use This Repository?
 
-- **Comprehensive Coverage**: Dive deep into the multiple subfields of linguistics, from the foundational structures of language to specialized studies.
-- **Structured Learning**: Follow an organized pathway that takes you through the basics to advanced topics in various areas of linguistics.
-- **Practical Relevance**: Useful for both theoretical linguistics and applied fields such as NLP and language processing.
-- **Enhanced Learning Experience**: Leverage linked resources and references for further exploration.
+- Dive deep into the multiple **subfields** of linguistics, from the **foundational structures** of language to specialized studies.
+- Follow an **organized** pathway that takes you through the basics to advanced topics in various areas of linguistics.
+- Useful for both **theoretical** linguistics and **applied** fields such as NLP and language processing.
 
 ### **Important Note**:
 Throughout this repository, you will find links to Wikipedia for additional reference. Enhance your study experience by using the [Wiki-Helper](https://github.com/z00logist/wiki-helper) widget, which allows you to interactively ask questions about Wikipedia articles for in-depth understanding.

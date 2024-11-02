@@ -10,8 +10,8 @@ Natural languages that use the visual-manual modality to convey meaning, possess
 
 ## Examples
 
-- **American Sign Language (ASL)**:
-- **British Sign Language (BSL)**:
+- **American Sign Language (ASL)**
+- **British Sign Language (BSL)**
 
 ## Misconceptions
 
