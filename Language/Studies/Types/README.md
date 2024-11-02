@@ -9,6 +9,7 @@ Linguistics can be divided into various subfields based on different perspective
 - [Cognitive Linguistics](Cognitive-Linguistics/README.md)
 - [Corpus Linguistics](Corpus-Linguistics/README.md)
 - [Computational Linguistics](Computational-Linguistics/README.md)
+- [Historical Comparative Linguistics](Historical-Comparative-Linguistics/README.md)
 
 ---
 

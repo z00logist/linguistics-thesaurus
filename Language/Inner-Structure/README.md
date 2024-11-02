@@ -7,6 +7,7 @@ This section explores the internal components that make up languages, focusing o
 - [Morphology](Morphology/README.md)
 - [Phonetics](Phonetics/README.md)
 - [Phonology](Phonology/README.md)
+- [Semantics](Semantics/README.md)
 - [Syntax](Syntax/README.md)
 
 ---
