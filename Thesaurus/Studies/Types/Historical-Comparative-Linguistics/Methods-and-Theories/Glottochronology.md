@@ -15,7 +15,7 @@ The foundation of glottochronology is lexicostatistics, which quantitatively com
 
 ### Decay Formula
 
-t = log(c) / [2 × log(r)]
+**t = log(c) / [2 × log(r)]**
 
 - **t** represents the estimated time since the languages diverged.
 - **c** is the proportion of shared cognates.
