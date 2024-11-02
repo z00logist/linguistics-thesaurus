@@ -4,7 +4,7 @@ Morphemes are categorized based on their ability to stand alone.
 
 ## Free Morphemes
 
-- **Definition**: Morphemes that can stand alone as words.
+- Morphemes that can stand alone as words.
 - **Examples**:
   - "Book"
   - "Run"
@@ -12,14 +12,10 @@ Morphemes are categorized based on their ability to stand alone.
 
 ## Bound Morphemes
 
-- **Definition**: Morphemes that cannot stand alone and must be attached to other morphemes.
-- **Types**:
-  - **Prefixes**: Attached before a root (e.g., "un-" in "unhappy").
-  - **Suffixes**: Attached after a root (e.g., "-s" in "cats").
-  - **Infixes**: Inserted within a root (common in some languages).
-  - **Circumfixes**: Attached around a root.
+- Morphemes that cannot stand alone and must be attached to other morphemes.
+- Learn about types of affixes [here](Affix.md)
 
-## Examples
+## Example
 
 - **"Books"**:
   - "Book" (free morpheme)
@@ -28,7 +24,6 @@ Morphemes are categorized based on their ability to stand alone.
 ## Related Topics
 
 - [Morpheme](Morpheme.md)
-- [Affix](Affix.md)
 - [Word Formation](Word-Formation.md)
 
 ## External Links

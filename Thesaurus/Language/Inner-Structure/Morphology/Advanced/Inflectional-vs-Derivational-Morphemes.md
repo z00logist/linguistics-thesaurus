@@ -4,7 +4,6 @@ Understanding the difference between inflectional and derivational morphemes is 
 
 ## Inflectional Morphemes
 
-- **Function**: Modify a word's tense, number, aspect, mood, or gender without changing its core meaning or word class.
 - **Characteristics**:
   - Do not create new words.
   - Serve a grammatical purpose.
@@ -14,7 +13,6 @@ Understanding the difference between inflectional and derivational morphemes is 
 
 ## Derivational Morphemes
 
-- **Function**: Change the meaning or part of speech of a word, creating a new word.
 - **Characteristics**:
   - Can change the grammatical category.
   - Affect the lexical meaning.

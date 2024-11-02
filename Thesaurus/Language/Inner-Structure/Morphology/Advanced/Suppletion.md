@@ -2,10 +2,6 @@
 
 Suppletion is a morphological phenomenon where an irregular morphological change occurs, and a morpheme is replaced entirely by a different morpheme.
 
-## Characteristics
-
-- **Non-Predictable Forms**: Cannot be derived from the root.
-- **Irregularity**: Breaks normal morphological patterns.
 
 ## Examples
 
@@ -15,10 +11,6 @@ Suppletion is a morphological phenomenon where an irregular morphological change
 - **Spanish**:
   - "Ir" (to go) → "Fui" (I went)
 
-## Significance
-
-- Challenges theories of morphology that rely on regular patterns.
-- Important for understanding language evolution and historical linguistics.
 
 ## Related Topics
 

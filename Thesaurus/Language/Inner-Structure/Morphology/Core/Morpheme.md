@@ -7,8 +7,8 @@ The smallest grammatical unit in a language that carries meaning. Morphemes can 
 
 ## Types of Morphemes
 
-- **Free Morphemes**: Can stand alone as words (e.g., "book").
-- **Bound Morphemes**: Cannot stand alone and must be attached to other morphemes (e.g., "-s" in "books").
+- **Free Morphemes** -- can stand alone as words (e.g., "book").
+- **Bound Morphemes** -- cannot stand alone and must be attached to other morphemes (e.g., "-s" in "books").
 
 ## Examples
 

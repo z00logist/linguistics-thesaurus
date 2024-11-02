@@ -7,6 +7,7 @@ The **Core** section covers the foundational aspects of morphology, including ba
 - [Morpheme](Morpheme.md)
 - [Affix](Affix.md)
 - [Free and Bound Morphemes](Free-and-Bound-Morphemes.md)
+- [Word Formation](Word-Formation.md)
 
 ---
 

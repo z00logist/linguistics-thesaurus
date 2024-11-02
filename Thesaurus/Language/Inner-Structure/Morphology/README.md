@@ -9,6 +9,7 @@ Morphology is the branch of linguistics that studies the structure and formation
 - [Morpheme](Core/Morpheme.md)
 - [Affix](Core/Affix.md)
 - [Free and Bound Morphemes](Core/Free-and-Bound-Morphemes.md)
+- [Word Formation](Core/Word-Formation.md)
 
 ### 2. [Advanced](Advanced/README.md)
 - [Allomorph](Advanced/Allomorph.md)
@@ -18,7 +19,6 @@ Morphology is the branch of linguistics that studies the structure and formation
 - [Morphological Typology](Advanced/Morphological-Typology.md)
 - [Suppletion](Advanced/Suppletion.md)
 - [Vowel Harmony](Advanced/Vowel-Harmony.md)
-- [Word Formation](Advanced/Word-Formation.md)
 
 ---
 

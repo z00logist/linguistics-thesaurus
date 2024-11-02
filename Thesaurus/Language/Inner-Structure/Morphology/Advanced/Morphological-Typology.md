@@ -4,23 +4,17 @@ Morphological typology is the classification of languages based on their morphol
 
 ## Types of Morphological Languages
 
-- **Isolating Languages**: Few or no affixes; words are typically single morphemes.
-  - Example: Mandarin Chinese
-- **Agglutinative Languages**: Words formed by stringing together morphemes, each representing a single grammatical meaning.
+- **[Isolating Languages](../../../../Language/Types/Core/Isolating.md)**
+- **[Agglutinative Languages](../../../../Language/Types/Core/Agglutinative.md)**
   - Example: Turkish
-- **Fusional (Inflectional) Languages**: Morphemes may convey multiple grammatical meanings simultaneously.
+- **[Fusional Languages](../../../../Language/Types/Core/Fusional.md)**
   - Example: Russian
-- **Polysynthetic Languages**: High morpheme-to-word ratio; words can contain many morphemes, often combining nouns and verbs.
+- **[Polysynthetic Languages](../../../../Language/Types/Core/Polysynthetic.md)**
   - Example: Inuktitut
-
-## Importance
-
-- Helps linguists understand and compare the structural diversity of languages.
-- Reveals patterns and commonalities across different language families.
 
 ## Related Concepts
 
-- **Greenberg's Square**: A model to classify languages based on morphological characteristics.
+- **Greenberg's Square** is a model to classify languages based on morphological characteristics.
 
 ## Related Topics
 

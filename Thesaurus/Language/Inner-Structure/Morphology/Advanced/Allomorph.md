@@ -2,11 +2,6 @@
 
 Allomorphs are variations of a morpheme that differ in pronunciation but not in meaning.
 
-## Characteristics
-
-- **Phonological Variation**: Different sounds or pronunciations.
-- **Conditioned by Environment**: The form depends on phonetic context.
-
 ## Examples in English
 
 - **Plural Morpheme "-s"**:

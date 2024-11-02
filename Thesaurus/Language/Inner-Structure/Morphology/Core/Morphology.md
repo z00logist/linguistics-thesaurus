@@ -5,12 +5,6 @@ Morphology is the branch of linguistics concerned with the form and internal str
 > **Katamba (1993):**
 > "Morphology deals with the rules governing word formation."
 
-## Key Concepts
-
-- **Morpheme**: The smallest grammatical unit that carries meaning.
-- **Word Formation**: Processes like derivation and compounding that create new words.
-- **Inflection vs. Derivation**: Inflection modifies a word's tense, number, aspect, etc., without changing its core meaning or class, while derivation changes the meaning or part of speech.
-
 ## Related Topics
 
 - [Morpheme](Morpheme.md)

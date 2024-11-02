@@ -2,11 +2,6 @@
 
 Vowel harmony is a phonological process where vowels within a word agree in certain features, such as frontness or roundness.
 
-## Characteristics
-
-- **Feature Agreement**: Vowels share specific features.
-- **Morphological Impact**: Influences the form of affixes.
-
 ## Examples
 
 - **Turkish**:
@@ -15,11 +10,6 @@ Vowel harmony is a phonological process where vowels within a word agree in cert
     - "Ev" (house) → "Evler" (houses)
 - **Finnish**:
   - Suffixes adjust to match front or back vowels in the root.
-
-## Importance
-
-- Affects morphological rules and word formation.
-- Demonstrates interaction between phonology and morphology.
 
 ## Related Topics
 

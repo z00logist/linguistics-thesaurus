@@ -10,7 +10,6 @@ The **Advanced** section delves into more complex and specialized topics in morp
 - [Morphological Typology](Morphological-Typology.md)
 - [Suppletion](Suppletion.md)
 - [Vowel Harmony](Vowel-Harmony.md)
-- [Word Formation](Word-Formation.md)
 
 ---
 

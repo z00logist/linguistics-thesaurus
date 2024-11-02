@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [Introduction to Language](Language/Language.md)
+- [Introduction to Language](Language/README.md)
 - [Types of Languages](Language/Types/README.md)
   - [Core](Language/Types/Core/README.md)
   - [Other](Language/Types/Other/README.md)

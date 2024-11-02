@@ -4,27 +4,16 @@ Distributed Morphology is a theoretical framework that integrates morphology int
 
 ## Key Concepts
 
-- **Late Insertion**: Morphological forms are inserted after syntactic structure is built.
-- **Morphosyntactic Features**: Features that drive both syntax and morphology.
-- **Vocabulary Items**: Abstract morphemes realized by specific phonological forms.
+- Morphological forms are inserted after syntactic structure is built.
+- Features that drive both syntax and morphology.
+- Abstract morphemes realized by specific phonological forms.
 
 ## Operations
 
-- **Fusion**: Combining adjacent morphemes into a single node.
-- **Fission**: Splitting a single morpheme into multiple nodes.
-- **Impoverishment**: Deleting features to resolve conflicts.
+- **Fusion** -- combining adjacent morphemes into a single node.
+- **Fission** -- splitting a single morpheme into multiple nodes.
+- **Impoverishment** -- deleting features to resolve conflicts.
 
-## Importance
-
-- **Syntax-Morphology Interface**: Unifies syntax and morphology in one system.
-- **Allomorphy**: Explains variation in morpheme realization.
-- **Cross-Linguistic Applicability**: Applies to diverse morphological systems.
-
-## Applications
-
-- **Morphological Analysis**: Understanding complex word formation.
-- **Theoretical Linguistics**: Challenging traditional morphology models.
-- **Language Comparison**: Analyzing morphological phenomena across languages.
 
 ## Related Topics
 
