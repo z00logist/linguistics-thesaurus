@@ -1,40 +1,34 @@
 # Language Acquisition
 
-Language acquisition studies how humans acquire the capacity to perceive, produce, and use language to communicate. It encompasses first language acquisition in children and second language acquisition in adults.
+Language acquisition is the study of how humans develop the ability to perceive, produce, and use language for communication. This field covers first language acquisition in children and second language acquisition in adults.
 
 ## First Language Acquisition
 
-### Stages
+### Stages of Development
 
-1. **Babbling Stage**: Infants produce sounds (6-8 months).
-2. **One-Word Stage**: Single words represent whole ideas (9-18 months).
-3. **Two-Word Stage**: Simple combinations of words (18-24 months).
-4. **Telegraphic Speech**: Short, simple sentences (24-30 months).
-5. **Complex Sentences**: Use of grammar and complex structures (30+ months).
+Children go through several stages as they acquire their first language:
 
-### Theories
+1. **Babbling Stage**: Infants begin producing a variety of sounds, usually between 6 to 8 months.
+2. **One-Word Stage**: Single words are used to express complete ideas, around 9 to 18 months.
+3. **Two-Word Stage**: Simple word combinations start forming between 18 to 24 months.
+4. **Telegraphic Speech**: Short, straightforward sentences appear from 24 to 30 months.
+5. **Complex Sentences**: By 30 months and beyond, grammar and more intricate sentence structures develop.
 
-- **Behaviorist Theory**: Language learned through imitation and reinforcement (Skinner).
-- **Nativist Theory**: Innate language faculty (Chomsky's Universal Grammar).
-- **Social Interactionist Theory**: Language develops through social interaction (Vygotsky).
 
-## Second Language Acquisition
+![Language Acquisition Stages](../../../../assets/Language-Development.png)
 
-### Factors Influencing SLA
-
-- **Age**: Critical Period Hypothesis suggests earlier learning leads to better proficiency.
-- **Motivation**: Integrative and instrumental motivation impact learning.
-- **Input and Interaction**: Exposure to language and opportunities to use it.
 
 ### Theories
 
-- **Input Hypothesis**: Comprehensible input is necessary (Krashen).
-- **Output Hypothesis**: Producing language aids acquisition (Swain).
-- **Sociocultural Theory**: Emphasizes social context and interaction.
+Several theories explain how language is acquired:
+
+- **Behaviorist Theory** sees language learning as a process of imitation and reinforcement, as proposed by Skinner.
+- **Nativist Theory** suggests that humans have an inborn language faculty, a concept developed by Chomsky through the idea of Universal Grammar.
+- **Social Interactionist Theory** highlights the importance of social interaction in language development, as argued by Vygotsky.
+
 
 ## Related Topics
 
-- [Cognitive Development](../../Cognitive-Psychology/Cognitive-Development.md)
 - [Bilingualism](Bilingualism.md)
 - [Language Disorders](Language-Disorders.md)
 
@@ -45,6 +39,8 @@ Language acquisition studies how humans acquire the capacity to perceive, produc
 
 ## Sources
 
+- Chomsky, N. (1965). *Aspects of the Theory of Syntax*. MIT Press.  
+- Vygotsky, L. S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press.  
 - Lightbown, P. M., & Spada, N. (2013). *How Languages are Learned*. Oxford University Press.
 - Pinker, S. (1994). *The Language Instinct*. William Morrow and Company.
 

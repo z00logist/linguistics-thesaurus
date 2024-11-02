@@ -1,32 +1,35 @@
 # Bilingualism
 
-Bilingualism refers to the ability to use two or more languages proficiently. Psycholinguistic research investigates how bilingual individuals process, acquire, and manage multiple languages.
+Bilingualism is the ability to use two or more languages fluently. Psycholinguistic research explores how bilingual individuals learn, process, and manage their multiple languages.
 
 ## Types of Bilingualism
 
-- **Simultaneous Bilingualism**: Learning two languages from birth.
-- **Sequential Bilingualism**: Learning a second language after the first is established.
-- **Balanced vs. Dominant Bilingualism**: Equal proficiency vs. stronger in one language.
+Bilingualism can be categorized in different ways:
+
+- **Simultaneous Bilingualism** involves learning two languages from birth.
+- **Sequential Bilingualism** happens when a second language is learned after the first one is already established.
+- **Balanced Bilingualism** refers to having roughly equal proficiency in both languages, while **Dominant Bilingualism** means being stronger in one language than the other.
 
 ## Cognitive Effects
 
-- **Executive Control**: Enhanced ability to switch tasks and inhibit distractions.
-- **Metalinguistic Awareness**: Better understanding of language as a system.
-- **Cognitive Reserve**: Potential delay in the onset of dementia symptoms.
+Being bilingual has various cognitive benefits:
+
+- **Executive Control** is improved, making it easier to switch between tasks and ignore distractions.
+- **Metalinguistic Awareness** is heightened, allowing bilinguals to better understand language as a system.
+- **Cognitive Reserve** may be increased, potentially delaying the onset of dementia symptoms.
 
 ## Language Processing
 
-- **Code-Switching**: Alternating between languages within a conversation.
-- **Language Selection**: Managing interference between languages.
-- **Lexical Access**: Shared or separate lexicons for different languages.
+Bilinguals face unique challenges and strategies in language processing:
 
-
-
+- **Code-Switching** involves switching between languages during a conversation.
+- **Language Selection** helps manage interference between languages.
+- **Lexical Access** can vary, with bilinguals having either shared or separate word stores for their languages.
 
 ## Related Topics
 
 - [Language Acquisition](Language-Acquisition.md)
-- [Neurolinguistics](Advanced/Neurolinguistics.md)
+- [Neurolinguistics](../Core/Neurolinguistics.md)
 
 ## External Links
 

@@ -1,33 +1,35 @@
 # Language Disorders
 
-Language disorders, or language impairments, are conditions that affect an individual's ability to acquire, produce, or comprehend language. Psycholinguistics studies these disorders to understand language processing and develop interventions.
+Language disorders, also known as language impairments, affect an individual's ability to acquire, produce, or comprehend language. Studying these disorders helps psycholinguists understand language processing and develop effective interventions.
+
+Language and Speech disorders are communication disorders:
+![Communication Disorders](../../../../assets/language-disorders.png)
 
 ## Types of Language Disorders
 
 ### Aphasia
 
-- **Definition**: Loss or impairment of language abilities due to brain damage.
-- **Types**:
-  - **Broca's Aphasia**: Difficulty in speech production; comprehension relatively intact.
-  - **Wernicke's Aphasia**: Fluent speech with nonsensical content; impaired comprehension.
-  - **Global Aphasia**: Severe impairment in both production and comprehension.
+Aphasia is a condition where language abilities are lost or impaired due to brain damage. Different types of aphasia include:
+
+- **Broca's Aphasia** involves difficulty with speech production while comprehension often remains intact.
+- **Wernicke's Aphasia** results in fluent but nonsensical speech and impaired comprehension.
+- **Global Aphasia** is a severe form affecting both language production and comprehension.
 
 ### Specific Language Impairment (SLI)
 
-- **Definition**: Delayed or disordered language development without an obvious cause.
-- **Characteristics**: Difficulties with grammar, vocabulary, and discourse.
+SLI refers to delayed or disordered language development without an apparent cause. People with SLI often struggle with grammar, vocabulary, and coherent discourse.
 
 ### Dyslexia
 
-- **Definition**: Learning disorder affecting reading and spelling.
-- **Symptoms**: Difficulty with phonological processing, decoding words.
+Dyslexia is a learning disorder that primarily affects reading and spelling. It is often associated with difficulties in phonological processing and word decoding.
 
 ### Autism Spectrum Disorder (ASD)
 
-- **Language Issues**: Challenges with pragmatics, non-literal language, and social communication.
-
+Individuals with ASD may experience language issues, including challenges with pragmatics, understanding non-literal language, and social communication.
 
 ## Related Topics
+
+Explore these topics for more insights:
 
 - [Neurolinguistics](Advanced/Neurolinguistics.md)
 - [Speech Production](Speech-Production.md)
@@ -40,8 +42,8 @@ Language disorders, or language impairments, are conditions that affect an indiv
 
 ## Sources
 
-- Bishop, D. V. M. (1997). *Uncommon Understanding: Development and Disorders of Language Comprehension in Children*. Psychology Press.
-- Goodglass, H., & Wingfield, A. (1997). *Anomia: Neuroanatomical and Cognitive Correlates*. Academic Press.
+Bishop, D. V. M. (1997). *Uncommon Understanding: Development and Disorders of Language Comprehension in Children*. Psychology Press.  
+Goodglass, H., & Wingfield, A. (1997). *Anomia: Neuroanatomical and Cognitive Correlates*. Academic Press.
 
 ---
 

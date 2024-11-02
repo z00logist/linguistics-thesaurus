@@ -26,18 +26,11 @@ The results were striking. The use of /r/ varied by store, reflecting social sta
 
 Labov also observed style shifting: when asked to repeat the phrase, many employees heightened their rhoticity, showing they were aware of the social value attached to pronouncing the /r/.
 
-## Significance
-
 Labov's study demonstrated that language use reflects social hierarchy. It was one of the first to provide solid evidence of social stratification in linguistic behavior. The study also introduced the concept of linguistic insecurity, where individuals adjust their speech to meet perceived social expectations. Labov’s method of rapid, anonymous surveys became a standard in sociolinguistic research.
-
-## Impact
-
-Labov’s work laid the foundation for variationist sociolinguistics, shaping how researchers study language variation in relation to social class, gender, and ethnicity. It has inspired countless studies exploring the interplay between language and social identity.
 
 ## Sources
 
 Labov, W. (1966). *The Social Stratification of English in New York City*. Center for Applied Linguistics.  
-Labov, W. (2006). *The Social Stratification of English in New York City* (2nd ed.). Cambridge University Press.
 
 ## External Links
 

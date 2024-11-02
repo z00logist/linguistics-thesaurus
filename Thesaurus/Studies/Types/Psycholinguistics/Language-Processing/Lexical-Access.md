@@ -1,27 +1,23 @@
 # Lexical Access
 
-Lexical access refers to the process of retrieving a word's meaning, pronunciation, and syntactic properties from the mental lexicon during language comprehension and production.
+Lexical access is the process of retrieving the meaning, pronunciation, and grammatical properties of words from the mental lexicon during language comprehension and production.
 
 ## Mental Lexicon
 
-- **Definition**: The mental dictionary containing knowledge about words.
-- **Structure**: Organized based on semantics, phonology, morphology, and syntax.
-- **Activation**: Words are activated based on context and frequency.
+The mental lexicon can be thought of as an internal dictionary. It holds information about words, including their meanings, sounds, and how they are used in sentences. This lexicon is structured based on various aspects such as semantics, phonology, morphology, and syntax. Words are activated from the lexicon based on the context they appear in and how often they are used.
 
 ## Models of Lexical Access
 
-- **Logogen Model**: Each word has a threshold for activation.
-- **Search Models**: Lexicon is searched serially or in parallel.
-- **Interactive Activation Model**: Words compete and inhibit each other.
+Several models explain how we access words from our mental lexicon:
 
-## Factors Influencing Lexical Access
-
-- **Word Frequency**: High-frequency words are accessed faster.
-- **Context Effects**: Semantic context can facilitate access.
-- **Phonological Similarity**: Words that sound alike can interfere.
+- The **Logogen Model** suggests that each word has a certain activation threshold and becomes accessible when that threshold is met.
+- **Search Models** propose that the lexicon is searched either serially (one item at a time) or in parallel (multiple items at once).
+- The **Interactive Activation Model** describes how words can compete with or inhibit each other during retrieval.
 
 
 ## Related Topics
+
+For further exploration, check out:
 
 - [Speech Perception](Speech-Perception.md)
 - [Speech Production](Speech-Production.md)
@@ -34,8 +30,8 @@ Lexical access refers to the process of retrieving a word's meaning, pronunciati
 
 ## Sources
 
-- Meyer, D. E., & Schvaneveldt, R. W. (1971). "Facilitation in Recognizing Pairs of Words." *Journal of Experimental Psychology*, 90(2), 227–234.
-- Forster, K. I. (1976). "Accessing the Mental Lexicon." In *New Approaches to Language Mechanisms*, 257–287.
+Meyer, D. E., & Schvaneveldt, R. W. (1971). "Facilitation in Recognizing Pairs of Words." *Journal of Experimental Psychology*, 90(2), 227–234.  
+Forster, K. I. (1976). "Accessing the Mental Lexicon." In *New Approaches to Language Mechanisms*, 257–287.
 
 ---
 

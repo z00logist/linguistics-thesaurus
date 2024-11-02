@@ -1,28 +1,19 @@
 # Speech Perception
 
-Speech perception is the process by which the brain processes spoken language, transforming acoustic signals into meaningful units.
+Speech perception refers to how the brain processes spoken language, turning acoustic signals into meaningful language units.
 
 ## Key Processes
 
-- **Acoustic Analysis**: Detecting sounds and frequencies.
-- **Phonetic Processing**: Identifying phonemes (smallest units of sound).
-- **Phonological Processing**: Understanding sound patterns and rules.
-- **Lexical Access**: Matching sounds to known words.
-
+Speech perception includes several important steps. Acoustic analysis involves detecting different sounds and frequencies in speech. Phonetic processing focuses on identifying phonemes, which are the smallest units of sound. Phonological processing deals with understanding sound patterns and rules. Lexical access connects sounds to known words stored in the mental lexicon.
 
 ## Theories
 
-- **Motor Theory**: Perception linked to the motor processes of speech production.
-- **Auditory Theories**: Perception based on auditory signal processing.
-- **Cohort Model**: Word recognition starts with the initial sounds and narrows down.
-- **Trace Model**: Interactive activation network that processes speech at multiple levels.
+Different theories attempt to explain how we perceive speech:
 
-
-## Related Topics
-
-- [Phonetics](../../Language/Inner-Structure/Phonetics/Phonetics.md)
-- [Lexical Access](Lexical-Access.md)
-- [Speech Production](Speech-Production.md)
+- **Motor Theory** links perception to the motor processes involved in producing speech.
+- **Auditory Theories** focus on how the auditory system processes sound signals to create meaning.
+- **Cohort Model** suggests that word recognition begins with the initial sounds of a word and narrows down as more information becomes available.
+- **Trace Model** describes an interactive system where speech is processed at different levels simultaneously (e.g., phonemes, words).
 
 ## External Links
 
