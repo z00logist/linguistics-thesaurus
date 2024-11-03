@@ -6,9 +6,7 @@ The BLEU (Bilingual Evaluation Understudy) score is a metric for evaluating the 
 
 The BLEU score is calculated using the formula:
 
-\[
-\text{BLEU} = \text{BP} \cdot \exp\left(\sum_{n=1}^N w_n \log p_n\right)
-\]
+BLEU = BP * exp(Σ (w_n * log(p_n)) for n=1 to N)
 
 Where:
 - **BP** is the brevity penalty.
