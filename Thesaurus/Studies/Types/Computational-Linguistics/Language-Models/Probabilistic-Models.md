@@ -4,14 +4,12 @@ Probabilistic models are used in computational linguistics to apply probability 
 
 ## Types of Probabilistic Models
 
-There are different types of probabilistic models used in NLP:
 - Hidden Markov Models (HMMs) are applied to sequence labeling tasks, such as part-of-speech tagging.
 - Bayesian Networks represent the probabilistic relationships between different variables.
 - Conditional Random Fields (CRFs) are used for structured prediction and improve over HMMs by taking future states into account.
 
 ## Important Concepts
 
-Several key concepts are central to probabilistic modeling:
 - Maximum Likelihood Estimation (MLE) helps estimate parameters that maximize the likelihood of observed data.
 - Bayesian Inference updates beliefs or probabilities when new evidence is introduced.
 

@@ -14,7 +14,7 @@ Labov’s approach was innovative. He conducted a rapid, anonymous survey in thr
 - **Macy's** for the middle class
 - **S. Klein** for the lower class
 
-Labov's key question to sales assistants was one that naturally prompted the phrase "fourth floor," giving him two instances to observe the use of the post-vocalic /r/.
+Labov's question to sales assistants was one that naturally prompted the phrase "fourth floor," giving him two instances to observe the use of the post-vocalic /r/.
 
 ## Findings
 

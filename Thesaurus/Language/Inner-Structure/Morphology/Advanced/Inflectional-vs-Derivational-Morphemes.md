@@ -1,7 +1,5 @@
 # Inflectional vs. Derivational Morphemes
 
-Understanding the difference between inflectional and derivational morphemes is key in morphology.
-
 ## Inflectional Morphemes
 
 - **Characteristics**:

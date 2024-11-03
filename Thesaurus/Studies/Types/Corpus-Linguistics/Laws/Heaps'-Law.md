@@ -19,7 +19,7 @@ Where:
 - **K** is a constant affected by language and corpus type,
 - **β** typically ranges from 0.4 to 0.6.
 
-## Key Insights
+## Insights
 
 - New words continue to emerge as text grows, but not as quickly as at the start.
 - This suggests that language has the potential to keep generating words.

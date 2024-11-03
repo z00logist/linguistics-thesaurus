@@ -2,7 +2,7 @@
 
 Deep Case Theory, proposed by Charles J. Fillmore in 1968, is a model in syntax that emphasizes the underlying semantic roles (cases) that nouns play in sentences.
 
-The theory is built around several key ideas:
+This theory is built around such ideas:
 
 - Case grammar emphasizes the relationship between verbs and nouns, focusing on their semantic roles.
 - Deep cases refer to abstract roles such as Agent, Patient, Instrument, Beneficiary, and others that explain how nouns function semantically within a sentence.

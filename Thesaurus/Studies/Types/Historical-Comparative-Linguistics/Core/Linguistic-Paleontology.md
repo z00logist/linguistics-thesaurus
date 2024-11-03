@@ -8,8 +8,6 @@ This field involves several main focuses. Cultural reconstruction uses linguisti
 
 ## Methodology
 
-Linguists follow a few key steps in linguistic paleontology:
-
 1. Reconstruct vocabulary that relates to cultural or environmental concepts.
 2. Analyze semantic fields, which are groups of related words, to understand broader topics.
 3. Use this information to make educated guesses about the culture and environment of proto-language speakers.

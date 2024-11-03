@@ -2,7 +2,7 @@
 
 The Bag of Words model is a simple representation used in natural language processing. It represents text as an unordered collection of words, ignoring grammar and word order but keeping track of word frequency.
 
-## Key Characteristics
+## Objective
 
 In the Bag of Words model, each document is represented as a vector that counts word occurrences. The dimensionality of this vector matches the size of the vocabulary. This approach is easy to implement and is widely used for text classification tasks. However, it has limitations, such as ignoring word order and context, leading to a lack of semantics. It can also result in high-dimensional vectors that are often sparse, with most entries being zero.
 

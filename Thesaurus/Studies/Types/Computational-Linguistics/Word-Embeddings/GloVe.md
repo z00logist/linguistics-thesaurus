@@ -5,7 +5,7 @@ GloVe, or Global Vectors for Word Representation, is an unsupervised algorithm d
 Co-occurence matrix in GloVe:  
 ![glove](../../../../assets/glove.png)
 
-## Key Features
+## Objective
 
 GloVe combines the strengths of count-based and predictive methods, making it a powerful tool for generating word vectors. It builds a word co-occurrence matrix where each entry shows how often one word appears near another. The algorithm aims to minimize the difference between the dot product of word vectors and the logarithm of the probability of their co-occurrence.
 

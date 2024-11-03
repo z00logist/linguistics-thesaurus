@@ -2,9 +2,9 @@
 
 Neurolinguistics explores how language is represented and processed in the brain. This interdisciplinary field combines knowledge from linguistics, neuroscience, and psychology to uncover the neural mechanisms that support language functions.
 
-## Key Areas
+## Objective
 
-Neurolinguistics focuses on several main areas. It studies brain regions involved in language, such as Broca's area, which is linked to speech production, and Wernicke's area, which is important for understanding language. Research into language disorders, like aphasia, provides insights into how different brain regions contribute to language and how communication is affected by impairments. Various neuroimaging techniques are used, including fMRI to track brain activity through blood flow, EEG/ERP to measure electrical activity and timing of language processes, and MEG to detect magnetic fields produced by neural activity.
+Neurolinguistics studies brain regions involved in language, such as Broca's area, which is linked to speech production, and Wernicke's area, which is important for understanding language. Research into language disorders, like aphasia, provides insights into how different brain regions contribute to language and how communication is affected by impairments. Various neuroimaging techniques are used, including fMRI to track brain activity through blood flow, EEG/ERP to measure electrical activity and timing of language processes, and MEG to detect magnetic fields produced by neural activity.
 
 ## Topics
 

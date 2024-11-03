@@ -4,11 +4,11 @@ Cognitive Grammar is a theory developed by Ronald W. Langacker that treats gramm
 
 ## Essentials
 
-Cognitive Grammar is based on several core ideas. It views grammar as consisting of symbolic units, which are form-meaning pairings. The theory is usage-based, suggesting that language knowledge develops from language use. It emphasizes the importance of schemas (general patterns) and instances (specific examples), and it posits a continuum between the lexicon and grammar, rejecting a strict separation between the two.
+Cognitive Grammar views grammar as consisting of symbolic units, which are form-meaning pairings. The theory is usage-based, suggesting that language knowledge develops from language use. It emphasizes the importance of schemas (general patterns) and instances (specific examples), and it posits a continuum between the lexicon and grammar, rejecting a strict separation between the two.
 
 ## Principles
 
-Key principles in Cognitive Grammar include construal, which refers to how speakers perceive and present situations. The figure and ground principle distinguishes between the main focus (figure) and the background (ground) elements in a scene. Domains provide the conceptual contexts that give meaning to expressions, such as space or time. Profiling involves emphasizing specific aspects of a conceptual domain within an expression.
+Principles in Cognitive Grammar include construal, which refers to how speakers perceive and present situations. The figure and ground principle distinguishes between the main focus (figure) and the background (ground) elements in a scene. Domains provide the conceptual contexts that give meaning to expressions, such as space or time. Profiling involves emphasizing specific aspects of a conceptual domain within an expression.
 
 
 ## Related Topics

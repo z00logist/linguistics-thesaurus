@@ -2,18 +2,14 @@
 
 Conceptual Integration, or Blending Theory, is a cognitive process where elements from different scenarios merge into a single mental space, creating new meanings and insights.
 
-## Key Components
-
-Understanding blending involves several main ideas:
+## Components
 
 - **Mental Spaces** are the partial representations of situations we construct as we think and communicate.
 - **Input Spaces** bring elements from different mental spaces to contribute to the blend.
 - **Generic Space** includes common structures shared by the input spaces.
 - **Blended Space** is where the actual integration and creation of new meaning happen.
 
-## How It Works
-
-The blending process unfolds in stages:
+## How Does it Work?
 
 - **Composition** mixes elements from the input spaces.
 - **Completion** fills in missing parts using background knowledge.

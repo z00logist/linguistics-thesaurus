@@ -21,9 +21,7 @@ The foundation of glottochronology is lexicostatistics, which quantitatively com
 - **c** is the proportion of shared cognates.
 - **r** is the retention rate, the assumed constant rate of vocabulary replacement.
 
-## Assumptions
-
-Glottochronology is based on key assumptions:
+## Glottochronology is based on these assumptions:
 
 - A constant replacement rate, suggesting vocabulary changes at a steady rate over time.
 - Basic vocabulary is universal and can be compared across languages.

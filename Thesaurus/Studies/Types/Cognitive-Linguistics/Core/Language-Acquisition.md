@@ -2,9 +2,9 @@
 
 Cognitive linguistics offers insights into how language is acquired, highlighting the role of general cognitive processes and the use of language in learning.
 
-## Essentials
+## Objective
 
-This area of study emphasizes several key points. Language acquisition is seen as a usage-based process where children learn through exposure and repeated use. Pattern recognition is crucial, as children pick up on regularities in the language input they receive. Grammar is not viewed as innate but as something that emerges from language use over time.
+Language acquisition is seen as a usage-based process where children learn through exposure and repeated use. Pattern recognition is crucial, as children pick up on regularities in the language input they receive. Grammar is not viewed as innate but as something that emerges from language use over time.
 
 ## Theories
 

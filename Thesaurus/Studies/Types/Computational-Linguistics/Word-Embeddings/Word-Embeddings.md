@@ -2,7 +2,7 @@
 
 Word embeddings are techniques that map words or phrases from a vocabulary to numerical vector representations. These vectors are designed to capture the semantic relationships between words.
 
-## Key Concepts
+## Objective
 
 - Distributed representation means words are embedded in a continuous vector space.
 - Semantic similarity ensures that similar words have vectors that are close to each other.

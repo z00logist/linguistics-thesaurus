@@ -4,8 +4,6 @@ The Comparative Method is a systematic approach in historical linguistics used t
 
 ## Steps in the Comparative Method
 
-Linguists follow a structured process when using the Comparative Method:
-
 1. Assemble cognate lists by collecting words that have similar forms and meanings across related languages.
 2. Identify sound correspondences by observing regular patterns of phonetic changes.
 3. Reconstruct proto-forms to infer the ancestral versions of words.
@@ -13,8 +11,6 @@ Linguists follow a structured process when using the Comparative Method:
 5. Check for regularity to ensure that the proposed sound changes apply consistently across the data.
 
 ## Principles
-
-The Comparative Method relies on key principles:
 
 - The regularity of sound change suggests that changes in pronunciation are systematic and can be predicted.
 - Directionality indicates that certain types of phonetic changes are more common or likely than others.

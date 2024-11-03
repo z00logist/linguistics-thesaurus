@@ -4,15 +4,11 @@ Mental Spaces Theory, developed by Gilles Fauconnier, provides insight into how 
 
 ## Essentials
 
-Mental Spaces Theory is based on a few key ideas:
-
 - **Mental Spaces** are temporary, small conceptual packets that we construct in real-time as we think and engage in conversations.
 - **Mapping** refers to the connections we draw between elements in different mental spaces to create meaning.
 - **Blending** occurs when we combine elements from multiple mental spaces, resulting in new and enriched meanings.
 
 ## Examples
-
-Mental spaces are used in many everyday situations:
 
 - When imagining a different perspective, as in "If I were you, I would go."
 - In role-playing scenarios, such as "In the game, I'm the knight."

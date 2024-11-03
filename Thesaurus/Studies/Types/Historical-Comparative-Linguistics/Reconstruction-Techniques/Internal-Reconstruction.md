@@ -2,7 +2,7 @@
 
 Internal Reconstruction is a linguistic method used to hypothesize about a language’s earlier forms by analyzing evidence from the language itself, without relying on comparisons with related languages.
 
-## Key Concepts
+## Objective
 
 The method looks at irregularities, such as anomalies in word forms, to infer historical stages. Morphophonemic alternations, where words show variations in form, can indicate past changes. Analogy is another focus, highlighting how irregular forms become regular over time.
 

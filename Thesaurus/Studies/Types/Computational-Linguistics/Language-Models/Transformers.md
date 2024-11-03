@@ -2,7 +2,7 @@
 
 Transformers are a type of neural network architecture that use self-attention mechanisms and do not rely on recurrence or convolution. First introduced by Vaswani et al. in 2017, they have become a cornerstone in the field of NLP.
 
-## Key Components of Transformers
+## Components of Transformers
 
 Transformers include several important features:
 - Self-attention allows the model to assign importance to different words within a sequence.

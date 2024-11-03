@@ -2,13 +2,11 @@
 
 Speech perception refers to how the brain processes spoken language, turning acoustic signals into meaningful language units.
 
-## Key Processes
+## Objective
 
-Speech perception includes several important steps. Acoustic analysis involves detecting different sounds and frequencies in speech. Phonetic processing focuses on identifying phonemes, which are the smallest units of sound. Phonological processing deals with understanding sound patterns and rules. Lexical access connects sounds to known words stored in the mental lexicon.
+Acoustic analysis involves detecting different sounds and frequencies in speech. Phonetic processing focuses on identifying phonemes, which are the smallest units of sound. Phonological processing deals with understanding sound patterns and rules. Lexical access connects sounds to known words stored in the mental lexicon.
 
 ## Theories
-
-Different theories attempt to explain how we perceive speech:
 
 - **Motor Theory** links perception to the motor processes involved in producing speech.
 - **Auditory Theories** focus on how the auditory system processes sound signals to create meaning.

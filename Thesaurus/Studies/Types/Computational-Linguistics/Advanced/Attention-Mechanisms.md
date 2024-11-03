@@ -2,7 +2,7 @@
 
 Attention mechanisms help models focus on relevant parts of the input while producing each part of the output. This is especially valuable for tasks that rely heavily on context.
 
-## Key Concepts
+## Objective
 
 - Alignment measures how input and output elements relate to each other.
 - A context vector represents a weighted combination of input features, with weights determined by attention scores.

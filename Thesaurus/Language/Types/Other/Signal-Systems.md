@@ -16,7 +16,7 @@ Communication systems used by animals, which lack the complexity and generative 
 - **Bird Songs**:
   - Used for mating calls or territorial signals.
 
-## Key Differences from Human Language
+## Differences from Human Language
 
 - Human language can produce infinite messages; animal signals cannot.
 - Human language can refer to past and future events; animal signals are typically about the present.

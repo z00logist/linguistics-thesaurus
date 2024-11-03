@@ -2,7 +2,7 @@
 
 FastText is a library created by Facebook's AI Research (FAIR) lab for learning word representations and performing sentence classification efficiently. Unlike Word2Vec, FastText includes subword information in its modeling.
 
-## Key Features
+## Objective
 
 FastText models words using character n-grams, allowing it to capture word morphology. This approach enables it to generate embeddings for out-of-vocabulary (OOV) words by combining subword vectors. The library is known for its speed and scalability. FastText excels in handling rare and misspelled words, making it especially useful for morphologically rich languages. It also offers efficient text classification capabilities that are beneficial for various NLP tasks.
 

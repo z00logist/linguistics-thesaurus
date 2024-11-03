@@ -2,9 +2,7 @@
 
 Psycholinguistics looks at the psychological and neurobiological aspects that allow humans to learn, use, understand, and produce language. It aims to uncover how language is processed and represented in the mind and brain.
 
-## Key Areas
-
-Psycholinguistics covers various important areas, including:
+## Some Areas
 
 - **Language Acquisition**, focusing on how children and adults learn language.
 - **Speech Perception**, studying how we recognize and interpret spoken language.

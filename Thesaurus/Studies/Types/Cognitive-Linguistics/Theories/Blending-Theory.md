@@ -2,17 +2,17 @@
 
 Blending Theory, also known as Conceptual Integration Theory, is a cognitive approach that explains how elements from different mental spaces are combined to create new meanings.
 
-## Key Components
+## Components
 
-Blending Theory involves several main components. Input spaces are separate mental spaces that contribute elements to the blend. A generic space holds abstract structures that are common to the input spaces, providing a shared framework. The blended space is where the integration of elements happens, forming new ideas or meanings.
+Input spaces are separate mental spaces that contribute elements to the blend. A generic space holds abstract structures that are common to the input spaces, providing a shared framework. The blended space is where the integration of elements happens, forming new ideas or meanings.
 
 ## Processes
 
-The creation of blended spaces follows certain processes. Composition involves merging elements from the input spaces. Completion uses background knowledge to fill in additional details within the blend. Elaboration develops the blend further, allowing it to be enriched through imagination and creative thought.
+Composition involves merging elements from the input spaces. Completion uses background knowledge to fill in additional details within the blend. Elaboration develops the blend further, allowing it to be enriched through imagination and creative thought.
 
 ## Examples
 
-Blending Theory can be seen in many examples. The riddle of the Sphinx combines human and animal characteristics, creating a mythical figure. Advertisements often use blending by integrating product features with idealized lifestyles, forming persuasive messages.
+For instance, the riddle of the Sphinx combines human and animal characteristics, creating a mythical figure. Advertisements often use blending by integrating product features with idealized lifestyles, forming persuasive messages.
 
 ## Related Topics
 

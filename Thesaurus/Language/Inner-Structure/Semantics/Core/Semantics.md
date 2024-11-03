@@ -2,9 +2,7 @@
 
 Semantics is the branch of linguistics that studies meaning in language. It explores how words and sentences convey meaning, how that meaning is structured, and how it is interpreted by both speakers and listeners.
 
-## Key Areas
-
-Semantics covers several important areas:
+## Areas
 
 - **Lexical Semantics** focuses on the meanings of words and their relationships with one another.
 - **Compositional Semantics** examines how the meanings of individual words combine to create meanings in phrases and sentences.
