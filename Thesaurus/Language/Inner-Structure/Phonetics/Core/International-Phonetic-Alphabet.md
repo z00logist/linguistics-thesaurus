@@ -8,15 +8,12 @@ The IPA is designed to be universal, providing a consistent method for transcrib
 
 ## Components
 
-The IPA is made up of:
-
 - Symbols for consonants that reflect different places and manners of articulation.
 - Symbols for vowels that show variations in tongue position and lip rounding.
 - Diacritics that modify sounds to show features like nasalization, length, or tone.
 
 ## Usage
 
-The IPA has several practical applications:
 
 - In linguistics, it is used for phonetic transcription and the detailed study of speech sounds.
 - For language learners, it helps illustrate accurate pronunciation.

@@ -4,7 +4,6 @@ Phonological processes are systematic sound changes that occur within a language
 
 ## Types of Phonological Processes
 
-There are several common types of phonological processes: 
 - Assimilation happens when a sound becomes more similar to a neighboring sound, while dissimilation makes a sound less like the surrounding ones.   
 - Insertion, or epenthesis, refers to adding an extra sound, whereas deletion, or elision, involves omitting a sound.   
 - Metathesis is when sounds are reordered, and palatalization occurs when consonants shift closer to palatal sounds.

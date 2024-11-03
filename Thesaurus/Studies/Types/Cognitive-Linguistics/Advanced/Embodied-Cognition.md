@@ -4,16 +4,12 @@ Embodied cognition is the idea that cognitive processes are rooted in the body's
 
 ## Essentials
 
-Embodied cognition relies on several main ideas. Cognition is closely linked to sensory and motor systems. The state of the body can shape mental processes. Cognitive development happens through continuous interactions with the environment.
+Cognition is closely linked to sensory and motor systems. The state of the body can shape mental processes. Cognitive development happens through continuous interactions with the environment.
 
 ## Implications for Language
-
-This theory affects how language is understood. Abstract ideas often rely on physical experiences, such as using spatial terms to describe emotions or thoughts. Gestures play an important role in communication and support language processing. Understanding language can involve mentally simulating the described actions.
-
+Abstract ideas often rely on physical experiences, such as using spatial terms to describe emotions or thoughts. Gestures play an important role in communication and support language processing. Understanding language can involve mentally simulating the described actions.
 
 ## Examples
-
-Examples of embodied cognition in practice include:
 
 - The expression **"grasping an idea"**, where the physical action of grasping symbolizes understanding.
 - **Mood and Posture**: Emotional states can influence posture, and conversely, posture can affect how one feels.

@@ -4,7 +4,6 @@ Stemming is the process of reducing inflected or derived words to their base or 
 
 ## Common Algorithms
 
-Several algorithms are used for stemming:
 - The Porter Stemmer is one of the most widely used methods.
 - The Snowball Stemmer, which is an improvement over the Porter Stemmer, supports multiple languages.
 - The Lancaster Stemmer is an aggressive option that can sometimes over-stem words.

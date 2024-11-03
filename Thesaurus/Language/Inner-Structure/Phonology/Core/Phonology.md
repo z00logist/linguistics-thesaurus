@@ -9,8 +9,6 @@ language"
 
 ## Essentials
 
-Phonology includes several important concepts:
-
 - Phonemes are the smallest units of sound that can differentiate meaning.
 - Allophones are variations of a single phoneme that do not alter meaning.
 - Phonotactics refers to the rules that determine which sound combinations are allowed.

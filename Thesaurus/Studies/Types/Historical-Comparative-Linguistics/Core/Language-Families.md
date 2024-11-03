@@ -4,7 +4,6 @@ Language families consist of groups of languages that have evolved from a shared
 
 ## Major Language Families
 
-Some of the major language families include:
 
 - **Indo-European**, which covers languages like English, Spanish, Hindi, and Russian.
 - **Sino-Tibetan**, encompassing languages such as Mandarin Chinese, Burmese, and Tibetan.
@@ -23,14 +22,13 @@ Indo-European family:
 Languages within a family share genetic relationships inferred through systematic similarities. Cognates, which are words with a common origin across languages, help establish these relationships. Regular sound correspondences, where phonetic similarities appear consistently across related languages, also play a crucial role in classification.
 
 ## Methods
-
-Linguists use several methods to study language families. The comparative method involves comparing languages to identify genetic ties. Lexicostatistics measures how much languages have diverged based on core vocabulary. Phylogenetic analysis uses computational models to infer relationships and construct language trees.
+The comparative method involves comparing languages to identify genetic ties. Lexicostatistics measures how much languages have diverged based on core vocabulary. Phylogenetic analysis uses computational models to infer relationships and construct language trees.
 
 ## Methods
 
-- **Comparative Method**: Comparing languages to establish genetic relationships.
-- **Lexicostatistics**: Measuring linguistic divergence based on core vocabulary.
-- **Phylogenetic Analysis**: Using computational models to infer language trees.
+- **Comparative Method** compares languages to establish genetic relationships.
+- **Lexicostatistics** mesures linguistic divergence based on core vocabulary.
+- **Phylogenetic Analysis**uses computational models to infer language trees.
 
 
 ## Related Topics

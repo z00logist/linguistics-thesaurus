@@ -4,15 +4,11 @@ A linguistic variable is an element of language that can have different forms am
 
 ## Examples
 
-Sociolinguistic variables can be seen in different contexts:
-
 - The **post-vocalic /r/** in New York City, where some speakers pronounce the /r/ in words like "car" and "four," while others drop it.
 - The **(-ing) ending**, where "running" might be pronounced as [rʌnɪŋ] or [rʌnɪn].
 - **Th-fronting**, where a word like "think" is pronounced as "fink."
 
 ## Related Studies
-
-Several classic studies highlight the importance of sociolinguistic variables:
 
 - **Martha's Vineyard Study**, where William Labov examined how vowel centralization was tied to local identity on the island.
 - **The Belfast Study** by Lesley Milroy, which looked at how language variation was influenced by social networks in Northern Ireland.

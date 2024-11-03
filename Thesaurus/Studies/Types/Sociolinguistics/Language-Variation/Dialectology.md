@@ -3,12 +3,11 @@
 Dialectology is the study of regional variations in language, examining differences in pronunciation, grammar, and vocabulary.
 
 ## Objectives
-
-Dialectology has several main goals. One focus is on mapping dialect areas to identify the geographic boundaries where different dialects are spoken. Understanding language variation involves analyzing the reasons dialects differ across regions. Another important aim is preserving linguistic diversity by documenting dialects that are at risk of disappearing.
+One focus of dielectology is on mapping dialect areas to identify the geographic boundaries where different dialects are spoken. Understanding language variation involves analyzing the reasons dialects differ across regions. Another important aim is preserving linguistic diversity by documenting dialects that are at risk of disappearing.
 
 ## Methods
 
-The study of dialects often uses field surveys to gather data through interviews and questionnaires. Linguistic atlases are created to visually represent these findings by mapping out specific linguistic features.
+This study uses field surveys to gather data through interviews and questionnaires. Linguistic atlases are created to visually represent these findings by mapping out specific linguistic features.
 
 ## Examples
 

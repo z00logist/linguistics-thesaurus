@@ -6,7 +6,7 @@ Cosine Similarity Formula:
 
 ![Cosine](../../../../assets/cosine.png)
 
-**Cosine similarity** is valuable for several reasons:
+**Cosine similarity** is useful for such reasons:
 - It helps measure how similar documents or sentences are.
 - It plays a role in information retrieval by ranking documents based on relevance.
 - It assists in semantic analysis, allowing detection of contextual similarities between texts.

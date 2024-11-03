@@ -8,8 +8,6 @@ Morphological reconstruction focuses on identifying and understanding morphemes,
 
 ## Methodology
 
-The process involves several steps:
-
 1. Identify cognate morphemes that have similar forms and functions across related languages.
 2. Analyze the morphological structures by comparing how words are formed and inflected.
 3. Reconstruct proto-morphemes by inferring their ancestral forms and meanings.

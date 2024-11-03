@@ -3,8 +3,7 @@
 Linguistic paleontology is a method that uses reconstructed words from proto-languages to infer details about the culture, environment, and homeland of ancient peoples.
 
 ## Essentials
-
-This field involves several main focuses. Cultural reconstruction uses linguistic evidence to deduce aspects of material culture, social structures, and belief systems. Ecological inferences help identify the plants, animals, and geographical features known to the speakers of a proto-language. These linguistic insights are often correlated with archaeological findings to form a more complete historical picture.
+Cultural reconstruction uses linguistic evidence to deduce aspects of material culture, social structures, and belief systems. Ecological inferences help identify the plants, animals, and geographical features known to the speakers of a proto-language. These linguistic insights are often correlated with archaeological findings to form a more complete historical picture.
 
 ## Methodology
 

@@ -4,8 +4,6 @@ Lexical semantics studies how words in a language denote meaning and the relatio
 
 ## Essentials
 
-Lexical semantics explores several fundamental ideas:
-
 - **Word Meaning**: Examining the inherent meanings of words.
 - **Semantic Relations** include:
   - **Synonymy**, where words have similar meanings (e.g., "big" and "large").

@@ -4,8 +4,6 @@ Language contact occurs when speakers of different languages or dialects interac
 
 ## Types of Contact-Induced Change
 
-Several outcomes can result from language contact:
-
 - Borrowing involves adopting words, phrases, or even structural elements from one language into another.
 - Code-switching happens when speakers alternate between languages within a conversation.
 - Pidgins and creoles are new languages that form when groups without a shared language develop a simplified means of communication, which may evolve into a fully developed creole.
@@ -13,15 +11,11 @@ Several outcomes can result from language contact:
 
 ## Factors Influencing Language Contact
 
-Certain factors promote and shape language contact:
-
 - Social dynamics, including power relations and the prestige associated with certain languages, influence how languages interact.
 - Geographic proximity can make it easier for communities to interact and exchange linguistic features.
 - Trade and migration facilitate contact as economic exchanges and population movements bring speakers of different languages together.
 
 ## Effects
-
-Language contact can have several effects:
 
 - Lexical borrowing introduces foreign vocabulary into a language.
 - Structural borrowing affects phonology, morphology, or syntax, incorporating elements from another language.

@@ -4,15 +4,13 @@ Speech production involves translating thoughts into spoken language. This proce
 
 ## Stages of Speech Production
 
-Speech production happens in several stages. Conceptualization involves forming the intention to communicate. During formulation, appropriate words are selected, grammatical structures are built, and sounds are prepared for articulation. Articulation is the physical production of speech sounds, and self-monitoring helps detect and correct errors.
+Conceptualization involves forming the intention to communicate. During formulation, appropriate words are selected, grammatical structures are built, and sounds are prepared for articulation. Articulation is the physical production of speech sounds, and self-monitoring helps detect and correct errors.
 
 ## Models
-
-Different models explain how speech production works. Levelt's Model outlines the modular stages of production. Dell's Spreading Activation Model highlights interactive processes and common speech errors. Connectionist models use neural networks to simulate how speech production occurs.
+Levelt's Model outlines the modular stages of production. Dell's Spreading Activation Model highlights interactive processes and common speech errors. Connectionist models use neural networks to simulate how speech production occurs.
 
 ## Speech Errors
-
-Speech errors offer insight into underlying processes. Slips of the tongue include errors like anticipation, such as saying "Bake my bike" instead of "Take my bike," and exchanges, like "I must let the house out of the cat." Tip-of-the-tongue states occur when a person temporarily cannot recall a word.
+Slips of the tongue include errors like anticipation, such as saying "Bake my bike" instead of "Take my bike," and exchanges, like "I must let the house out of the cat." Tip-of-the-tongue states occur when a person temporarily cannot recall a word.
 
 ## Additional Resources
 

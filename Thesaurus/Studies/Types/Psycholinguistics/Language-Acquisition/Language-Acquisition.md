@@ -6,8 +6,6 @@ Language acquisition is the study of how humans develop the ability to perceive,
 
 ### Stages of Development
 
-Children go through several stages as they acquire their first language:
-
 1. **Babbling Stage**: Infants begin producing a variety of sounds, usually between 6 to 8 months.
 2. **One-Word Stage**: Single words are used to express complete ideas, around 9 to 18 months.
 3. **Two-Word Stage**: Simple word combinations start forming between 18 to 24 months.
@@ -19,8 +17,6 @@ Children go through several stages as they acquire their first language:
 
 
 ### Theories
-
-Several theories explain how language is acquired:
 
 - **Behaviorist Theory** sees language learning as a process of imitation and reinforcement, as proposed by Skinner.
 - **Nativist Theory** suggests that humans have an inborn language faculty, a concept developed by Chomsky through the idea of Universal Grammar.

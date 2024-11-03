@@ -1,8 +1,7 @@
 # Force Dynamics
 
 Force dynamics is a semantic framework developed by Leonard Talmy that explains how entities interact through force, covering movement, resistance, and causation.
-
-Force dynamics centers on several main ideas. The concept of an agonist refers to the entity exerting force, while an antagonist is the one that counteracts or resists that force. Interactions in force dynamics can take many forms, including causation, prevention, and enablement. Modal verbs such as "can," "must," and "may" often represent underlying force dynamics in language.
+The concept of an agonist refers to the entity exerting force, while an antagonist is the one that counteracts or resists that force. Interactions in force dynamics can take many forms, including causation, prevention, and enablement. Modal verbs such as "can," "must," and "may" often represent underlying force dynamics in language.
 
 ## Examples
 

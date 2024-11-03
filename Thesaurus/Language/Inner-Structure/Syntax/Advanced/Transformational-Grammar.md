@@ -4,15 +4,11 @@ Transformational grammar, introduced by Noam Chomsky, is a theory that explores 
 
 ## Essentials
 
-Transformational grammar is built on several core ideas:
-
 - Deep structure represents the underlying syntactic framework of a sentence.
 - Surface structure is the form of a sentence that results after applying transformational rules.
 - Transformations are the rules or processes that modify deep structures to produce surface structures.
 
 ## Examples
-
-An example of transformational grammar is the passive transformation:
 
 - Active: "The cat chased the mouse."
 - Passive: "The mouse was chased by the cat."

@@ -4,11 +4,9 @@ Lexical access is the process of retrieving the meaning, pronunciation, and gram
 
 ## Mental Lexicon
 
-The mental lexicon can be thought of as an internal dictionary. It holds information about words, including their meanings, sounds, and how they are used in sentences. This lexicon is structured based on various aspects such as semantics, phonology, morphology, and syntax. Words are activated from the lexicon based on the context they appear in and how often they are used.
+The mental lexicon can be thought of as an internal dictionary: itt holds information about words, including their meanings, sounds, and how they are used in sentences. This lexicon is structured based on various aspects such as semantics, phonology, morphology, and syntax. Words are activated from the lexicon based on the context they appear in and how often they are used.
 
 ## Models of Lexical Access
-
-Several models explain how we access words from our mental lexicon:
 
 - The **Logogen Model** suggests that each word has a certain activation threshold and becomes accessible when that threshold is met.
 - **Search Models** propose that the lexicon is searched either serially (one item at a time) or in parallel (multiple items at once).

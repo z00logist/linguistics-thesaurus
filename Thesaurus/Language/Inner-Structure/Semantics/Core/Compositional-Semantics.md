@@ -8,8 +8,6 @@ The central idea in compositional semantics is the principle of compositionality
 
 ## Essentials
 
-Compositional semantics involves several core concepts:
-
 - The **Syntax-Semantics Interface** explores how syntactic structures map onto semantic interpretations.
 - **Semantic Rules** provide a framework for combining meanings in accordance with grammatical structures.
 - **Type Theory** categorizes expressions and their meanings, aiding in the formal representation of language.

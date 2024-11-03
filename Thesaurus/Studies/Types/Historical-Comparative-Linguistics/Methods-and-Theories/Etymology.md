@@ -8,8 +8,6 @@ Etymology focuses on understanding word origins by identifying the earliest know
 
 ## Methods
 
-Etymologists use several methods to trace word histories:
-
 - Historical documentation involves analyzing written records to track how words were used over time.
 - Comparative linguistics looks at cognates in different languages to find common roots.
 - Phonological analysis helps understand sound changes that link words historically.
