@@ -8,7 +8,7 @@ Topic modeling is a technique in natural language processing that uncovers hidde
 - Reduces the complexity of large collections by condensing them into a smaller set of topics.
 - Clusters documents based on shared topics, aiding in organization and categorization.
 
-How Topic Modeling works. High-level representation:
+How Topic Modeling works. High-level representation:  
 ![Topic Modeling](../../../../assets/topic_modeling.png)
 
 ## Common Techniques
