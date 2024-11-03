@@ -8,7 +8,7 @@ Neurolinguistics studies brain regions involved in language, such as Broca's are
 
 ## Topics
 
-The field includes various topics that show how the brain manages language. Language lateralization examines how language functions are usually more dominant in one hemisphere, often the left. Neural plasticity looks at the brain's ability to reorganize itself after injury, particularly in the recovery of language functions. Studies on the bilingual brain explore how multiple languages are represented and processed neurologically.
+Language lateralization examines how language functions are usually more dominant in one hemisphere, often the left. Neural plasticity looks at the brain's ability to reorganize itself after injury, particularly in the recovery of language functions. Studies on the bilingual brain explore how multiple languages are represented and processed neurologically.
 
 ## Related Topics
 
