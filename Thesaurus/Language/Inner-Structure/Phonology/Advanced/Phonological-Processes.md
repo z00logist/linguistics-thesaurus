@@ -22,7 +22,7 @@ There are several common types of phonological processes:
 
 - [Assimilation](../../Phonetics/Advanced/Assimilation.md)
 
-## External Links
+## Additional Resources
 
 - [Phonological Rule - Wikipedia](https://en.wikipedia.org/wiki/Phonological_rule)
 - [Phonological Processes - SIL International](https://glossary.sil.org/term/phonological-process)

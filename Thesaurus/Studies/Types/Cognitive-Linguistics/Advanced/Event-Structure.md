@@ -22,7 +22,7 @@ Different theories offer perspectives on how event structure is represented:
 
 - [Force Dynamics](Force-Dynamics.md)
 
-## External Links
+## Additional Resources
 
 - [Event Structure - Wikipedia](https://en.wikipedia.org/wiki/Event_structure)
 - [Vendler's Classes of Verbs](https://plato.stanford.edu/entries/action-structure/)

@@ -20,7 +20,7 @@ Cognitive linguistics encompasses different branches, each focusing on specific 
 - [Cognitive Semantics](Cognitive-Semantics.md)
 - [Embodiment in Language](Embodiment-in-Language.md)
 
-## External Links
+## Additional Resources
 
 - [International Cognitive Linguistics Association](https://cognitivelinguistics.org/)
 - [Cognitive Linguistics - Wikipedia](https://en.wikipedia.org/wiki/Cognitive_linguistics)

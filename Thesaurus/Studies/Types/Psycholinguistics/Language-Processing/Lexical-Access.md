@@ -23,7 +23,7 @@ For further exploration, check out:
 - [Speech Production](Speech-Production.md)
 - [Sentence Processing](Sentence-Processing.md)
 
-## External Links
+## Additional Resources
 
 - [Lexical Access - Wikipedia](https://en.wikipedia.org/wiki/Lexical_retrieval)
 - [The Mental Lexicon](https://www.sciencedirect.com/topics/neuroscience/mental-lexicon)

@@ -23,7 +23,7 @@ An example of transformational grammar is the passive transformation:
 - [Universal Grammar](Universal-Grammar.md)
 - [Recursion](Recursion.md)
 
-## External Links
+## Additional Resources
 
 - [Transformational Grammar - Wikipedia](https://en.wikipedia.org/wiki/Transformational_grammar)
 - [Chomsky's Theory - ThoughtCo](https://www.thoughtco.com/chomskys-transformational-grammar-1690509)

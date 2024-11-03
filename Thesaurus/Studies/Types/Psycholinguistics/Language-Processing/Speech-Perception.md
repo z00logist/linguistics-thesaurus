@@ -15,7 +15,7 @@ Different theories attempt to explain how we perceive speech:
 - **Cohort Model** suggests that word recognition begins with the initial sounds of a word and narrows down as more information becomes available.
 - **Trace Model** describes an interactive system where speech is processed at different levels simultaneously (e.g., phonemes, words).
 
-## External Links
+## Additional Resources
 
 - [Speech Perception - Wikipedia](https://en.wikipedia.org/wiki/Speech_perception)
 - [The Science of Speech Perception](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2835386/)

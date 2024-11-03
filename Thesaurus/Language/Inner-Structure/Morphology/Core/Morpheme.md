@@ -22,7 +22,7 @@ The smallest grammatical unit in a language that carries meaning. Morphemes can 
 - [Affix](Affix.md)
 - [Allomorph](Allomorph.md)
 
-## External Links
+## Additional Resources
 
 - [Morpheme - Wikipedia](https://en.wikipedia.org/wiki/Morpheme)
 - [Morphemes - LinguaLinks](https://www.sil.org/lingualinks/languagelearning/OtherResources/GudlnsFrALnggAndCltrLrnrs/Morphemes.htm)

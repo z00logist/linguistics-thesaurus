@@ -22,7 +22,7 @@ Natural languages that use the visual-manual modality to convey meaning, possess
 
 - Valli, C., Lucas, C., Mulrooney, K. J., & Villanueva, M. (2011). *Linguistics of American Sign Language*. Gallaudet University Press.
 
-## External Links
+## Additional Resources
 
 - [Sign Language - Wikipedia](https://en.wikipedia.org/wiki/Sign_language)
 - [Gallaudet University](https://www.gallaudet.edu/)

@@ -21,7 +21,7 @@ Several classic studies highlight the importance of sociolinguistic variables:
 
 - [Language Variation](../Language-Variation/README.md)
 
-## External Links
+## Additional Resources
 
 - [Sociolinguistic Variable - Wikipedia](https://en.wikipedia.org/wiki/Sociolinguistic_variable)
 - [Understanding Linguistic Variables - Oxford Bibliographies](https://www.oxfordbibliographies.com/view/document/obo-9780199772810/obo-9780199772810-0056.xml)

@@ -35,7 +35,7 @@ Understanding the difference between inflectional and derivational morphemes is 
 - [Word Formation](Word-Formation.md)
 - [Affix](Affix.md)
 
-## External Links
+## Additional Resources
 
 - [Inflection vs. Derivation - Wikipedia](https://en.wikipedia.org/wiki/Inflection#Inflection_vs._derivation)
 - [Derivational Morpheme - ThoughtCo](https://www.thoughtco.com/derivational-morpheme-words-1690397)

@@ -20,7 +20,7 @@ The Comparative Method relies on key principles:
 - Directionality indicates that certain types of phonetic changes are more common or likely than others.
 - Occam's Razor is applied, favoring the simplest explanation that fits the data.
 
-## External Links
+## Additional Resources
 
 - [Comparative Method - Wikipedia](https://en.wikipedia.org/wiki/Comparative_method_(linguistics))
 - [Introduction to the Comparative Method](https://www.uni-due.de/ELE/MethodsComparativeMethod.htm)

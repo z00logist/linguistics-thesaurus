@@ -23,7 +23,7 @@ Languages in which words are formed through the combination of morphemes, each a
 - Kornfilt, J. (1997). *Turkish*. Routledge.
 - Comrie, B. (1989). *Language Universals and Linguistic Typology*. University of Chicago Press.
 
-## External Links
+## Additional Resources
 
 - [Agglutination - Wikipedia](https://en.wikipedia.org/wiki/Agglutination)
 - [Agglutinative Language - Glottopedia](http://www.glottopedia.org/index.php/Agglutinative_language)

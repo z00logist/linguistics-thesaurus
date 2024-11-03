@@ -13,7 +13,7 @@ Different strategies are used to parse and understand sentences:
   - **Parallel Models** consider multiple interpretations at once.
   - **Constraint-Based Models** use various information sources, such as syntax, semantics, and context, to guide parsing.
   
-## External Links
+## Additional Resources
 
 - [Sentence Processing - Wikipedia](https://en.wikipedia.org/wiki/Sentence_processing)
 - [Garden Path Sentences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2754953/)

@@ -1,37 +1,26 @@
 # Word2Vec
 
-Word2Vec is a group of related models that produce word embeddings using shallow neural networks. Developed by Tomas Mikolov and colleagues at Google in 2013, it includes two architectures: Continuous Bag-of-Words (CBOW) and Skip-Gram.
+Word2Vec is a set of models used to create word embeddings through shallow neural networks. It was developed by Tomas Mikolov and his team at Google in 2013 and includes two main architectures: Continuous Bag-of-Words (CBOW) and Skip-Gram.
 
 ## Architectures
 
 ### Continuous Bag-of-Words (CBOW)
 
-- **Objective**: Predict the target word based on surrounding context words.
-- **Input**: Context words (surrounding words).
-- **Output**: Target word.
-- **Characteristics**: Faster to train, better for frequent words.
+The CBOW model aims to predict a target word based on its surrounding context words. It takes context words as input and outputs the target word. This model trains quickly and is particularly effective for predicting frequent words.
 
 ### Skip-Gram
 
-- **Objective**: Predict surrounding context words given the target word.
-- **Input**: Target word.
-- **Output**: Context words.
-- **Characteristics**: Performs better with infrequent words.
+The Skip-Gram model, on the other hand, predicts surrounding context words given a target word. It uses the target word as input and generates context words as output. Skip-Gram is better suited for learning from less frequent words and capturing more detailed relationships.
 
-## Key Features
+## Main Features
 
-- **Efficiency**: Can be trained on large datasets quickly.
-- **Semantic Relationships**: Captures linear relationships between words (e.g., "king" - "man" + "woman" ≈ "queen").
-- **Dimensionality**: Typically uses 100-300 dimensions.
+Word2Vec stands out due to its efficiency, as it can be trained on large datasets relatively quickly. The embeddings it produces capture semantic relationships, revealing linear connections between words, such as "king" minus "man" plus "woman" approximately equaling "queen." Typically, Word2Vec embeddings use between 100 and 300 dimensions.
 
 
-## Related Topics
+The Illustration of Word2Vec Embeddings:  
+![word2vec](../../../../assets/word2vec.jpg)
 
-- [Word Embeddings](Word-Embeddings.md)
-- [Neural Networks in NLP](../Neural-Networks-in-NLP.md)
-- [GloVe](GloVe.md)
-
-## External Links
+## Additional Resources
 
 - [Word2Vec Explained](https://towardsdatascience.com/word2vec-explained-49c52b4ccb71) (Towards Data Science)
 - [Gensim Word2Vec Tutorial](https://radimrehurek.com/gensim/models/word2vec.html)
@@ -43,4 +32,4 @@ Word2Vec is a group of related models that produce word embeddings using shallow
 
 ---
 
-[Back to Word Embeddings](README.md)
+[Back to Computational Linguistics](../README.md)

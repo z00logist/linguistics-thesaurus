@@ -17,7 +17,7 @@ Vowel harmony is a phonological process where vowels within a word agree in cert
 - [Allomorph](Allomorph.md)
 - [Morphophonemics](Morphophonemics.md)
 
-## External Links
+## Additional Resources
 
 - [Vowel Harmony - Wikipedia](https://en.wikipedia.org/wiki/Vowel_harmony)
 - [Vowel Harmony - SIL International](https://glossary.sil.org/term/vowel-harmony)

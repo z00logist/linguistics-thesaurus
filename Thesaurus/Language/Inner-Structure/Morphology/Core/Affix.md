@@ -20,7 +20,7 @@ An affix is a bound morpheme attached to a root or stem to modify its meaning.
 - [Free and Bound Morphemes](Free-and-Bound-Morphemes.md)
 - [Inflectional vs. Derivational Morphemes](../Advanced/Inflectional-vs-Derivational-Morphemes.md)
 
-## External Links
+## Additional Resources
 
 - [Affix - Wikipedia](https://en.wikipedia.org/wiki/Affix)
 - [Affixes - Linguistics](https://www.sil.org/lingualinks/languagelearning/OtherResources/GudlnsFrALnggAndCltrLrnrs/Affixes.htm)

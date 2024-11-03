@@ -2,20 +2,20 @@
 
 Natural Language Processing is a subfield of artificial intelligence focused on enabling computers to understand, interpret, and generate human language.
 
-## Key Areas
+![NLP](../../../../assets/nlp.png)
 
-- **Text Processing**: Tokenization, stemming, lemmatization.
-- **Syntactic Analysis**: Parsing sentences to understand grammatical structure.
-- **Semantic Analysis**: Understanding meaning and context.
-- **Pragmatics**: Understanding language in context, including idioms and metaphors.
+## Main Areas of NLP
 
+- Text processing involves tasks like tokenization, stemming, and lemmatization.
+- Syntactic analysis deals with parsing sentences to grasp their grammatical structure.
+- Semantic analysis is about understanding meaning and context within text.
+- Pragmatics covers understanding language in real-world context, including idioms and metaphors.
 
+## Common Techniques
 
-## Techniques
-
-- **Rule-Based Approaches**: Using handcrafted linguistic rules.
-- **Statistical Methods**: Leveraging statistical models to make predictions.
-- **Machine Learning**: Training models on large datasets to learn patterns.
+- Rule-based approaches rely on handcrafted linguistic rules to process language.
+- Statistical methods use probabilistic models to make predictions about language.
+- Machine learning approaches train models on large datasets to detect and learn language patterns.
 
 ## Related Topics
 
@@ -23,7 +23,7 @@ Natural Language Processing is a subfield of artificial intelligence focused on 
 - [Probabilistic Models](Probabilistic-Models.md)
 - [Neural Networks in NLP](Neural-Networks-in-NLP.md)
 
-## External Links
+## Additional Resources
 
 - [Natural Language Processing - Wikipedia](https://en.wikipedia.org/wiki/Natural_language_processing)
 - [Stanford NLP Group](https://nlp.stanford.edu/)
@@ -35,4 +35,4 @@ Natural Language Processing is a subfield of artificial intelligence focused on 
 
 ---
 
-[Back to Computational Linguistics](README.md)
+[Back to Computational Linguistics](../README.md)

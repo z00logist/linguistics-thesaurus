@@ -16,7 +16,7 @@ Universal Grammar is the theory that the ability to acquire grammar is hard-wire
 - [Transformational Grammar](Transformational-Grammar.md)
 - [Recursion](Recursion.md)
 
-## External Links
+## Additional Resources
 
 - [Universal Grammar - Wikipedia](https://en.wikipedia.org/wiki/Universal_grammar)
 - [Chomsky's Universal Grammar - Linguistics](https://www.linguisticsociety.org/resource/universal-grammar)

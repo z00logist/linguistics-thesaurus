@@ -1,18 +1,17 @@
 # Lemmatization
 
-Lemmatization is the process of reducing words to their base or dictionary form, known as a lemma, by considering their morphological analysis and context.
+Lemmatization is the process of reducing words to their base or dictionary form, known as a lemma. This technique considers the word's morphological analysis and context to determine the correct base form.
 
 ## Purpose
 
-- **Canonical Form**: Maps inflected forms to their base form.
-- **Contextual Awareness**: Considers the part of speech and meaning.
-- **Improved Accuracy**: Provides more accurate base forms compared to stemming.
+Lemmatization maps inflected words to their base form, making it easier to analyze text consistently. Unlike simple stemming, it takes into account the part of speech and the word's meaning, leading to more accurate results.
 
-## Approaches
+## Common Approaches
 
-- **Rule-Based Methods**: Utilize language-specific morphological rules.
-- **Dictionary-Based Methods**: Use vocabulary lists to find lemma forms.
-- **Statistical Methods**: Employ machine learning to predict lemmas.
+There are different methods used for lemmatization:
+- Rule-based methods apply language-specific morphological rules.
+- Dictionary-based methods use vocabulary lists to find the correct lemma.
+- Statistical methods leverage machine learning to predict the base forms of words.
 
 ## Examples
 
@@ -20,23 +19,7 @@ Lemmatization is the process of reducing words to their base or dictionary form,
 - **Better** → **Good**
 - **Studies** → **Study**
 
-## Advantages over Stemming
-
-- **Accuracy**: Produces valid words.
-- **Contextual Understanding**: Differentiates between words based on context.
-
-## Limitations
-
-- **Computational Complexity**: More resource-intensive than stemming.
-- **Language Dependency**: Requires language-specific resources.
-
-## Related Topics
-
-- [Stemming](Stemming.md)
-- [Part-of-Speech Tagging](../Probabilistic-Models.md#part-of-speech-tagging)
-- [Text Preprocessing](Text-Preprocessing.md)
-
-## External Links
+## Additional Resources
 
 - [Lemmatization - Wikipedia](https://en.wikipedia.org/wiki/Lemmatisation)
 - [SpaCy Lemmatization](https://spacy.io/usage/linguistic-features#lemmatization)
@@ -48,4 +31,4 @@ Lemmatization is the process of reducing words to their base or dictionary form,
 
 ---
 
-[Back to Text Preprocessing](README.md)
+[Back to Computational Linguistics](../README.md)

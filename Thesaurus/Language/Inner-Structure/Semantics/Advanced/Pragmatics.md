@@ -20,7 +20,7 @@ Some important theories in pragmatics include:
 - **Relevance Theory**, which proposes that communication is driven by the expectation of relevance and the effort to convey and interpret meaningful information efficiently.
 
 
-## External Links
+## Additional Resources
 
 - [Pragmatics - Wikipedia](https://en.wikipedia.org/wiki/Pragmatics)
 - [Introduction to Pragmatics](https://www.linguisticsociety.org/resource/pragmatics)

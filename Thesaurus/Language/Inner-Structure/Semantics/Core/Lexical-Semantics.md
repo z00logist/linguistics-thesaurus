@@ -21,7 +21,7 @@ Lexical semantics explores several fundamental ideas:
 - [Semantic Fields](../Advanced/Semantic-Fields.md)
 - [Sense and Reference](Sense-and-Reference.md)
 
-## External Links
+## Additional Resources
 
 - [Lexical Semantics - Wikipedia](https://en.wikipedia.org/wiki/Lexical_semantics)
 - [Introduction to Lexical Semantics](https://www.sciencedirect.com/topics/computer-science/lexical-semantics)

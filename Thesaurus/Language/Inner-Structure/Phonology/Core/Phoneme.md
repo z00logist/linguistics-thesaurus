@@ -21,7 +21,7 @@ To delve deeper, explore these related topics:
 - [Allophone](../Phonology/Allophone.md)
 - [Minimal Pair](Minimal-Pair.md)
 
-## External Links
+## Additional Resources
 
 - [Phoneme - Wikipedia](https://en.wikipedia.org/wiki/Phoneme)
 - [Phonemes and Allophones - SIL International](https://glossary.sil.org/term/phoneme)

@@ -13,7 +13,7 @@ A syntactic tree, or parse tree, is a diagram representing the hierarchical stru
 ![Syntatic Tree](../../../../assets/tree.png)
 
 
-## External Links
+## Additional Resources
 
 - [Parse Tree - Wikipedia](https://en.wikipedia.org/wiki/Parse_tree)
 - [Tree Diagrams - SIL International](https://glossary.sil.org/term/tree-diagram)

@@ -17,7 +17,7 @@ Suppletion is a morphological phenomenon where an irregular morphological change
 - [Morphophonemics](Morphophonemics.md)
 - [Inflectional Morphemes](Inflectional-vs-Derivational-Morphemes.md)
 
-## External Links
+## Additional Resources
 
 - [Suppletion - Wikipedia](https://en.wikipedia.org/wiki/Suppletion)
 - [Suppletion - SIL International](https://glossary.sil.org/term/suppletion)

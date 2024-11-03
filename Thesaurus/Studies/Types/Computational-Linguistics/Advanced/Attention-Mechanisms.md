@@ -1,26 +1,24 @@
 # Attention Mechanisms
 
-Attention mechanisms allow models to focus on specific parts of the input when generating each part of the output, improving performance on tasks where context is important.
+Attention mechanisms help models focus on relevant parts of the input while producing each part of the output. This is especially valuable for tasks that rely heavily on context.
 
-## Concepts
+## Key Concepts
 
-- **Alignment**: Calculating the relevance between input and output elements.
-- **Context Vector**: Weighted sum of input features, where weights are determined by attention scores.
-- **Self-Attention**: Mechanism where attention is applied within a single sequence.
+- Alignment measures how input and output elements relate to each other.
+- A context vector represents a weighted combination of input features, with weights determined by attention scores.
+- Self-attention works within a single sequence, letting the model assign importance to different parts of that sequence.
 
-## Types
+## Multihead Attention
 
-- **Additive Attention**: Uses a feedforward network to compute attention weights.
-- **Multiplicative (Dot-Product) Attention**: Computes the similarity between queries and keys via dot product.
+![Attention](../../../../assets/multi-head-attention.png)
 
-
-## Related Topics
+## Explore Further
 
 - [Neural Networks in NLP](Neural-Networks-in-NLP.md)
-- [Transformers](Transformers.md)
-- [Large Language Models](Large-Language-Models.md)
+- [Transformers](../Language-Models/Transformers.md)
+- [Large Language Models](../Language-Models/Large-Language-Models.md)
 
-## External Links
+## Additional Reading
 
 - [Attention Mechanisms in NLP](https://medium.com/syncedreview/a-brief-overview-of-attention-mechanism-13c578ba9129)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
@@ -32,4 +30,4 @@ Attention mechanisms allow models to focus on specific parts of the input when g
 
 ---
 
-[Back to Computational Linguistics](README.md)
+[Back to Computational Linguistics](../README.md)

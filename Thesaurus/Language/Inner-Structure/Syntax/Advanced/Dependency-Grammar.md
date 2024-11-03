@@ -16,7 +16,7 @@ Dependency grammar has a few distinctive features:
 - [Grammatical Relations](../Core/Grammatical-Relations.md)
 - [Syntactic Tree](../Core/Syntactic-Tree.md)
 
-## External Links
+## Additional Resources
 
 - [Dependency Grammar - Wikipedia](https://en.wikipedia.org/wiki/Dependency_grammar)
 - [Dependency Grammar - SIL International](https://glossary.sil.org/term/dependency-grammar)

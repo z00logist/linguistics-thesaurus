@@ -25,7 +25,7 @@ The blending process unfolds in stages:
 - [Conceptual Metaphor Theory](../Conceptual-Metaphor-Theory.md)
 - [Cognitive Semantics](../Cognitive-Semantics.md)
 
-## External Links
+## Additional Resources
 
 - [Conceptual Blending - Wikipedia](https://en.wikipedia.org/wiki/Conceptual_blending)
 - [The Way We Think](https://www.sciencedirect.com/science/article/pii/S0388000199000038)

@@ -14,7 +14,7 @@ Linguists follow a few key steps in linguistic paleontology:
 2. Analyze semantic fields, which are groups of related words, to understand broader topics.
 3. Use this information to make educated guesses about the culture and environment of proto-language speakers.
 
-## External Links
+## Additional Resources
 
 - [Linguistic Paleontology - Wikipedia](https://en.wikipedia.org/wiki/Linguistic_paleontology)
 - [Methods in Linguistic Paleontology](https://www.sciencedirect.com/topics/social-sciences/linguistic-paleontology)

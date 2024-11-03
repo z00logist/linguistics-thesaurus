@@ -36,7 +36,7 @@ Explore these topics for more insights:
 - [Speech Production](Speech-Production.md)
 - [Language Acquisition](Language-Acquisition.md)
 
-## External Links
+## Additional Resources
 
 - [Language Disorder - Wikipedia](https://en.wikipedia.org/wiki/Language_disorder)
 - [American Speech-Language-Hearing Association](https://www.asha.org/)

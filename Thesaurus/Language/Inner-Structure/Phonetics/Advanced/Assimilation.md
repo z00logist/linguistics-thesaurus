@@ -21,7 +21,7 @@ Assimilation is a phonetic process where a sound changes to become more like a n
 - [Phonology](../Phonology/Phonology.md)
 - [Phonetics](../Core/Phonetics.md)
 
-## External Links
+## Additional Resources
 
 - [Assimilation (Phonology) - Wikipedia](https://en.wikipedia.org/wiki/Assimilation_(phonology))
 - [Assimilation - SIL International](https://glossary.sil.org/term/assimilation)

@@ -20,7 +20,7 @@ Compounding is the process of combining two or more free morphemes (words) to cr
 - [Word Formation](Word-Formation.md)
 - [Morpheme](Morpheme.md)
 
-## External Links
+## Additional Resources
 
 - [Compound (Linguistics) - Wikipedia](https://en.wikipedia.org/wiki/Compound_(linguistics))
 - [Compounding - SIL International](https://glossary.sil.org/term/compound-word)

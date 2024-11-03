@@ -25,7 +25,7 @@ Communication systems used by animals, which lack the complexity and generative 
 
 - Yule, G. (2016). *The Study of Language*. Cambridge University Press.
 
-## External Links
+## Additional Resources
 
 - [Animal Communication - Wikipedia](https://en.wikipedia.org/wiki/Animal_communication)
 - [Bee Waggle Dance - National Geographic](https://www.nationalgeographic.com/animals/article/honeybee-waggle-dance-explained)

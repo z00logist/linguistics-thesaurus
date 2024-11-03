@@ -10,7 +10,7 @@ The scientific study of language, encompassing its structure, use, and historica
 
 - [Types of Linguistics](Types/README.md)
 
-## External Links
+## Additional Resources
 
 - [Linguistics - Wikipedia](https://en.wikipedia.org/wiki/Linguistics)
 - [Linguistic Society of America](https://www.linguisticsociety.org/)

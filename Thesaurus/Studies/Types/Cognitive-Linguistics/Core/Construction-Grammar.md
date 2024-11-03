@@ -15,7 +15,7 @@ Constructions come in various forms, such as:
 - Phrase-level constructions, including idiomatic expressions like "kick the bucket."
 - Sentence-level constructions, which cover broader grammatical patterns, such as the ditransitive structure used in sentences like "She gave him a book."
 
-## External Links
+## Additional Resources
 
 - [Construction Grammar - Wikipedia](https://en.wikipedia.org/wiki/Construction_grammar)
 - [International Construction Grammar Network](https://constructiongrammar.org/)

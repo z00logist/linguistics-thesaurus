@@ -14,7 +14,7 @@ Different theories in cognitive linguistics contribute to our understanding of l
 
 There is significant evidence supporting these ideas. Overgeneralization errors, such as saying "goed" instead of "went," show how children create rules from language input. Statistical learning studies have shown that children are sensitive to the frequency and distribution of words and patterns. Language development often parallels broader cognitive milestones, further linking cognitive growth with language learning.
 
-## External Links
+## Additional Resources
 
 - [Language Acquisition - Wikipedia](https://en.wikipedia.org/wiki/Language_acquisition)
 - [Usage-Based Approaches to Language Development](https://www.sciencedirect.com/topics/psychology/usage-based-language-acquisition)

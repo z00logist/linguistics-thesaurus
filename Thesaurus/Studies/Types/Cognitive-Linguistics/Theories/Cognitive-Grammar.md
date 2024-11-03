@@ -15,7 +15,7 @@ Key principles in Cognitive Grammar include construal, which refers to how speak
 
 - [Construction Grammar](../Core/Construction-Grammar.md)
 
-## External Links
+## Additional Resources
 
 - [Cognitive Grammar - Wikipedia](https://en.wikipedia.org/wiki/Cognitive_grammar)
 - [Interview with Ronald Langacker](https://cognitivelinguistics.org/langacker-interview)

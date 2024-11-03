@@ -1,15 +1,15 @@
 # Text Preprocessing
 
-Text preprocessing is the initial stage in natural language processing where raw text data is cleaned and formatted to make it suitable for computational models.
+Text preprocessing is the first step in natural language processing. It involves cleaning and formatting raw text data to make it suitable for computational models.
 
 ## Common Steps
 
-- **Tokenization**: Splitting text into individual words or tokens.
-- **Lowercasing**: Converting all text to lowercase to reduce variability.
-- **Removing Punctuation**: Eliminating punctuation marks.
-- **Removing Stop Words**: Filtering out common words that may not carry significant meaning.
-- **Stemming**: Reducing words to their base or root form.
-- **Lemmatization**: Reducing words to their canonical form based on vocabulary and morphology.
+- Tokenization splits text into individual words or tokens.
+- Lowercasing converts all text to lowercase, helping to reduce variability.
+- Removing punctuation gets rid of punctuation marks.
+- Removing stop words filters out common words that may not add significant meaning.
+- Stemming reduces words to their base or root form.
+- Lemmatization uses vocabulary and morphology to bring words to their canonical form.
 
 ## Related Topics
 
@@ -17,15 +17,15 @@ Text preprocessing is the initial stage in natural language processing where raw
 - [Stemming](Stemming.md)
 - [Lemmatization](Lemmatization.md)
 
-## External Links
+## Additional Resources
 
-- [Text Preprocessing Techniques - Wikipedia](https://en.wikipedia.org/wiki/Text_preprocessing)
+- [Text Preprocessing Techniques on Wikipedia](https://en.wikipedia.org/wiki/Text_preprocessing)
 - [NLP Preprocessing Tutorial](https://www.kdnuggets.com/2019/04/text-preprocessing-nlp.html)
 
-## Sources
+## Reference
 
 - Bird, S., Klein, E., & Loper, E. (2009). *Natural Language Processing with Python*. O'Reilly Media.
 
 ---
 
-[Back to Text Preprocessing](README.md)
+[Back to Computational Linguistics](../README.md)

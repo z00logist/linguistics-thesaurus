@@ -24,7 +24,7 @@ For example, in old english sound "a" was pronounced flat: the word "make" would
 
 - [Language Variation](Language-Variation.md)
 
-## External Links
+## Additional Resources
 
 - [Language Change - Wikipedia](https://en.wikipedia.org/wiki/Language_change)
 - [Historical Linguistics - SIL International](https://glossary.sil.org/subject/historical-linguistics)

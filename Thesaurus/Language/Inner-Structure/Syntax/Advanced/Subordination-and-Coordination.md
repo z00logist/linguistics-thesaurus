@@ -21,7 +21,7 @@ Subordination connects a main clause with one or more subordinate (dependent) cl
 - [Recursion](Recursion.md)
 - [Phrase Structure Rules](Phrase-Structure-Rules.md)
 
-## External Links
+## Additional Resources
 
 - [Coordination (Grammar) - Wikipedia](https://en.wikipedia.org/wiki/Coordination_(grammar))
 - [Subordination - SIL International](https://glossary.sil.org/term/subordination)

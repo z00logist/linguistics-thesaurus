@@ -17,7 +17,7 @@ Some common examples of image schemas include the container schema, which involv
 - [Embodiment in Language](../Embodiment-in-Language.md)
 - [Force Dynamics](Force-Dynamics.md)
 
-## External Links
+## Additional Resources
 
 - [Image Schema - Wikipedia](https://en.wikipedia.org/wiki/Image_schema)
 - [Image Schemas in Cognitive Linguistics](https://www.sciencedirect.com/topics/psychology/image-schema)

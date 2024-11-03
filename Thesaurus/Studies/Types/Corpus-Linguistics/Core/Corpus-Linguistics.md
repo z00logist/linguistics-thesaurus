@@ -19,7 +19,7 @@ Annotation adds layers of linguistic information to a corpus, such as part-of-sp
 - [Corpora](Corpora.md)
 - [Analysis](../Analysis/README.md)
 
-## External Links
+## Additional Resources
 
 - [Corpus Linguistics - Wikipedia](https://en.wikipedia.org/wiki/Corpus_linguistics)
 - [Corpus Linguistics - Lancaster University](http://corpora.lancs.ac.uk/clmtp/)

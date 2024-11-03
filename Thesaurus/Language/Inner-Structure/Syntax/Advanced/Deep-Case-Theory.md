@@ -19,7 +19,7 @@ The theory is built around several key ideas:
 - Objective (O), pointing to the entity directly affected by an action.
 
 
-## External Links
+## Additional Resources
 
 - [Case Grammar](https://en.wikipedia.org/wiki/Case_grammar)
 - [Fillmore's Case Grammar - Wikipedia](https://en.wikipedia.org/wiki/Case_grammar)

@@ -24,7 +24,7 @@ Some common semantic primes include:
 
 *(The list continues to cover approximately 65 primes.)*
 
-## External Links
+## Additional Resources
 
 - [Natural Semantic Metalanguage - Wikipedia](https://en.wikipedia.org/wiki/Natural_semantic_metalanguage)
 - [NSM Homepage](https://nsm-approach.net/)

@@ -23,7 +23,7 @@ Phonology includes several important concepts:
 - [Allophone](Allophone.md)
 - [Phonotactics](../Advanced/Phonotactics.md)
 
-## External Links
+## Additional Resources
 
 - [Phonology - Wikipedia](https://en.wikipedia.org/wiki/Phonology)
 - [Phonology - SIL International](https://glossary.sil.org/subject/phonology)

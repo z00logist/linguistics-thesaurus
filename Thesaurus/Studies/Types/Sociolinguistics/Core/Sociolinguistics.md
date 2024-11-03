@@ -14,7 +14,7 @@ One notable study in sociolinguistics is Labov's New York City Study, which high
 
 For more details, see [Labov's New York City Study](../Language-and-Society/Labovs-New-York-City-Study.md).
 
-## External Links
+## Additional Resources
 
 - [Sociolinguistics - Wikipedia](https://en.wikipedia.org/wiki/Sociolinguistics)
 - [Sociolinguistics Society](http://www.meertens.knaw.nl/ss17/)

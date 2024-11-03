@@ -23,7 +23,7 @@ Languages in which morphemes may encode multiple grammatical meanings simultaneo
 
 - Trask, R. L. (2000). *The Dictionary of Historical and Comparative Linguistics*. Fitzroy Dearborn.
 
-## External Links
+## Additional Resources
 
 - [Fusional Language - Wikipedia](https://en.wikipedia.org/wiki/Fusional_language)
 - [Inflectional Language - Glottopedia](http://www.glottopedia.org/index.php/Inflectional_language)

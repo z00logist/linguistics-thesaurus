@@ -42,7 +42,7 @@ Word formation refers to the processes by which new words are created in a langu
 - [Compounding](Compounding.md)
 - [Morpheme](Morpheme.md)
 
-## External Links
+## Additional Resources
 
 - [Word Formation - Wikipedia](https://en.wikipedia.org/wiki/Word_formation)
 - [Word Formation Processes - SIL International](https://glossary.sil.org/term/word-formation)

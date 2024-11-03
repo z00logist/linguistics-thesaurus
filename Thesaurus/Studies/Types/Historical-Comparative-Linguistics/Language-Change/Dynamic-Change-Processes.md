@@ -53,7 +53,7 @@ Different theories explain why and how languages change:
 - Grammaticalization theory focuses on how words develop into grammatical markers.
 - Usage-based models emphasize how frequency and usage patterns contribute to change.
 
-## External Links
+## Additional Resources
 
 - [Historical Linguistics - Wikipedia](https://en.wikipedia.org/wiki/Historical_linguistics)
 - [Mechanisms of Language Change](https://glottopedia.org/wiki/Language_change)

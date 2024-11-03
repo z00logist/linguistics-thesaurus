@@ -14,7 +14,7 @@ Word order refers to the sequence in which words appear in a sentence. Languages
 [Word Orders' Proportions](../../../../assets/word-order.jpg)
 
 
-## External Links
+## Additional Resources
 
 - [Word Order - Wikipedia](https://en.wikipedia.org/wiki/Word_order)
 - [Word Order Typology - WALS](https://wals.info/chapter/81)

@@ -11,7 +11,7 @@ Computational linguistics is an interdisciplinary field concerned with the compu
 
 ### 2. [Language Models](Language-Models/README.md)
 - [Introduction to Language Models](Language-Models/README.md)
-- [Backus-Naur Form](Language-Models/Backus-Naur-Form.md)
+- [Backus-Naur Form](Advanced/Backus-Nauer-Form.md)
 - [N-gram Models](Language-Models/N-gram-Models.md)
 - [Probabilistic Models](Language-Models/Probabilistic-Models.md)
 - [Hidden Markov Models](Language-Models/Hidden-Markov-Models.md)

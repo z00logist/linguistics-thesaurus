@@ -1,30 +1,29 @@
 # Computational Syntax
 
-Computational Syntax focuses on the computational modeling of syntactic structures in natural language, enabling machines to parse and understand sentence structures.
+Computational syntax deals with creating models that allow machines to understand and parse the structure of sentences in natural language. This area is essential for building systems that can process language with an understanding of its syntactic properties.
 
-## Objectives
+## Main Goals
 
-- **Syntactic Parsing**: Analyzing sentences to produce parse trees.
-- **Grammar Formalisms**: Developing computationally tractable grammars (e.g., CFGs, dependency grammars).
-- **Ambiguity Resolution**: Handling syntactic ambiguities in language.
+- Syntactic parsing helps analyze sentences and produce parse trees that represent their structure.
+- Developing grammar formalisms that can be used computationally, such as context-free grammars and dependency grammars.
+- Addressing and resolving syntactic ambiguities in language to improve parsing accuracy.
 
-## Methods
+## Common Methods
 
-- **Rule-Based Parsers**: Use handcrafted grammar rules.
-- **Statistical Parsers**: Employ probabilistic models trained on annotated corpora.
-- **Neural Network Parsers**: Utilize deep learning for parsing tasks.
+- Rule-based parsers rely on handcrafted grammar rules.
+- Statistical parsers use probabilistic models that are trained on annotated text data.
+- Neural network parsers leverage deep learning to handle parsing tasks effectively.
 
-
-## Related Topics
+## Related Areas
 
 - [Syntax](../../Language/Inner-Structure/Syntax/README.md)
 - [Natural Language Processing](Natural-Language-Processing.md)
 - [Probabilistic Models](Probabilistic-Models.md)
 
-## External Links
+## Learn More
 
 - [Stanford Parser](https://nlp.stanford.edu/software/lex-parser.shtml)
-- [Computational Syntax - Wikipedia](https://en.wikipedia.org/wiki/Computational_syntax)
+- [Computational Syntax on Wikipedia](https://en.wikipedia.org/wiki/Computational_syntax)
 
 ## Sources
 
@@ -33,4 +32,4 @@ Computational Syntax focuses on the computational modeling of syntactic structur
 
 ---
 
-[Back to Computational Linguistics](README.md)
+[Back to Computational Linguistics](../README.md)

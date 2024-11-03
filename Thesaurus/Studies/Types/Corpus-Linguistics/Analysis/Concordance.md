@@ -19,7 +19,7 @@ A concordance is an alphabetical list of principal words used in a text or corpu
 - [Collocation](Collocation.md)
 - [Corpus Tools](Corpus-Tools.md)
 
-## External Links
+## Additional Resources
 
 - [Concordance (Lexicography) - Wikipedia](https://en.wikipedia.org/wiki/Concordance_(lexicography))
 - [AntConc Software](https://www.laurenceanthony.net/software/antconc/)

@@ -5,7 +5,7 @@ Syntax is the study of the rules and principles that govern the structure of sen
 > **Chomsky (1957,):**
 > "Syntax is the study of the principles and processes by which sentences are constructed in particular languages."
 
-## External Links
+## Additional Resources
 
 - [Syntax - Wikipedia](https://en.wikipedia.org/wiki/Syntax)
 - [Syntax in Linguistics - Glossary](https://glossary.sil.org/term/syntax)

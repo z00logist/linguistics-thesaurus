@@ -16,7 +16,7 @@ Phonotactics refers to the rules governing the permissible combinations and sequ
 
 - [Phoneme](../Core/Phoneme.md)
 
-## External Links
+## Additional Resources
 
 - [Phonotactics - Wikipedia](https://en.wikipedia.org/wiki/Phonotactics)
 - [Phonotactics - SIL International](https://glossary.sil.org/term/phonotactics)

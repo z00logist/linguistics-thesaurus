@@ -3,7 +3,6 @@
 Language models are crucial for understanding the structure and generation of human language using computational methods. This section delves into different types of models, from simple probabilistic models to advanced large language models.
 
 ## Contents
-- [Backus-Naur Form](Backus-Naur-Form.md)
 - [N-gram Models](N-gram-Models.md)
 - [Probabilistic Models](Probabilistic-Models.md)
 - [Hidden Markov Models](Hidden-Markov-Models.md)

@@ -28,12 +28,12 @@ Reconstructing protolanguages comes with challenges:
 - **Borrowings**, where distinguishing between inherited words and loanwords is necessary.
 - **Analogical Changes** that may obscure original forms through internal restructuring.
 
-## External Links
+## Additional Resources
 
 - [Proto-Language - Wikipedia](https://en.wikipedia.org/wiki/Proto-language)
 - [Reconstructing Proto-Languages](https://www.uni-due.de/ELE/MethodsReconstruction.htm)
 
-## References
+## Sources
 
 - Fox, A. (1995). *Linguistic Reconstruction: An Introduction to Theory and Method*. Oxford University Press.
 - Campbell, L. (2013). *Historical Linguistics: An Introduction*. MIT Press.

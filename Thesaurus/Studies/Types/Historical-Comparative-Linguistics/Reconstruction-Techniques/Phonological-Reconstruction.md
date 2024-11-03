@@ -16,7 +16,7 @@ The steps involved are:
 4. Formulate phonological rules that describe changes from proto-sounds to their current forms.
 5. Validate the reconstruction to ensure it is consistent and plausible.
 
-## External Links
+## Additional Resources
 
 - [Phonological Reconstruction - Wikipedia](https://en.wikipedia.org/wiki/Comparative_method_(linguistics)#Phonological_reconstruction)
 - [Reconstructing Phonology](https://glottopedia.org/wiki/Phonological_reconstruction)

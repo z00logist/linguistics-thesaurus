@@ -15,7 +15,7 @@ Corpus annotation involves the addition of linguistic information to a corpus, s
 - **Annotation Software** such as UAM CorpusTool and Brat.
 - **Tagsets** like the Penn Treebank tagset, providing a standardized system of tags.
 
-## External Links
+## Additional Resources
 
 - [Corpus Annotation - Wikipedia](https://en.wikipedia.org/wiki/Corpus_linguistics#Annotation)
 - [Introduction to Corpus Annotation](https://ucrel.lancs.ac.uk/acl/EACL2003/corpus_annotation_tutorial.pdf) (PDF)

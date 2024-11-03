@@ -32,7 +32,7 @@ Labov's study demonstrated that language use reflects social hierarchy. It was o
 
 Labov, W. (1966). *The Social Stratification of English in New York City*. Center for Applied Linguistics.  
 
-## External Links
+## Additional Resources
 
 - [William Labov's Website](https://www.ling.upenn.edu/~wlabov/)
 - [Sociolinguistics - Wikipedia](https://en.wikipedia.org/wiki/Sociolinguistics)

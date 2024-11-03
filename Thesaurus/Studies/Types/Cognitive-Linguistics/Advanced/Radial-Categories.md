@@ -24,7 +24,7 @@ Radial categories grow through cognitive mechanisms like metaphor, where one dom
 - [Conceptual Metaphor Theory](../Core/Conceptual-Metaphor-Theory.md)
 - [Cognitive Semantics](../Core/Cognitive-Semantics.md)
 
-## External Links
+## Additional Resources
 
 - [Radial Categories - Wikipedia](https://en.wikipedia.org/wiki/Radial_category)
 - [Polysemy and Radial Categories](https://www.sciencedirect.com/topics/psychology/radial-category)

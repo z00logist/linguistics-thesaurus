@@ -1,14 +1,11 @@
 # N-gram Models
 
 N-gram models are probabilistic language models that predict the next item in a sequence based on the n-1 previous items. They are foundational in computational linguistics for tasks like speech recognition and text prediction.
+  An n-gram is a contiguous sequence of n items from a given sample of text or speech:
 
-## Definition
-
-An n-gram is a contiguous sequence of n items from a given sample of text or speech.
-
-- **Unigram (n=1)**: Single words.
-- **Bigram (n=2)**: Pairs of consecutive words.
-- **Trigram (n=3)**: Triplets of consecutive words.
+- **Unigram (n=1)**
+- **Bigram (n=2)**
+- **Trigram (n=3)**
 
 ## Probability Estimation
 
@@ -20,20 +17,13 @@ In bigram models:
 
 **P(w₂ | w₁) = Count(w₁ w₂) / Count(w₁)**
 
-
-## Smoothing Techniques
-
-- **Laplace Smoothing**: Adds one to all counts to avoid zero probabilities.
-- **Good-Turing Discounting**: Adjusts the probability of unseen events.
-- **Backoff and Interpolation**: Combines higher and lower-order models.
-
 ## Related Topics
 
 - [Probabilistic Models](Probabilistic-Models.md)
 - [Language Modeling](Language-Modeling.md)
 - [Neural Networks in NLP](Neural-Networks-in-NLP.md)
 
-## External Links
+## Additional Resources
 
 - [N-gram Models - Wikipedia](https://en.wikipedia.org/wiki/N-gram)
 - [Language Modeling Tutorial](https://web.stanford.edu/class/cs124/lec/languagemodeling.pdf) (Stanford)
@@ -45,4 +35,4 @@ In bigram models:
 
 ---
 
-[Back to Computational Linguistics](README.md)
+[Back to Computational Linguistics](../README.md)

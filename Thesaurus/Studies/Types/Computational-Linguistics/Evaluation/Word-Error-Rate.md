@@ -2,24 +2,21 @@
 
 Word Error Rate (WER) is a common metric for evaluating the accuracy of speech recognition and translation systems by comparing a reference transcript with a hypothesis.
 
-## Calculation
+## How It’s Calculated
 
-WER is calculated using the formula:
+WER is calculated using the following formula:
 
-\[
-\text{WER} = \frac{\text{Insertions} + \text{Deletions} + \text{Substitutions}}{\text{Total Words in Reference}}
-\]
+WER = (Insertions + Deletions + Substitutions) / Total Words in Reference
 
-## Purpose
+## Why It’s Used
 
-- **Accuracy Measurement**: Assesses how closely the hypothesis matches the reference.
-- **System Evaluation**: Used to compare the performance of speech recognition systems.
+- Measures how closely the hypothesis aligns with the reference.
+- Helps in evaluating and comparing the performance of different speech recognition systems.
 
+## Additional Resources
 
-## External Links
-
-- [Word Error Rate - Wikipedia](https://en.wikipedia.org/wiki/Word_error_rate)
+- [Word Error Rate on Wikipedia](https://en.wikipedia.org/wiki/Word_error_rate)
 
 ---
 
-[Back to Computational Linguistics](README.md)
+[Back to Computational Linguistics](../README.md)

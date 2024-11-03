@@ -29,7 +29,7 @@ The phrase "the current president" points to a specific person, but the actual i
 - [Pragmatics](../Advanced/Pragmatics.md)
 - [Semantic Fields](../Advanced/Semantic-Fields.md)
 
-## External Links
+## Additional Resources
 
 - [Sense and Reference - Wikipedia](https://en.wikipedia.org/wiki/Sense_and_reference)
 - [Stanford Encyclopedia of Philosophy: Frege's Theory of Sense and Reference](https://plato.stanford.edu/entries/frege/#SenRef)

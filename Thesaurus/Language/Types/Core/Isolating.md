@@ -20,7 +20,7 @@ Languages in which words are typically composed of a single morpheme, and gramma
 
 - Comrie, B. (1989). *Language Universals and Linguistic Typology*. University of Chicago Press.
 
-## External Links
+## Additional Resources
 
 - [Isolating Language - Wikipedia](https://en.wikipedia.org/wiki/Isolating_language)
 - [Analytic Language - Glottopedia](http://www.glottopedia.org/index.php/Isolating_languages)

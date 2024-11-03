@@ -20,7 +20,7 @@ Language variation refers to the differences in language use across different re
 - [Dialectology](Dialectology.md)
 - [Sociolinguistics](Sociolinguistics.md)
 
-## External Links
+## Additional Resources
 
 - [Language Variation - Wikipedia](https://en.wikipedia.org/wiki/Language_variation)
 - [Dialects and Accents - University of Leeds](https://www.leeds.ac.uk/arts/info/125219/dialects_and_accents)

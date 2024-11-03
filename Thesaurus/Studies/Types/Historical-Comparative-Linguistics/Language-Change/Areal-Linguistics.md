@@ -19,7 +19,7 @@ Areal linguistics focuses on concepts such as the Sprachbund, which is a linguis
 
 Areal linguistics looks at phonological features like tonal systems, morphological aspects such as case systems, syntactic patterns including word order, and lexical borrowing.
 
-## External Links
+## Additional Resources
 
 - [Areal Linguistics - Wikipedia](https://en.wikipedia.org/wiki/Areal_linguistics)
 - [Sprachbund Studies](https://glottopedia.org/wiki/Sprachbund)

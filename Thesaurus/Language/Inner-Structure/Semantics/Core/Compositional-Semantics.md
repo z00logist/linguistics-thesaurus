@@ -15,7 +15,7 @@ Compositional semantics involves several core concepts:
 - **Type Theory** categorizes expressions and their meanings, aiding in the formal representation of language.
 
 
-## External Links
+## Additional Resources
 
 - [Compositional Semantics - Wikipedia](https://en.wikipedia.org/wiki/Compositional_semantics)
 - [Principle of Compositionality](https://plato.stanford.edu/entries/compositionality/)

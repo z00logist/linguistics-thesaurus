@@ -30,7 +30,7 @@ Explore these related concepts:
 - [Vowel](Vowel.md)
 - [Consonant](Consonant.md)
 
-## External Links
+## Additional Resources
 
 - [International Phonetic Alphabet - Wikipedia](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)
 - [Official IPA Chart](https://www.internationalphoneticassociation.org/content/ipa-chart)

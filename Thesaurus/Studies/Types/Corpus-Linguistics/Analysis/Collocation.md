@@ -18,7 +18,7 @@ Collocation refers to the habitual juxtaposition of a particular word with other
 - [Concordance](Concordance.md)
 - [N-grams](N-grams.md)
 
-## External Links
+## Additional Resources
 
 - [Collocation - Wikipedia](https://en.wikipedia.org/wiki/Collocation)
 - [The BBI Combinatory Dictionary of English](https://benjamins.com/catalog/z.bbi2)

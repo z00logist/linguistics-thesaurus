@@ -14,7 +14,7 @@ Force dynamics centers on several main ideas. The concept of an agonist refers t
 
 - [Image Schemas](Image-Schemas.md)
 
-## External Links
+## Additional Resources
 
 - [Force Dynamics - Wikipedia](https://en.wikipedia.org/wiki/Force_dynamics)
 - [Talmy's Force Dynamics](http://www.talmian.org/force-dynamics/)

@@ -11,7 +11,7 @@ Morphology is the branch of linguistics concerned with the form and internal str
 - [Word Formation](Word-Formation.md)
 - [Morphological Typology](Morphological-Typology.md)
 
-## External Links
+## Additional Resources
 
 - [Morphology (linguistics) - Wikipedia](https://en.wikipedia.org/wiki/Morphology_(linguistics))
 - [What is Morphology? - SIL International](https://glossary.sil.org/term/morphology)

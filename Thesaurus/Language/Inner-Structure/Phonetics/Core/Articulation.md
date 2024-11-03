@@ -35,7 +35,7 @@ The way sounds are articulated varies by how air is manipulated:
 - [Consonant](Consonant.md)
 - [Coarticulation](Coarticulation.md)
 
-## External Links
+## Additional Resources
 
 - [Articulatory Phonetics - Wikipedia](https://en.wikipedia.org/wiki/Articulatory_phonetics)
 - [The Vocal Tract - University of Iowa](https://soundsofspeech.uiowa.edu/)

@@ -1,36 +1,35 @@
 # Transformers
 
-Transformers are neural network architectures that rely entirely on self-attention mechanisms and dispense with recurrence and convolution. Introduced by Vaswani et al. (2017), they have become foundational in NLP.
+Transformers are a type of neural network architecture that use self-attention mechanisms and do not rely on recurrence or convolution. First introduced by Vaswani et al. in 2017, they have become a cornerstone in the field of NLP.
 
-## Key Components
+## Key Components of Transformers
 
-- **Self-Attention**: Allows the model to weigh the relevance of different words in a sequence.
-- **Positional Encoding**: Adds information about the position of words in the sequence.
-- **Encoder-Decoder Structure**: Consists of stacked layers of encoders and decoders.
+Transformers include several important features:
+- Self-attention allows the model to assign importance to different words within a sequence.
+- Positional encoding provides the model with information about the order of words in a sequence.
+- The architecture includes an encoder-decoder structure, built from multiple stacked layers.
 
-## Advantages
+Transformers Architecture:  
+![transformer](../../../../assets/transformer.png)
 
-- **Parallelization**: Enables faster training by processing sequences in parallel.
-- **Long-Range Dependencies**: Better at capturing relationships between distant words.
-- **State-of-the-Art Performance**: Forms the basis of models like BERT and GPT.
+## Why They Are Effective
 
+Transformers offer significant advantages:
+- They support parallelization, enabling faster training by processing entire sequences at once.
+- They are effective at capturing long-range dependencies between words, improving their understanding of context.
+- Transformers have set the benchmark for state-of-the-art performance and are the foundation for models like BERT and GPT.
 
-## Notable Models
+## Examples of Notable Models of Transformers Architecture
 
-- **BERT (Bidirectional Encoder Representations from Transformers)**: Pre-trained on large corpora for downstream tasks.
-- **GPT (Generative Pre-trained Transformer)**: Focuses on language generation tasks.
-- **T5 (Text-to-Text Transfer Transformer)**: Unified framework for various NLP tasks.
+Several well-known models are based on the transformer architecture:
+- BERT (Bidirectional Encoder Representations from Transformers) is pre-trained on large text corpora and fine-tuned for various NLP tasks.
+- GPT (Generative Pre-trained Transformer) is designed with a focus on generating human-like text.
+- T5 (Text-to-Text Transfer Transformer) provides a unified approach to handling a wide range of NLP tasks using a text-to-text format.
 
-## Related Topics
-
-- [Attention Mechanisms](Attention-Mechanisms.md)
-- [Neural Networks in NLP](Neural-Networks-in-NLP.md)
-- [Large Language Models](Large-Language-Models.md)
-
-## External Links
+## Additional Resources
 
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-- [Transformers - Hugging Face](https://huggingface.co/transformers/)
+- [Transformers on Hugging Face](https://huggingface.co/transformers/)
 
 ## Sources
 
@@ -39,4 +38,4 @@ Transformers are neural network architectures that rely entirely on self-attenti
 
 ---
 
-[Back to Computational Linguistics](README.md)
+[Back to Computational Linguistics](../README.md)

@@ -1,28 +1,24 @@
 # GloVe
 
-GloVe (Global Vectors for Word Representation) is an unsupervised learning algorithm for generating word embeddings by aggregating global word-word co-occurrence statistics from a corpus.
+GloVe, or Global Vectors for Word Representation, is an unsupervised algorithm designed to create word embeddings by using global word-word co-occurrence statistics from a corpus.
+
+Co-occurence matrix in GloVe:  
+![glove](../../../../assets/glove.png)
 
 ## Key Features
 
-- **Combines Count-Based and Predictive Methods**: Utilizes the advantages of both methods.
-- **Word Co-occurrence Matrix**: Constructs a matrix where each element represents the number of times a word appears in the context of another word.
-- **Objective Function**: Minimizes the difference between the dot product of word vectors and the logarithm of the words' probability of co-occurrence.
+GloVe combines the strengths of count-based and predictive methods, making it a powerful tool for generating word vectors. It builds a word co-occurrence matrix where each entry shows how often one word appears near another. The algorithm aims to minimize the difference between the dot product of word vectors and the logarithm of the probability of their co-occurrence.
 
 ## Advantages
 
-- **Semantic Relationships**: Captures linear substructures similar to Word2Vec.
-- **Performance**: Competitive with or better than Word2Vec on various tasks.
-- **Efficiency**: Training is faster for large corpora.
-
-
+GloVe captures semantic relationships in a way that highlights linear substructures, similar to Word2Vec. It is known for its strong performance across various tasks and can train efficiently even on large corpora.
 
 ## Related Topics
 
 - [Word Embeddings](Word-Embeddings.md)
 - [Word2Vec](Word2Vec.md)
-- [Neural Networks in NLP](../Neural-Networks-in-NLP.md)
 
-## External Links
+## Additional Resources
 
 - [GloVe Project Page](https://nlp.stanford.edu/projects/glove/)
 - [GloVe Explained](https://medium.com/@sonicboom8/glove-global-vectors-for-word-representation-5a262012210d)
@@ -33,4 +29,4 @@ GloVe (Global Vectors for Word Representation) is an unsupervised learning algor
 
 ---
 
-[Back to Word Embeddings](README.md)
+[Back to Computational Linguistics](../README.md)

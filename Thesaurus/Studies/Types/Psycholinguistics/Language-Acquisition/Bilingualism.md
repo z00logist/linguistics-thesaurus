@@ -31,7 +31,7 @@ Bilinguals face unique challenges and strategies in language processing:
 - [Language Acquisition](Language-Acquisition.md)
 - [Neurolinguistics](../Core/Neurolinguistics.md)
 
-## External Links
+## Additional Resources
 
 - [Bilingualism - Wikipedia](https://en.wikipedia.org/wiki/Bilingualism)
 - [Center for Applied Linguistics](https://www.cal.org/)

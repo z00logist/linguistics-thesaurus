@@ -39,7 +39,7 @@ Linguists use several methods to study language families. The comparative method
 - [Sound Change](Sound-Change.md)
 - [Language Classification](Language-Classification.md)
 
-## External Links
+## Additional Resources
 
 - [Language Family - Wikipedia](https://en.wikipedia.org/wiki/Language_family)
 - [Ethnologue Language Families](https://www.ethnologue.com/browse/families)

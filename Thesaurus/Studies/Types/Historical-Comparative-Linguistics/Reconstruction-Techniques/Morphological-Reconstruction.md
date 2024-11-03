@@ -16,7 +16,7 @@ The process involves several steps:
 4. Establish morphological rules that describe the historical changes that occurred.
 5. Validate the findings with phonological data to ensure consistency with sound reconstructions.
 
-## External Links
+## Additional Resources
 
 - [Morphological Reconstruction - Wikipedia](https://en.wikipedia.org/wiki/Morphological_reconstruction)
 - [Methods in Morphological Reconstruction](https://glottopedia.org/wiki/Morphological_reconstruction)

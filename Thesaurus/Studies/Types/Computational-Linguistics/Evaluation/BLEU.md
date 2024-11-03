@@ -15,12 +15,13 @@ Where:
 - \( p_n \) is the precision for n-grams.
 - \( w_n \) is the weight assigned to each n-gram.
 
-## Purpose
+## Why It’s Used
 
-- **Machine Translation Evaluation**: Measures how similar the generated translation is to the reference.
-- **Text Generation Assessment**: Used in evaluating models that generate text, such as summarization models.
+The BLEU score is mainly used for:
+- Evaluating machine translation by checking how closely the generated text matches human reference translations.
+- Assessing text generation models, like those used for summarization, although the ROUGE score is often preferred for that specific task.
 
-## External Links
+## Additional Resources
 
 - [BLEU Score - Wikipedia](https://en.wikipedia.org/wiki/BLEU)
 - [BLEU Article](https://aclanthology.org/P02-1040.pdf)

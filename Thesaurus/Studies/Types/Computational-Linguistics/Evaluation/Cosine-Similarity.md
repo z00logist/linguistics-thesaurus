@@ -2,17 +2,19 @@
 
 Cosine similarity is a measure used to determine the similarity between two non-zero vectors by calculating the cosine of the angle between them. In computational linguistics, it's often used for text similarity by comparing word or document vectors.
 
-## Purpose
+Cosine Similarity Formula:  
 
-- **Text Similarity**: Measures similarity between documents or sentences.
-- **Information Retrieval**: Helps rank documents by relevance.
-- **Semantic Analysis**: Detects contextual similarity.
+![Cosine](../../../../assets/cosine.png)
 
+**Cosine similarity** is valuable for several reasons:
+- It helps measure how similar documents or sentences are.
+- It plays a role in information retrieval by ranking documents based on relevance.
+- It assists in semantic analysis, allowing detection of contextual similarities between texts.
 
-## External Links
+## Additional Resources
 
 - [Cosine Similarity - Wikipedia](https://en.wikipedia.org/wiki/Cosine_similarity)
   
 ---
 
-[Back to Computational Linguistics](README.md)
+[Back to Computational Linguistics](../README.md)

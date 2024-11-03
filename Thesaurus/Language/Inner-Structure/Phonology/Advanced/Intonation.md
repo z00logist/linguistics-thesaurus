@@ -20,7 +20,7 @@ Intonation patterns can change the meaning or intent of a sentence:
 - [Prosody](Prosody.md)
 - [Tone](Tone.md)
 
-## External Links
+## Additional Resources
 
 - [Intonation (Linguistics) - Wikipedia](https://en.wikipedia.org/wiki/Intonation_(linguistics))
 - [Intonation - SIL International](https://glossary.sil.org/term/intonation)

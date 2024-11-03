@@ -21,7 +21,7 @@ Other notable studies include the Survey of English Dialects, which documented t
 - [Language Variation](Language-Variation.md)
 - [Sociolinguistics](Sociolinguistics.md)
 
-## External Links
+## Additional Resources
 
 - [Dialectology - Wikipedia](https://en.wikipedia.org/wiki/Dialectology)
 - [The British Library - Accents and Dialects](https://www.bl.uk/british-accents-and-dialects)

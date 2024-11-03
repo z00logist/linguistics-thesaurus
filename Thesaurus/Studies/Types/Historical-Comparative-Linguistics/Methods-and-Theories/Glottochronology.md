@@ -37,7 +37,7 @@ The method has its limitations:
 - Even basic vocabulary can sometimes be borrowed, impacting the accuracy.
 - The statistical models and assumptions behind glottochronology have been questioned for their reliability.
 
-## External Links
+## Additional Resources
 
 - [Glottochronology - Wikipedia](https://en.wikipedia.org/wiki/Glottochronology)
 - [Swadesh Lists](https://en.wiktionary.org/wiki/Appendix:Swadesh_lists)

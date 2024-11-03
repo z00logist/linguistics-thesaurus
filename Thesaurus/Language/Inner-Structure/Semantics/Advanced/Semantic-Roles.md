@@ -14,7 +14,7 @@ Semantic roles, also known as thematic roles or theta roles, describe the functi
 - **Goal**: The endpoint of movement (e.g., "to the store" in "He drove to the store").
 
 
-## External Links
+## Additional Resources
 
 - [Semantic Role - Wikipedia](https://en.wikipedia.org/wiki/Semantic_role)
 - [Semantic Roles in NLP](https://www.kdnuggets.com/2019/11/semantic-role-labeling-deep-learning.html)

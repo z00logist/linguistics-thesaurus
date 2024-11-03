@@ -26,7 +26,7 @@ Psycholinguistics covers various important areas, including:
 - [Neurolinguistics](Neurolinguistics.md)
 
 
-## External Links
+## Additional Resources
 
 - [Psycholinguistics - Wikipedia](https://en.wikipedia.org/wiki/Psycholinguistics)
 - [Society for Psycholinguistics](https://www.psycholinguistics.org/)

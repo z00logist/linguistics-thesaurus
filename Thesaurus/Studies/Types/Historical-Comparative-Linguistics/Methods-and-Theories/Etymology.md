@@ -15,7 +15,7 @@ Etymologists use several methods to trace word histories:
 - Phonological analysis helps understand sound changes that link words historically.
 - Morphological analysis studies the processes involved in word formation.
 
-## External Links
+## Additional Resources
 
 - [Etymology - Wikipedia](https://en.wikipedia.org/wiki/Etymology)
 - [Online Etymology Dictionary](https://www.etymonline.com/)

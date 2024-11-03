@@ -1,24 +1,16 @@
 # Computational Linguistics
 
-Computational linguistics is an interdisciplinary field concerned with the computational modeling of natural language. It encompasses both theoretical and applied aspects, aiming to understand language from a computational perspective and to develop applications that process and generate human language.
-
+Computational linguistics is an interdisciplinary field that focuses on using computational methods to model and understand natural language. It covers both theoretical research and practical applications, aiming to deepen our understanding of language through computational techniques and to create systems that can process and generate human language.
 
 ## Subfields
 
-- **Natural Language Processing (NLP)**: Development of algorithms to process and analyze language data.
-- **Speech Recognition and Synthesis**: Converting speech to text and vice versa.
-- **Machine Translation**: Automatic translation between languages.
-- **Computational Semantics**: Understanding and representing meaning computationally.
-- **Computational Phonology and Morphology**: Modeling sound patterns and word structures.
+- Natural Language Processing (NLP) involves creating algorithms to analyze and process language data.
+- Speech recognition and synthesis enable the conversion of spoken language into text and text back into speech.
+- Machine translation automates the translation of text or speech from one language to another.
+- Computational semantics seeks to represent and interpret meaning using computational methods.
+- Computational phonology and morphology model sound patterns and word structures in a language.
 
-
-## Related Topics
-
-- [Natural Language Processing](Natural-Language-Processing.md)
-- [N-gram Models](N-gram-Models.md)
-- [Word Embeddings](Word-Embeddings/README.md)
-
-## External Links
+## Additional Resources
 
 - [Computational Linguistics - Wikipedia](https://en.wikipedia.org/wiki/Computational_linguistics)
 - [Association for Computational Linguistics](https://www.aclweb.org/)
@@ -30,4 +22,4 @@ Computational linguistics is an interdisciplinary field concerned with the compu
 
 ---
 
-[Back to Computational Linguistics](README.md)
+[Back to Computational Linguistics](../README.md)

@@ -17,7 +17,7 @@ Examples of Prototype Theory in action include:
 - **Birds**: A robin is often seen as a more typical bird than a penguin, which has more unique features.
 - **Furniture**: A chair fits the category more easily than a lamp, showing that categories can have varying levels of typicality.
 
-## External Links
+## Additional Resources
 
 - [Prototype Theory - Wikipedia](https://en.wikipedia.org/wiki/Prototype_theory)
 - [Eleanor Rosch's Research](https://psychology.berkeley.edu/people/eleanor-rosch)

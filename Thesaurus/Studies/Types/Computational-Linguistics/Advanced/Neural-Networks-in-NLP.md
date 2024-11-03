@@ -1,15 +1,14 @@
 # Neural Networks in NLP
 
-Neural networks are computational models inspired by the human brain's structure, and they have been applied extensively in NLP to model complex patterns in language data.
+Neural networks are computational models inspired by how the human brain works. They have become a powerful tool in NLP, allowing models to recognize and learn complex language patterns.
 
 ## Types of Neural Networks
 
-- **Feedforward Neural Networks**: Basic architecture where information flows in one direction.
-- **Recurrent Neural Networks (RNNs)**: Designed for sequential data; include memory of previous inputs.
-- **Long Short-Term Memory Networks (LSTMs)**: A type of RNN that can learn long-term dependencies.
-- **Convolutional Neural Networks (CNNs)**: Used for capturing local features, effective in text classification.
-- **Transformer Networks**: Utilize attention mechanisms to handle dependencies without recurrence.
-
+- Feedforward neural networks are the simplest type, where data moves in one direction.
+- Recurrent neural networks (RNNs) are designed for sequences, retaining information about previous inputs to handle context.
+- Long Short-Term Memory networks (LSTMs) are a kind of RNN capable of learning long-term dependencies in data.
+- Convolutional neural networks (CNNs) capture local patterns effectively, making them useful for tasks like text classification.
+- Transformer networks use attention mechanisms to manage dependencies, eliminating the need for sequential processing.
 
 ## Related Topics
 
@@ -17,7 +16,7 @@ Neural networks are computational models inspired by the human brain's structure
 - [Attention Mechanisms](Attention-Mechanisms.md)
 - [Transformers](Transformers.md)
 
-## External Links
+## Additional Resources
 
 - [Neural Networks for NLP - Coursera](https://www.coursera.org/learn/deep-neural-networks-with-pytorch)
 - [Deep Learning Book](https://www.deeplearningbook.org/) by Goodfellow, Bengio, and Courville
@@ -29,4 +28,4 @@ Neural networks are computational models inspired by the human brain's structure
 
 ---
 
-[Back to Computational Linguistics](README.md)
+[Back to Computational Linguistics](../README.md)

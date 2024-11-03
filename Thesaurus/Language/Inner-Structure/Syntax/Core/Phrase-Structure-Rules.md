@@ -13,7 +13,7 @@ Phrase structure rules describe the possible structures of phrases and sentences
   - A sentence (S) consists of a noun phrase (NP) followed by a verb phrase (VP).
 
 
-## External Links
+## Additional Resources
 
 - [Phrase Structure Rules - Wikipedia](https://en.wikipedia.org/wiki/Phrase_structure_rules)
 - [Phrase Structure - SIL International](https://glossary.sil.org/term/phrase-structure)

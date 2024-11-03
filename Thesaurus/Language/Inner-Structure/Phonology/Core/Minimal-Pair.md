@@ -21,7 +21,7 @@ For more on related concepts, see:
 - [Phoneme](Phoneme.md)
 - [Allophone](../Phonology/Allophone.md)
 
-## External Links
+## Additional Resources
 
 - [Minimal Pair - Wikipedia](https://en.wikipedia.org/wiki/Minimal_pair)
 - [Minimal Pairs in English - Practice](https://www.englishclub.com/pronunciation/minimal-pairs.htm)

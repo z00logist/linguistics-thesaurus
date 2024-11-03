@@ -14,7 +14,7 @@ Theoretical concepts in cognitive semantics include image schemas, which are rec
 
 Examples in cognitive semantics illustrate how we use language to reflect our experiences. Spatial prepositions like "in," "on," and "over" are understood through their underlying spatial relationships. Metaphorical mappings, such as "time is money," show how abstract ideas are conceptualized using more concrete experiences.
 
-## External Links
+## Additional Resources
 
 - [Cognitive Semantics - Wikipedia](https://en.wikipedia.org/wiki/Cognitive_semantics)
 - [Introduction to Cognitive Semantics](https://www.sciencedirect.com/topics/computer-science/cognitive-semantics)

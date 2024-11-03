@@ -36,7 +36,7 @@ Explore more with these related topics:
 - [Consonant](Consonant.md)
 - [International Phonetic Alphabet (IPA)](International-Phonetic-Alphabet.md)
 
-## External Links
+## Additional Resources
 
 For more information:
 

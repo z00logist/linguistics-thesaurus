@@ -13,12 +13,12 @@ The method looks at irregularities, such as anomalies in word forms, to infer hi
 3. Formulate rules describing the changes that may have occurred.
 4. Validate findings to ensure consistency and plausibility within the language.
 
-## External Links
+## Additional Resources
 
 - [Internal Reconstruction - Wikipedia](https://en.wikipedia.org/wiki/Internal_reconstruction)
 - [Methods of Internal Reconstruction](https://glottopedia.org/wiki/Internal_reconstruction)
 
-## References
+## Sources
 
 - Hock, H. H. (1991). *Principles of Historical Linguistics*. Mouton de Gruyter.
 - Trask, R. L. (1996). *Historical Linguistics*. Arnold.

@@ -21,7 +21,7 @@ Examples of code-switching can be seen in various multilingual settings:
 - **Spanglish** is a mix of Spanish and English, common in the United States, where speakers fluidly switch between the two languages.
 - **Singlish** in Singapore blends English with Chinese, Malay, and Tamil, reflecting the country’s rich linguistic diversity.
 
-## External Links
+## Additional Resources
 
 - [Code-Switching - Wikipedia](https://en.wikipedia.org/wiki/Code-switching)
 - [The Code-Switching Phenomenon - Linguistic Society of America](https://www.linguisticsociety.org/content/code-switching)

@@ -27,7 +27,7 @@ Language contact can have several effects:
 - Structural borrowing affects phonology, morphology, or syntax, incorporating elements from another language.
 - Language convergence results in languages becoming more alike over time due to sustained contact.
 
-## External Links
+## Additional Resources
 
 - [Language Contact - Wikipedia](https://en.wikipedia.org/wiki/Language_contact)
 - [Studies in Language Contact](https://www.sciencedirect.com/topics/social-sciences/language-contact)

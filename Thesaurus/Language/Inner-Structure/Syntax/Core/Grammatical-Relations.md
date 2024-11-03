@@ -14,7 +14,7 @@ Grammatical relations are the roles that constituents play in a sentence, such a
   - "She is a *doctor*."
 
 
-## External Links
+## Additional Resources
 
 - [Grammatical Relation - Wikipedia](https://en.wikipedia.org/wiki/Grammatical_relation)
 - [Grammatical Functions - SIL International](https://glossary.sil.org/term/grammatical-function)

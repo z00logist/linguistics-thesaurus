@@ -26,7 +26,7 @@ Morphemes are categorized based on their ability to stand alone.
 - [Morpheme](Morpheme.md)
 - [Word Formation](Word-Formation.md)
 
-## External Links
+## Additional Resources
 
 - [Morpheme - Types - Wikipedia](https://en.wikipedia.org/wiki/Morpheme#Types_of_morphemes)
 - [Bound and Free Morphemes - ThoughtCo](https://www.thoughtco.com/free-morpheme-words-and-word-elements-1690873)

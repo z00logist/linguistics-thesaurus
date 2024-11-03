@@ -18,7 +18,7 @@ Coarticulation is the phenomenon where speech sounds overlap and influence each 
 - [Articulation](../Core/Articulation.md)
 - [Assimilation](Assimilation.md)
 
-## External Links
+## Additional Resources
 
 - [Coarticulation - Wikipedia](https://en.wikipedia.org/wiki/Coarticulation)
 - [Speech Production - Acoustics and Phonetics](http://www.phon.ox.ac.uk/jcoleman/SPA_Phonetics3.pdf)

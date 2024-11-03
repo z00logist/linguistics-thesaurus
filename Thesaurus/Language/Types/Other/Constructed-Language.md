@@ -11,9 +11,9 @@ Constructed languages, or "conlangs," are languages that have been intentionally
 
 ## Related Topics
 
-- [BNF](../../Studies/Types/Computational-Linguistics/Language-Models/Backus-Nauer-Form.md)
+- [BNF](../../Studies/Types/Computational-Linguistics/Advanced/Backus-Nauer-Form.md)
 
-## External Links
+## Additional Resources
 
 - [Constructed Language - Wikipedia](https://en.wikipedia.org/wiki/Constructed_language)
 - [The Conlang Society](https://conlang.org/)

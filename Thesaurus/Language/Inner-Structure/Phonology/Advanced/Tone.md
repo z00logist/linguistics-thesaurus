@@ -23,7 +23,7 @@ Tone involves using pitch to convey different meanings or grammatical nuances in
 - [Prosody](Prosody.md)
 - [Intonation](Intonation.md)
 
-## External Links
+## Additional Resources
 
 - [Tone (Linguistics) - Wikipedia](https://en.wikipedia.org/wiki/Tone_(linguistics))
 - [Tone - SIL International](https://glossary.sil.org/term/tone)

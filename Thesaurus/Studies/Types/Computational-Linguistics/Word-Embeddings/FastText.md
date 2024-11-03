@@ -1,19 +1,10 @@
 # FastText
 
-FastText is a library developed by Facebook's AI Research (FAIR) lab for efficient learning of word representations and sentence classification. It extends Word2Vec by considering subword information.
+FastText is a library created by Facebook's AI Research (FAIR) lab for learning word representations and performing sentence classification efficiently. Unlike Word2Vec, FastText includes subword information in its modeling.
 
 ## Key Features
 
-- **Subword Information**: Models words as n-grams of characters, capturing morphology.
-- **OOV Words**: Can generate embeddings for out-of-vocabulary words by summing up subword vectors.
-- **Efficiency**: Designed to be fast and scalable.
-
-## Advantages
-
-- **Handling Rare Words**: Better representations for rare and misspelled words.
-- **Morphological Richness**: Particularly useful for morphologically rich languages.
-- **Classification Tasks**: Provides efficient text classification capabilities.
-
+FastText models words using character n-grams, allowing it to capture word morphology. This approach enables it to generate embeddings for out-of-vocabulary (OOV) words by combining subword vectors. The library is known for its speed and scalability. FastText excels in handling rare and misspelled words, making it especially useful for morphologically rich languages. It also offers efficient text classification capabilities that are beneficial for various NLP tasks.
 
 ## Related Topics
 
@@ -21,9 +12,9 @@ FastText is a library developed by Facebook's AI Research (FAIR) lab for efficie
 - [Word2Vec](Word2Vec.md)
 - [GloVe](GloVe.md)
 
-## External Links
+## Additional Resources
 
-- [FastText Website](https://fasttext.cc/)
+- [FastText Official Website](https://fasttext.cc/)
 - [FastText Tutorial](https://fasttext.cc/docs/en/tutorial.html)
 
 ## Sources
@@ -33,4 +24,4 @@ FastText is a library developed by Facebook's AI Research (FAIR) lab for efficie
 
 ---
 
-[Back to Word Embeddings](README.md)
+[Back to Computational Linguistics](../README.md)

@@ -23,7 +23,7 @@ Explore more about related concepts:
 - [Phoneme](Phoneme.md)
 - [Minimal Pair](Minimal-Pair.md)
 
-## External Links
+## Additional Resources
 
 - [Allophone - Wikipedia](https://en.wikipedia.org/wiki/Allophone)
 - [Allophone - SIL International](https://glossary.sil.org/term/allophone)

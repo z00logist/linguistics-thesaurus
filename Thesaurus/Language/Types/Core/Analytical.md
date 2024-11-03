@@ -19,7 +19,7 @@ Languages that convey grammatical relationships without using inflectional morph
 
 - Comrie, B. (1989). *Language Universals and Linguistic Typology*. University of Chicago Press.
 
-## External Links
+## Additional Resources
 
 - [Analytic Language - Wikipedia](https://en.wikipedia.org/wiki/Analytic_language)
 

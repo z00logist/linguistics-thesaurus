@@ -16,7 +16,7 @@ Intersubjectivity involves the shared understanding and common knowledge between
 - [Cognitive Semantics](../Core/Cognitive-Semantics.md)
 - [Embodiment in Language](../Core/Embodiment-in-Language.md)
 
-## External Links
+## Additional Resources
 
 - [Subjectivity - Wikipedia](https://en.wikipedia.org/wiki/Subjectivity)
 - [Intersubjectivity - Wikipedia](https://en.wikipedia.org/wiki/Intersubjectivity)

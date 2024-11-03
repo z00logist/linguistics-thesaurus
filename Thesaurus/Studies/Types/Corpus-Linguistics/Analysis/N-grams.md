@@ -9,7 +9,7 @@ An n-gram is a sequence of n items taken from a given sample of text or speech. 
 - **Trigrams (3-grams)** are triplets of consecutive words.
 - **Higher-order n-grams** consist of sequences with four or more words.
 
-## External Links
+## Additional Resources
 
 - [N-gram - Wikipedia](https://en.wikipedia.org/wiki/N-gram)
 - [Google Ngram Viewer](https://books.google.com/ngrams)

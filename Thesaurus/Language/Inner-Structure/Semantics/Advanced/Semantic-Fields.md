@@ -16,7 +16,7 @@ Semantic fields encompass a few important ideas:
 - **Kinship Terms**: Mother, father, brother, sister.
 - **Emotions**: Happiness, sadness, anger, fear.
 
-## External Links
+## Additional Resources
 
 - [Semantic Field - Wikipedia](https://en.wikipedia.org/wiki/Semantic_field)
 - [Semantic Fields in Linguistics](https://www.linguisticsociety.org/resource/lexicon)

@@ -28,7 +28,7 @@ Some common examples include:
 - [Vowel](../Core.Vowel.md)
 - [Articulation](Articulation.md)
 
-## External Links
+## Additional Resources
 
 - [Consonant - Wikipedia](https://en.wikipedia.org/wiki/Consonant)
 - [Interactive IPA Chart - International Phonetic Association](https://www.internationalphoneticassociation.org/content/ipa-chart)

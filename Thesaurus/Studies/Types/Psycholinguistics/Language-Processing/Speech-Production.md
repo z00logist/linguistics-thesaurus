@@ -14,7 +14,7 @@ Different models explain how speech production works. Levelt's Model outlines th
 
 Speech errors offer insight into underlying processes. Slips of the tongue include errors like anticipation, such as saying "Bake my bike" instead of "Take my bike," and exchanges, like "I must let the house out of the cat." Tip-of-the-tongue states occur when a person temporarily cannot recall a word.
 
-## External Links
+## Additional Resources
 
 - [Speech Production - Wikipedia](https://en.wikipedia.org/wiki/Speech_production)
 - [Understanding Speech Production](https://www.ncbi.nlm.nih.gov/books/NBK10977/)

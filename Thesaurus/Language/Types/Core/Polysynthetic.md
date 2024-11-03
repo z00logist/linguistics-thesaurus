@@ -18,7 +18,7 @@ Languages that use extensive affixation to express complex meanings within singl
 
 - Fortescue, M. (1984). *West Greenlandic*. Croom Helm.
 
-## External Links
+## Additional Resources
 
 - [Polysynthetic Language - Wikipedia](https://en.wikipedia.org/wiki/Polysynthetic_language)
 - [Polysynthesis - Glottopedia](http://www.glottopedia.org/index.php/Polysynthesis)

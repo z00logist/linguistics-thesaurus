@@ -29,7 +29,7 @@ Some common examples of English vowels include:
 - [International Phonetic Alphabet (IPA)](International-Phonetic-Alphabet.md)
 - [Articulation](Articulation.md)
 
-## External Links
+## Additional Resources
 
 - [Vowel - Wikipedia](https://en.wikipedia.org/wiki/Vowel)
 - [Interactive IPA Chart - International Phonetic Association](https://www.internationalphoneticassociation.org/content/ipa-chart)

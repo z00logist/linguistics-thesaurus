@@ -25,7 +25,7 @@ Conceptual Metaphor Theory (CMT) posits that metaphors are not just linguistic e
 - [Embodiment in Language](Embodiment-in-Language.md)
 - [Mental Spaces Theory](Mental-Spaces-Theory.md)
 
-## External Links
+## Additional Resources
 
 - [Conceptual Metaphor - Wikipedia](https://en.wikipedia.org/wiki/Conceptual_metaphor)
 - [Metaphor Map of English](http://metaphormap.ihmc.us/)

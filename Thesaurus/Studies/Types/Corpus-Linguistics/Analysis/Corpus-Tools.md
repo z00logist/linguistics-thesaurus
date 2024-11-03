@@ -21,7 +21,7 @@ Corpus tools are software applications designed to compile, manage, and analyze 
 - [Corpus Annotation](../Core/Corpus-Annotation.md)
 - [Corpus Linguistics](../Core/Corpus-Linguistics.md)
 
-## External Links
+## Additional Resources
 
 - [AntConc Software](https://www.laurenceanthony.net/software/antconc/)
 - [Sketch Engine](https://www.sketchengine.eu/)

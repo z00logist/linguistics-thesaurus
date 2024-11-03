@@ -34,7 +34,7 @@ While Zipf’s Law explains word frequency patterns within a text, Heaps' Law lo
 - [Heaps' Law on Wikipedia](https://en.wikipedia.org/wiki/Heaps%27_law)
 - [Stanford NLP Guide](https://nlp.stanford.edu/IR-book/html/htmledition/heaps-law-1.html)
 
-## References
+## Sources
 
 - Heaps, H. S. (1978). *Information Retrieval: Computational and Theoretical Aspects*. Academic Press.
 - Baayen, R. H. (2001). *Word Frequency Distributions*. Kluwer Academic Publishers.

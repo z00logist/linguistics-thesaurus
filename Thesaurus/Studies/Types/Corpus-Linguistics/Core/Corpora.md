@@ -28,7 +28,7 @@ A corpus (plural: corpora) is a large, structured set of texts, often stored ele
 - [Corpus Annotation](Corpus-Annotation.md)
 - [Corpus Tools](Corpus-Tools.md)
 
-## External Links
+## Additional Resources
 
 - [List of Text Corpora - Wikipedia](https://en.wikipedia.org/wiki/List_of_text_corpora)
 - [Oxford Text Archive](https://ota.ox.ac.uk/)

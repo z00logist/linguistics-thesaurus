@@ -14,7 +14,7 @@ The field includes various topics that show how the brain manages language. Lang
 
 - [Language Disorders](../Language-Acquisition/Language-Disorders.md)
 
-## External Links
+## Additional Resources
 
 - [Neurolinguistics - Wikipedia](https://en.wikipedia.org/wiki/Neurolinguistics)
 - [Society for the Neurobiology of Language](https://www.neurolang.org/)

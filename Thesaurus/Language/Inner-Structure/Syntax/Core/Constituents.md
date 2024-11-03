@@ -19,7 +19,7 @@ Constituents are words or groups of words that function as a single unit within 
 - **Adjective Phrase (AdjP)**
 - **Adverb Phrase (AdvP)**
 
-## External Links
+## Additional Resources
 
 - [Constituent (Linguistics) - Wikipedia](https://en.wikipedia.org/wiki/Constituent_(linguistics))
 - [Constituency Tests - SIL International](https://glossary.sil.org/term/constituency-tests)

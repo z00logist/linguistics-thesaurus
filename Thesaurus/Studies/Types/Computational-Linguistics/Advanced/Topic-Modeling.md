@@ -1,22 +1,23 @@
 # Topic Modeling
 
-Topic modeling is a technique in natural language processing used to discover the hidden thematic structure in large collections of text. By identifying recurring words and patterns, topic modeling can uncover the main topics present within a corpus, aiding in understanding and summarizing large datasets.
+Topic modeling is a technique in natural language processing that uncovers hidden themes within large sets of text. By recognizing recurring words and patterns, it helps identify the main topics in a corpus, making it easier to understand and summarize extensive datasets.
 
 ## Purpose
 
-- **Identifying Themes**: Extracts topics that characterize the main themes within documents.
-- **Dimensionality Reduction**: Reduces large corpora to a smaller set of topics, simplifying analysis.
-- **Document Clustering**: Groups similar documents based on shared topics, useful for categorization.
+- Identifies themes that represent the core ideas in documents.
+- Reduces the complexity of large collections by condensing them into a smaller set of topics.
+- Clusters documents based on shared topics, aiding in organization and categorization.
+
+How Topic Modeling works. High-level representation:
+![Topic Modeling](../../../../assets/topic_modeling.png)
 
 ## Common Techniques
 
-- **Latent Dirichlet Allocation (LDA)**: A probabilistic model that assumes each document is a mixture of topics, and each topic is a mixture of words.
-- **Non-Negative Matrix Factorization (NMF)**: A linear algebra approach that decomposes document-term matrices into topics and word distributions.
-- **Latent Semantic Analysis (LSA)**: Reduces dimensionality by identifying patterns in term-document matrices through singular value decomposition (SVD).
+- Latent Dirichlet Allocation (LDA) is a probabilistic approach that treats documents as a combination of topics and topics as a mix of words.
+- Non-Negative Matrix Factorization (NMF) uses linear algebra to break down document-term matrices into topics and their word distributions.
+- Latent Semantic Analysis (LSA) applies singular value decomposition (SVD) to term-document matrices, uncovering patterns that represent topics.
 
-
-
-## External Links
+## Additional Resources
 
 - [Topic Modeling - Wikipedia](https://en.wikipedia.org/wiki/Topic_model)
 - [Gensim Topic Modeling](https://radimrehurek.com/gensim/)
@@ -29,4 +30,4 @@ Topic modeling is a technique in natural language processing used to discover th
 
 ---
 
-[Back to Topics](README.md)
+[Back to Computational Linguistics](../README.md)

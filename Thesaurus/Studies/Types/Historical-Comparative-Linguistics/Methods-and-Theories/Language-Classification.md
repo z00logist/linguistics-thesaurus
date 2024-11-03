@@ -32,7 +32,7 @@ Explore more about:
 
 - [Areal Linguistics](../Language-Change/Areal-Linguistics.md)
 
-## External Links
+## Additional Resources
 
 - [Language Classification - Wikipedia](https://en.wikipedia.org/wiki/Language_classification)
 - [World Atlas of Language Structures](https://wals.info/)

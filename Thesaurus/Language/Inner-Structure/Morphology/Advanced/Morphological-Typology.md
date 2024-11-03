@@ -22,7 +22,7 @@ Morphological typology is the classification of languages based on their morphol
 - [Agglutinative Languages](../../Types/Agglutinative-Languages.md)
 - [Isolating Languages](../../Types/Isolating-Languages.md)
 
-## External Links
+## Additional Resources
 
 - [Morphological Typology - Wikipedia](https://en.wikipedia.org/wiki/Morphological_typology)
 - [Language Typology - SIL International](https://glossary.sil.org/term/language-typology)

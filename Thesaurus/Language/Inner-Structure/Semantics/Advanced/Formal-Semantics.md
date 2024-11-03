@@ -19,7 +19,7 @@ Formal semantics encompasses different methods, such as:
 - **Possible Worlds Semantics**, which analyzes meaning by considering different potential states of the world.
 
 
-## External Links
+## Additional Resources
 
 - [Formal Semantics - Wikipedia](https://en.wikipedia.org/wiki/Formal_semantics_(linguistics))
 - [Introduction to Formal Semantics](https://plato.stanford.edu/entries/semantics-lexicon/)

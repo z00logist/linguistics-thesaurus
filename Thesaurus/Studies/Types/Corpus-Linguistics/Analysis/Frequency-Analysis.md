@@ -19,7 +19,7 @@ Frequency analysis examines how often words or linguistic structures appear in a
 - [Zipf's Law](../Laws/Zipf's-Law.md)
 - [N-grams](N-grams.md)
 
-## External Links
+## Additional Resources
 
 - [Frequency Analysis - Wikipedia](https://en.wikipedia.org/wiki/Frequency_analysis)
 - [The Oxford 3000 Word List](https://www.oxfordlearnersdictionaries.com/wordlist/oxford3000/)

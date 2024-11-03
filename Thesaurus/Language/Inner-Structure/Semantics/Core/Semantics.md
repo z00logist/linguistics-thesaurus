@@ -17,7 +17,7 @@ Semantics covers several important areas:
 - [Syntax](../../Syntax/README.md)
 - [Cognitive Linguistics](../../Types/Cognitive-Linguistics/README.md)
 
-## External Links
+## Additional Resources
 
 - [Semantics - Wikipedia](https://en.wikipedia.org/wiki/Semantics)
 - [Introduction to Semantics](https://www.linguisticsociety.org/resource/semantics)

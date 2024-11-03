@@ -19,7 +19,7 @@ Blending Theory can be seen in many examples. The riddle of the Sphinx combines 
 - [Conceptual Integration](Conceptual-Integration.md)
 - [Mental Spaces Theory](Mental-Spaces-Theory.md)
 
-## External Links
+## Additional Resources
 
 - [Conceptual Blending - Wikipedia](https://en.wikipedia.org/wiki/Conceptual_blending)
 - [Blending and Metaphor](https://www.academia.edu/37730340/Conceptual_Blending_and_Metaphor)

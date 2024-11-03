@@ -17,7 +17,7 @@ Mental spaces are used in many everyday situations:
 - When imagining a different perspective, as in "If I were you, I would go."
 - In role-playing scenarios, such as "In the game, I'm the knight."
 
-## External Links
+## Additional Resources
 
 - [Mental Spaces - Wikipedia](https://en.wikipedia.org/wiki/Mental_space)
 - [Fauconnier's Work on Mental Spaces](http://cogsci.ucsd.edu/~faucon/)

@@ -24,7 +24,7 @@ Examples of embodied cognition in practice include:
 - [Embodiment in Language](Embodiment-in-Language.md)
 - [Image Schemas](Image-Schemas.md)
 
-## External Links
+## Additional Resources
 
 - [Embodied Cognition - Wikipedia](https://en.wikipedia.org/wiki/Embodied_cognition)
 - [The MIT Encyclopedia of Cognitive Sciences](https://mitpress.mit.edu/books/mit-encyclopedia-cognitive-sciences)

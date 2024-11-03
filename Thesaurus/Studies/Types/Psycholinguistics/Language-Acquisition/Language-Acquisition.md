@@ -32,7 +32,7 @@ Several theories explain how language is acquired:
 - [Bilingualism](Bilingualism.md)
 - [Language Disorders](Language-Disorders.md)
 
-## External Links
+## Additional Resources
 
 - [Language Acquisition - Wikipedia](https://en.wikipedia.org/wiki/Language_acquisition)
 - [First Language Acquisition Theories](https://www.simplypsychology.org/language.html)

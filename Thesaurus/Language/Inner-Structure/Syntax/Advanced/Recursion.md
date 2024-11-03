@@ -14,7 +14,7 @@ Recursion is the property of language that allows for the embedding of structure
 
 - [Universal Grammar](Universal-Grammar.md)
 
-## External Links
+## Additional Resources
 
 - [Recursion (Linguistics) - Wikipedia](https://en.wikipedia.org/wiki/Recursion_(linguistics))
 - [Recursion - SIL International](https://glossary.sil.org/term/recursion)

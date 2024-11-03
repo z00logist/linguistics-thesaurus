@@ -11,7 +11,7 @@ Categorization relies on a few main concepts. Mental representations of categori
 - [Prototype Theory](Prototype-Theory.md)
 - [Radial Categories](../Advanced/Radial-Categories.md)
 
-## External Links
+## Additional Resources
 
 - [Categorization - Wikipedia](https://en.wikipedia.org/wiki/Categorization)
 - [Concepts and Categories](https://plato.stanford.edu/entries/concepts/)

@@ -21,7 +21,7 @@ Sound change refers to systematic alterations in pronunciation that occur within
 - [Phonetics](../../Language/Inner-Structure/Phonetics/Phonetics.md)
 - [Phonology](../../Language/Inner-Structure/Phonology/Phonology.md)
 
-## External Links
+## Additional Resources
 
 - [Sound Change - Wikipedia](https://en.wikipedia.org/wiki/Sound_change)
 - [Historical Sound Changes](https://glottopedia.org/wiki/Sound_change)

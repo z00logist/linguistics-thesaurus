@@ -17,7 +17,7 @@ Key concepts in historical-comparative linguistics include sound change, where s
 - [Sociolinguistics](../../Sociolinguistics/README.md)
 - [Areal Linguistics](../Language-Change/Areal-Linguistics.md)
 
-## External Links
+## Additional Resources
 
 - [Historical Linguistics - Wikipedia](https://en.wikipedia.org/wiki/Historical_linguistics)
 - [Introduction to Historical Linguistics](https://www.linguisticsociety.org/resource/historical-linguistics)

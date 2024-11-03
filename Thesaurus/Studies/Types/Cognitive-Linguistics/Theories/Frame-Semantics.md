@@ -26,7 +26,7 @@ Frame semantics is a theory that relates linguistic semantics to encyclopedic kn
 
 - [Semantic Roles](../../Language/Inner-Structure/Semantics/Semantic-Roles.md)
 
-## External Links
+## Additional Resources
 
 - [Frame Semantics - Wikipedia](https://en.wikipedia.org/wiki/Frame_semantics_(linguistics))
 - [FrameNet Project](https://framenet.icsi.berkeley.edu/)
