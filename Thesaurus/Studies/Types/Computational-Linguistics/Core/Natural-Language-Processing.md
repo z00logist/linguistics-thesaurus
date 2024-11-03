@@ -19,9 +19,8 @@ Natural Language Processing is a subfield of artificial intelligence focused on 
 
 ## Related Topics
 
-- [N-gram Models](N-gram-Models.md)
-- [Probabilistic Models](Probabilistic-Models.md)
-- [Neural Networks in NLP](Neural-Networks-in-NLP.md)
+- [N-gram Models](../Language-Models/N-gram-Models.md)
+- [Probabilistic Models](../Language-Models/Probabilistic-Models.md)
 
 ## Additional Resources
 
