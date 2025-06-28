@@ -1,0 +1,17 @@
+[project]
+name = "linguistics-thesaurus"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "boto3>=1.38.46",
+    "pymongo>=4.13.2",
+    "python-dotenv>=1.1.1",
+    "python-frontmatter>=1.1.0",
+    "rich>=13.0.0",
+    "sentence-transformers>=4.1.0",
+    "tqdm>=4.67.1",
+    "typer[all]>=0.16.0",
+    "weaviate-client>=4.15.4",
+]
