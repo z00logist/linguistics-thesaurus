@@ -52,6 +52,71 @@ Explore the various disciplines within linguistics that analyze different aspect
     - Learn how computational methods are applied to the analysis and processing of language, covering everything from [Language Models](Thesaurus/Studies/Types/Computational-Linguistics/Language-Models/README.md) to [Text Preprocessing](Thesaurus/Studies/Types/Computational-Linguistics/Text-Preprocessing/README.md).
 
 
+## Setup and Usage
+
+This repository now includes a comprehensive CLI tool with database integration for advanced linguistic data management and search capabilities.
+
+### Prerequisites
+
+- Python 3.12+
+- [uv](https://docs.astral.sh/uv/) package manager
+- Docker and Docker Compose
+
+### Quick Start
+
+1. **Initialize the project with uv:**
+   ```bash
+   uv init
+   uv sync
+   ```
+
+2. **Set up environment variables:**
+   ```bash
+   cp .env.example .env
+   # Edit .env with your preferred settings if needed
+   ```
+
+3. **Start the database services:**
+   ```bash
+   docker-compose up -d
+   ```
+   This will start:
+   - **MongoDB** (port 27017) - Document storage for linguistic content
+   - **Weaviate** (port 8080) - Vector database for semantic search
+   - **MinIO** (port 9000/9001) - Object storage for assets and media
+
+4. **Run the demo script:**
+   ```bash
+   ./scripts/demo.sh
+   ```
+   Or use the CLI directly:
+   ```bash
+   python main.py --help
+   ```
+
+### Available CLI Commands
+
+- `python main.py setup` - Initialize database schemas and storage buckets
+- `python main.py ingest <directory>` - Ingest markdown files into the knowledge base
+- `python main.py query <criteria>` - Query documents by metadata
+- `python main.py semantic-search <query>` - Perform semantic search using embeddings
+- `python main.py update <criteria> --updates <changes>` - Bulk update documents
+- `python main.py delete <document_id>` - Soft delete documents
+- `python main.py undelete <document_id>` - Restore deleted documents
+
+### Database Architecture
+
+- **MongoDB**: Stores structured linguistic content with metadata
+- **Weaviate**: Provides vector search capabilities for semantic queries
+- **MinIO**: Manages assets like images, diagrams, and media files
+
+### Example Workflows
+
+1. **Semantic Search**: Find content related to specific linguistic concepts
+2. **Metadata Queries**: Filter content by tags, difficulty level, or topic
+3. **Content Management**: Add, update, or organize linguistic resources
+4. **Asset Management**: Store and retrieve multimedia educational content
+
 ## Contribution
 
 Contributions to this repository are welcome! If you have suggestions, corrections, or new content to add, please feel free to create a pull request or reach out.
